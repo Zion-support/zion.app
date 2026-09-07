@@ -1,0 +1,23 @@
+[
+  {
+    "email": "contato@empresa1.com.br",
+    "name": "João Silva",
+    "company": "Empresa 1",
+    "role": "CTO",
+    "personal_note": "Vi que vocês migraram para AWS recentemente."
+  },
+  {
+    "email": "hello@empresa2.com",
+    "name": "Maria Santos",
+    "company": "Empresa 2",
+    "role": "Head de Operações",
+    "personal_note": "Artigo seu no LinkedIn sobre redução de custos em infra."
+  },
+  {
+    "email": "cto@startupbrasil.io",
+    "name": "Pedro Almeida",
+    "company": "StartupBrasil",
+    "role": "CEO",
+    "personal_note": "Participaram do mesmo accelerator que um de nossos clientes."
+  }
+]

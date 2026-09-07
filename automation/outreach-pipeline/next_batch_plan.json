@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-09-01T12:31:54.113358",
+  "total_pending": 6,
+  "qualified": 3,
+  "items": [
+    {
+      "empresa": "Beep Saúde",
+      "email": "tecnologia@beepsaude.com.br",
+      "domain": "beep.saude.com.br",
+      "priority": "alta",
+      "is_generic": false,
+      "all_emails": [
+        "John.Doe@beepsaude.com.br",
+        "r@grupobrmed.com.br",
+        "First.Last@beepsaude.com.br",
+        "tecnologia@beepsaude.com.br"
+      ]
+    },
+    {
+      "empresa": "Bliss Health",
+      "email": "FLast@blisshs.com",
+      "domain": "bliss.health",
+      "priority": "alta",
+      "is_generic": false,
+      "all_emails": [
+        "FLast@blisshs.com"
+      ]
+    },
+    {
+      "empresa": "Prodam SP (Governo do Estado)",
+      "email": "prodam@prodam.sp.gov.br",
+      "domain": "prodam.sp.gov.br",
+      "priority": "alta",
+      "is_generic": false,
+      "all_emails": [
+        "prodam@prodam.sp.gov.br",
+        "SOLUCOES@PRODAM.SP.GOV.BR",
+        "ricardo.araujo@omidsolutions.com",
+        "ouvidoria@prodam.sp.gov.br",
+        "o@prodam.sp.gov.br",
+        "evertonandrade@PRODAM.SP.GOV.BR"
+      ]
+    }
+  ]
+}

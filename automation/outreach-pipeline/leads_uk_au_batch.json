@@ -1,0 +1,58 @@
+[
+  {
+    "email": "contact@redsquid.co.uk",
+    "name": "Redsquid",
+    "company": "Redsquid",
+    "role": "MSSP Director",
+    "personal_note": "Hertfordshire-based MSSP delivering IT, cloud, connectivity and cyber security. 18 acquisitions in 18 months shows rapid growth."
+  },
+  {
+    "email": "contact@fifosys.com",
+    "name": "Fifosys",
+    "company": "Fifosys",
+    "role": "Managing Director",
+    "personal_note": "London-based managed IT services provider delivering outsourced IT support, cloud computing, cyber security and infrastructure management to SMEs."
+  },
+  {
+    "email": "contact@boldit.co.uk",
+    "name": "Bold IT",
+    "company": "Bold IT",
+    "role": "Director",
+    "personal_note": "Tamworth-based MSP delivering IT support, cyber security and business communications. Identified as one of UK's fastest-growing managed IT services companies."
+  },
+  {
+    "email": "contact@dynamicnetworksgroup.co.uk",
+    "name": "Dynamic Networks Group",
+    "company": "Dynamic Networks Group",
+    "role": "Managing Director",
+    "personal_note": "Leeds-based MSP specialising in IT support, cyber security, networks and infrastructure for businesses across the UK."
+  },
+  {
+    "email": "contact@sisl.global",
+    "name": "Sisl Infotech (UK)",
+    "company": "Sisl Infotech (UK) Ltd",
+    "role": "Director",
+    "personal_note": "Managed provider and value-added reseller delivering data centre and cloud solutions, network connectivity and security services across the UK."
+  },
+  {
+    "email": "contact@cybercx.com.au",
+    "name": "CyberCX",
+    "company": "CyberCX",
+    "role": "CEO",
+    "personal_note": "Australia's leading cyber security and cloud company. Australian-focused MDR, security operations, advisory and professional services for government and enterprise."
+  },
+  {
+    "email": "contact@gridware.com.au",
+    "name": "Gridware",
+    "company": "Gridware",
+    "role": "Founder",
+    "personal_note": "Sydney-based specialist cybersecurity company operating across Sydney, Melbourne, Brisbane, Adelaide and Perth. One of Australia's most trusted cybersecurity providers."
+  },
+  {
+    "email": "contact@intellectit.com.au",
+    "name": "Intellect IT",
+    "company": "Intellect IT",
+    "role": "Director",
+    "personal_note": "Melbourne-based managed IT services provider with 23+ years supporting Victorian businesses. Microsoft Gold and Fortinet Certified. ACSC Essential Eight compliance focus."
+  }
+]

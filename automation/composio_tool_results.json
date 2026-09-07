@@ -1,0 +1,210 @@
+{
+  "resend": {
+    "data": [
+      {
+        "created_at": "2026-09-01 05:59:45.018405+00",
+        "email": "anne.mcclelland@tsia.com",
+        "first_name": "Anne",
+        "id": "da585a7f-0f63-46b9-8093-1ab552055fdc",
+        "last_name": "Mcclelland",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 05:57:24.678342+00",
+        "email": "probe-zion@ziontechgroup.com",
+        "first_name": null,
+        "id": "8cc43f34-52bf-4ade-9d25-62feb3e08ceb",
+        "last_name": null,
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 05:12:25.632006+00",
+        "email": "steve@reddit.com",
+        "first_name": "Steve",
+        "id": "5d36d816-b44f-4ee7-963c-358bc610fa94",
+        "last_name": "Huffman",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 05:12:22.703015+00",
+        "email": "victoria@reddit.com",
+        "first_name": "Victoria",
+        "id": "4b9ce968-e6d8-4b23-8d1e-675a516b83eb",
+        "last_name": "Taylor",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 05:12:19.997812+00",
+        "email": "neil@reddit.com",
+        "first_name": "Neil",
+        "id": "fe1276da-31fa-4307-beae-c2d1dc7413a7",
+        "last_name": "Marti",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 05:12:17.439324+00",
+        "email": "george.humphrey@tsia.com",
+        "first_name": "George",
+        "id": "c015a369-51c5-47b1-8b1d-f3c24fd0b1ef",
+        "last_name": "Humphrey",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 04:06:14.527063+00",
+        "email": "info@callboxinc.com",
+        "first_name": null,
+        "id": "32478eba-439d-49fb-a434-108902d9acf2",
+        "last_name": null,
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 04:06:10.715088+00",
+        "email": "sales@callboxinc.com",
+        "first_name": null,
+        "id": "914b04d2-9cb0-46bb-8979-41cfcaf0633a",
+        "last_name": null,
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 04:06:07.53524+00",
+        "email": "abhijit.trasi@kyndryl.com",
+        "first_name": "Abhijit",
+        "id": "f36ea7a3-f01c-40dc-8f8e-0847d9fc0e84",
+        "last_name": "Trasi",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 04:06:04.404706+00",
+        "email": "sofia.vera@kyndryl.com",
+        "first_name": "Sofia",
+        "id": "7e11bf7e-7f6d-46e0-af57-98be2c7be0e4",
+        "last_name": "Vera",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 04:05:55.958513+00",
+        "email": "kanchana.ramamurthi@pwc.com",
+        "first_name": "Kanchana",
+        "id": "fca25a2b-d3af-4323-a5ef-23be5be366d4",
+        "last_name": "Ramamurthi",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 04:05:53.423344+00",
+        "email": "victoria.bubb@pwc.com",
+        "first_name": "Victoria",
+        "id": "7b1557c3-c450-47ab-b987-0127a803360f",
+        "last_name": "Bubb",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 04:03:47.714546+00",
+        "email": "monisha.nariani@ibm.com",
+        "first_name": "Monisha",
+        "id": "22085c6e-6bcb-4d62-994c-711b3bbc8df9",
+        "last_name": "Nariani",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 04:03:45.260045+00",
+        "email": "kaleb@nops.io",
+        "first_name": "Kaleb",
+        "id": "6028d4d2-3bc2-4677-a409-bcb3156a5e6c",
+        "last_name": "Carmack",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 04:03:42.605201+00",
+        "email": "jtgiri@nops.io",
+        "first_name": "Jt",
+        "id": "64e1e8b9-2a29-44e5-80a5-5aff73c45660",
+        "last_name": "Giri",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 04:00:31.80369+00",
+        "email": "amruta.kharnal@beyondkey.com",
+        "first_name": "Amruta",
+        "id": "a0f83528-985f-4b87-8157-f67cc3d7b189",
+        "last_name": "Kharnal",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 04:00:28.25895+00",
+        "email": "milin.dholakia@beyondkey.com",
+        "first_name": "Milin",
+        "id": "7b2599e2-68b7-4720-a2ba-035f60e4906e",
+        "last_name": "Dholakia",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 04:00:21.907768+00",
+        "email": "rosemary.monroe@cgi.com",
+        "first_name": "Rosemary",
+        "id": "5678d4df-8e1e-4085-9bec-05431b285ca7",
+        "last_name": "Monroe",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 04:00:18.166213+00",
+        "email": "laurent.hessel@cgi.com",
+        "first_name": "Laurent",
+        "id": "768b40a9-b978-4b39-94d2-bbc229e7a078",
+        "last_name": "Hessel",
+        "unsubscribed": false
+      },
+      {
+        "created_at": "2026-09-01 04:00:14.659198+00",
+        "email": "alvaro.prieto@auxis.com",
+        "first_name": "Alvaro",
+        "id": "1477b6ef-6345-4dc7-9cd4-7f02de2895b7",
+        "last_name": "Prieto",
+        "unsubscribed": false
+      }
+    ],
+    "has_more": true,
+    "object": "list"
+  },
+  "resend_templates": {
+    "data": [
+      {
+        "alias": "zion-aiit-discovery-follow-up-3",
+        "created_at": "2026-09-01 04:40:48.759881+00",
+        "id": "0b8108a9-9007-4e0a-8ed4-cd1ac0f8603b",
+        "name": "Zion AI/IT Discovery Follow-up",
+        "published_at": null,
+        "status": "draft",
+        "updated_at": "2026-09-01 04:40:48.904+00"
+      },
+      {
+        "alias": "zion-aiit-discovery-follow-up-2",
+        "created_at": "2026-09-01 04:21:47.457377+00",
+        "id": "5d9b0dfd-341b-4493-a2e5-8fe795f479cd",
+        "name": "Zion AI/IT Discovery Follow-up",
+        "published_at": null,
+        "status": "draft",
+        "updated_at": "2026-09-01 04:21:47.475+00"
+      },
+      {
+        "alias": "zion-aiit-discovery-follow-up-1",
+        "created_at": "2026-09-01 03:51:04.823385+00",
+        "id": "ee55dcc2-110d-429c-b1f3-b8690052859e",
+        "name": "Zion AI/IT Discovery Follow-up",
+        "published_at": null,
+        "status": "draft",
+        "updated_at": "2026-09-01 03:51:04.857+00"
+      },
+      {
+        "alias": "zion-aiit-discovery-follow-up",
+        "created_at": "2026-09-01 03:42:47.784976+00",
+        "id": "f21cbb24-5e5a-4636-b1c3-7e8c56d0c391",
+        "name": "Zion AI/IT Discovery Follow-up",
+        "published_at": null,
+        "status": "draft",
+        "updated_at": "2026-09-01 03:42:47.836+00"
+      }
+    ],
+    "has_more": false,
+    "object": "list"
+  }
+}

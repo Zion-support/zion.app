@@ -1,0 +1,50 @@
+=== LEAD-OUTREACH HEALTH SNAPSHOT ===
+Timestamp: 2026-09-04T05:50:55+00:00
+
+--- LIVE METRICS (from outreach-log.jsonl) ---
+totalRuns: 80
+sendsAttempted: 0
+duplicatesSuppressed: 0
+authFailures: 0
+hotFollowups: 0
+latestComplete: 2026-09-04T05:50:55.139885+00:00
+potentialClients: 5
+canonicalCompleteEvents: 80
+scanned: 501
+
+--- STATE ---
+status: active/working
+gmailAuth: false
+sendEnabled: false
+
+--- STAGNANT POOL (5 addresses, all suppressed by 7-day dedupe) ---
+bernard@awaz.pro
+spmsuvadcomunicaservicos8@correios.com.br
+sales@luxortek.com
+admin1@everkerr.com
+falecom@portaldecompraspublicas.com.br
+
+--- SEND PATH ---
+Canonical send path NOT wired up. 0 sends across all 80 complete events since log recreation (2026-09-03T12:40:57).
+Legacy direct-send topology bypasses canonical pipeline: 343 sends, 342 identical "Parceria Zion Tech Group" subject, 143 unique recipients, 95 domains, no cross-window dedupe.
+
+--- SCAN PIPELINE ---
+Healthy: 80 consecutive complete events, scanned=501 every run, no errors, no auth failures.
+
+--- HOT-FOLLOW-UP ---
+No active threads (label:!!!hot-follow-up returned no results).
+No CEO draft generated (gmailAuth=false, sendEnabled=false, no live threads).
+
+--- RECOMMENDATIONS ---
+1. Canonical send path not wired up — discovered leads do not convert to outreach (0 sends across all 80 complete events).
+2. Same 5-address stagnant pool persists — all suppressed by 7-day dedupe window.
+3. No suppression hits recorded (duplicatesSuppressed=0) because sendEnabled=false and gmailAuth=false — sends never leave the scanner.
+4. Scan pipeline healthy and operational (80 consecutive complete events, scanned=501 every run).
+5. Do NOT tune suppression window, prompt wording, or scoring — the blocker is send-path integration (gmailAuth+sendEnabled both false), not suppression or scoring.
+6. Legacy direct-send topology (343 sends, 342 identical subject, 143 unique recipients, 95 domains) continues to bypass canonical pipeline.
+7. To convert discovered leads into outreach: enable gmailAuth + sendEnabled and wire up canonical send path, or migrate legacy sends into canonical pipeline with cross-window dedupe.
+
+--- VERIFIER ---
+computed == expected (all numeric metrics match live files).
+Status: active/working — verifier exit 1 is status-gate false positive (hard-coded gate requires blocked/auth-missing).
+Terminal state confirmed: metrics patched in place, no duplicate digest appended, no pre-patch baseline run.

@@ -1,0 +1,752 @@
+[
+  {
+    "service_category": "ai_automation",
+    "repo_name": "workflow-builder-template",
+    "repo_url": "https://github.com/vercel-labs/workflow-builder-template",
+    "description": "Visual AI workflow automation platform",
+    "stars": 1196,
+    "language": "TypeScript",
+    "owner": "vercel-labs",
+    "updated": "2026-09-01T19:33:41Z"
+  },
+  {
+    "service_category": "ai_automation",
+    "repo_name": "activepieces",
+    "repo_url": "https://github.com/activepieces/activepieces",
+    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+    "stars": 24250,
+    "language": "TypeScript",
+    "owner": "activepieces",
+    "updated": "2026-09-04T17:33:05Z"
+  },
+  {
+    "service_category": "ai_automation",
+    "repo_name": "Hexabot",
+    "repo_url": "https://github.com/hexabot-ai/Hexabot",
+    "description": "Hexabot v3 is an AI workflow automation platform, combining workflows, actions, agents, and conversational channels in one runtime.",
+    "stars": 1208,
+    "language": "TypeScript",
+    "owner": "hexabot-ai",
+    "updated": "2026-09-04T16:02:59Z"
+  },
+  {
+    "service_category": "ai_automation",
+    "repo_name": "oh-my-taiyiforge",
+    "repo_url": "https://github.com/Dong90/oh-my-taiyiforge",
+    "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
+    "stars": 887,
+    "language": "TypeScript",
+    "owner": "Dong90",
+    "updated": "2026-09-01T09:56:17Z"
+  },
+  {
+    "service_category": "ai_automation",
+    "repo_name": "ai-git-bot",
+    "repo_url": "https://github.com/tmseidel/ai-git-bot",
+    "description": "The self-hosted AI workflow automation platform for Git repositories.",
+    "stars": 155,
+    "language": "Java",
+    "owner": "tmseidel",
+    "updated": "2026-09-04T09:11:42Z"
+  },
+  {
+    "service_category": "ai_automation",
+    "repo_name": "AI-Workflow-Automations",
+    "repo_url": "https://github.com/fares-automation/AI-Workflow-Automations",
+    "description": "A collection of Make.com (Integromat) automations designed to streamline business workflows like lead management, onboarding, hiring, and scheduling. Boost efficiency, reduce manual work, and improve ",
+    "stars": 16,
+    "language": "N/A",
+    "owner": "fares-automation",
+    "updated": "2026-08-05T07:03:20Z"
+  },
+  {
+    "service_category": "ai_automation",
+    "repo_name": "agentic-config",
+    "repo_url": "https://github.com/WaterplanAI/agentic-config",
+    "description": "Project-agnostic, composable AI workflow automation via pi packages and Claude Code plugins.",
+    "stars": 30,
+    "language": "Python",
+    "owner": "WaterplanAI",
+    "updated": "2026-08-20T09:46:09Z"
+  },
+  {
+    "service_category": "ai_automation",
+    "repo_name": "claude-skills",
+    "repo_url": "https://github.com/inbharatai/claude-skills",
+    "description": "Curated Claude and Codex skill collection for local AI workflows, automation, research, and product-building.",
+    "stars": 33,
+    "language": "Python",
+    "owner": "inbharatai",
+    "updated": "2026-09-02T16:03:00Z"
+  },
+  {
+    "service_category": "ai_automation",
+    "repo_name": "workshops",
+    "repo_url": "https://github.com/ansible/workshops",
+    "description": "Training Course for Ansible Automation Platform",
+    "stars": 1867,
+    "language": "Jinja",
+    "owner": "ansible",
+    "updated": "2026-09-01T22:05:36Z"
+  },
+  {
+    "service_category": "ai_automation",
+    "repo_name": "n8n",
+    "repo_url": "https://github.com/n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "stars": 203331,
+    "language": "TypeScript",
+    "owner": "n8n-io",
+    "updated": "2026-09-04T18:09:02Z"
+  },
+  {
+    "service_category": "ai_automation",
+    "repo_name": "PatchMon",
+    "repo_url": "https://github.com/PatchMon/PatchMon",
+    "description": "Linux Patch Management & Automation Platform",
+    "stars": 3317,
+    "language": "Go",
+    "owner": "PatchMon",
+    "updated": "2026-09-04T14:51:53Z"
+  },
+  {
+    "service_category": "ai_automation",
+    "repo_name": "majordomo",
+    "repo_url": "https://github.com/sergejey/majordomo",
+    "description": "Home automation platform",
+    "stars": 405,
+    "language": "PHP",
+    "owner": "sergejey",
+    "updated": "2026-08-29T15:15:22Z"
+  },
+  {
+    "service_category": "ai_automation",
+    "repo_name": "libretime",
+    "repo_url": "https://github.com/libretime/libretime",
+    "description": "LibreTime: Radio Broadcast & Automation Platform",
+    "stars": 942,
+    "language": "PHP",
+    "owner": "libretime",
+    "updated": "2026-09-02T14:25:16Z"
+  },
+  {
+    "service_category": "ai_automation",
+    "repo_name": "nautobot",
+    "repo_url": "https://github.com/nautobot/nautobot",
+    "description": "Network Source of Truth & Network Automation Platform",
+    "stars": 1593,
+    "language": "Python",
+    "owner": "nautobot",
+    "updated": "2026-09-04T00:49:16Z"
+  },
+  {
+    "service_category": "ai_automation",
+    "repo_name": "glu",
+    "repo_url": "https://github.com/pongasoft/glu",
+    "description": "Deployment Automation Platform",
+    "stars": 519,
+    "language": "Groovy",
+    "owner": "pongasoft",
+    "updated": "2026-03-07T21:50:45Z"
+  },
+  {
+    "service_category": "cloud_migration",
+    "repo_name": "coriolis",
+    "repo_url": "https://github.com/cloudbase/coriolis",
+    "description": "Cloud Migration as a Service",
+    "stars": 130,
+    "language": "Python",
+    "owner": "cloudbase",
+    "updated": "2026-09-04T13:24:12Z"
+  },
+  {
+    "service_category": "cloud_migration",
+    "repo_name": "cloud-migration-factory-on-aws",
+    "repo_url": "https://github.com/aws-solutions/cloud-migration-factory-on-aws",
+    "description": "The Cloud Migration Factory on AWS solution is designed to coordinate and automate manual processes for large-scale migrations. This solution helps enterprises improve performance and prevents long cu",
+    "stars": 88,
+    "language": "Python",
+    "owner": "aws-solutions",
+    "updated": "2026-09-02T22:33:41Z"
+  },
+  {
+    "service_category": "cloud_migration",
+    "repo_name": "Magento-Linux-Installation",
+    "repo_url": "https://github.com/Genaker/Magento-Linux-Installation",
+    "description": "Adobe Magento Commerce Cloud to AWS Cloud Migration toolkit",
+    "stars": 60,
+    "language": "Shell",
+    "owner": "Genaker",
+    "updated": "2026-02-21T06:58:35Z"
+  },
+  {
+    "service_category": "cloud_migration",
+    "repo_name": "oci-cloud-migrations",
+    "repo_url": "https://github.com/oracle-quickstart/oci-cloud-migrations",
+    "description": "Oracle Cloud Migrations Service",
+    "stars": 16,
+    "language": "Python",
+    "owner": "oracle-quickstart",
+    "updated": "2026-07-20T22:33:16Z"
+  },
+  {
+    "service_category": "cloud_migration",
+    "repo_name": "migration-manager",
+    "repo_url": "https://github.com/FuturFusion/migration-manager",
+    "description": "FuturFusion Cloud Migration Manager",
+    "stars": 37,
+    "language": "Go",
+    "owner": "FuturFusion",
+    "updated": "2026-09-04T17:16:56Z"
+  },
+  {
+    "service_category": "cloud_migration",
+    "repo_name": "python-coriolisclient",
+    "repo_url": "https://github.com/cloudbase/python-coriolisclient",
+    "description": "Cloud Migration as a Service",
+    "stars": 5,
+    "language": "Python",
+    "owner": "cloudbase",
+    "updated": "2026-08-13T15:56:19Z"
+  },
+  {
+    "service_category": "cloud_migration",
+    "repo_name": "Automated-Data-Pipeline-for-Cloud-Migration",
+    "repo_url": "https://github.com/CyberNexusX/Automated-Data-Pipeline-for-Cloud-Migration",
+    "description": "A scalable ETL pipeline solution for seamless migration of large datasets from on-premises to Azure cloud storage. Built with Azure Data Factory, Python, SQL, and Terraform, this project optimizes bot",
+    "stars": 23,
+    "language": "Python",
+    "owner": "CyberNexusX",
+    "updated": "2026-07-16T19:25:57Z"
+  },
+  {
+    "service_category": "cloud_migration",
+    "repo_name": "aem-cloud-migration",
+    "repo_url": "https://github.com/adobe/aem-cloud-migration",
+    "description": "",
+    "stars": 18,
+    "language": "Java",
+    "owner": "adobe",
+    "updated": "2025-12-08T16:53:58Z"
+  },
+  {
+    "service_category": "cloud_migration",
+    "repo_name": "opentofu",
+    "repo_url": "https://github.com/opentofu/opentofu",
+    "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+    "stars": 30059,
+    "language": "Go",
+    "owner": "opentofu",
+    "updated": "2026-09-04T17:46:47Z"
+  },
+  {
+    "service_category": "cloud_migration",
+    "repo_name": "terraform-provider-oci",
+    "repo_url": "https://github.com/oracle/terraform-provider-oci",
+    "description": "Terraform Oracle Cloud Infrastructure provider",
+    "stars": 869,
+    "language": "Go",
+    "owner": "oracle",
+    "updated": "2026-09-02T07:18:19Z"
+  },
+  {
+    "service_category": "cloud_migration",
+    "repo_name": "aws-cdk",
+    "repo_url": "https://github.com/aws/aws-cdk",
+    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "stars": 12885,
+    "language": "TypeScript",
+    "owner": "aws",
+    "updated": "2026-09-04T15:07:51Z"
+  },
+  {
+    "service_category": "cloud_migration",
+    "repo_name": "oci-python-sdk",
+    "repo_url": "https://github.com/oracle/oci-python-sdk",
+    "description": "Oracle Cloud Infrastructure SDK for Python",
+    "stars": 475,
+    "language": "Python",
+    "owner": "oracle",
+    "updated": "2026-09-01T05:15:29Z"
+  },
+  {
+    "service_category": "cloud_migration",
+    "repo_name": "oci-cli",
+    "repo_url": "https://github.com/oracle/oci-cli",
+    "description": "Command Line Interface for Oracle Cloud Infrastructure",
+    "stars": 663,
+    "language": "Python",
+    "owner": "oracle",
+    "updated": "2026-09-01T19:20:18Z"
+  },
+  {
+    "service_category": "cloud_migration",
+    "repo_name": "zsvirt",
+    "repo_url": "https://github.com/ZSvirt/zsvirt",
+    "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+    "stars": 1578,
+    "language": "Java",
+    "owner": "ZSvirt",
+    "updated": "2026-09-04T17:18:33Z"
+  },
+  {
+    "service_category": "cloud_migration",
+    "repo_name": "oci-java-sdk",
+    "repo_url": "https://github.com/oracle/oci-java-sdk",
+    "description": "Oracle Cloud Infrastructure SDK for Java",
+    "stars": 242,
+    "language": "Java",
+    "owner": "oracle",
+    "updated": "2026-09-01T18:19:49Z"
+  },
+  {
+    "service_category": "cybersecurity",
+    "repo_name": "crowdsec-docs",
+    "repo_url": "https://github.com/crowdsecurity/crowdsec-docs",
+    "description": "CrowdSec Documentation: Comprehensive guides, tutorials, and references for installing, configuring, and using CrowdSec, an open-source cybersecurity platform. Contributions welcome!",
+    "stars": 51,
+    "language": "MDX",
+    "owner": "crowdsecurity",
+    "updated": "2026-09-02T13:25:03Z"
+  },
+  {
+    "service_category": "cybersecurity",
+    "repo_name": "openkai",
+    "repo_url": "https://github.com/openafw/openkai",
+    "description": "Open-Source Agentic AI Cybersecurity Platform",
+    "stars": 18,
+    "language": "TypeScript",
+    "owner": "openafw",
+    "updated": "2026-06-27T14:04:20Z"
+  },
+  {
+    "service_category": "cybersecurity",
+    "repo_name": "ai-threat-intelligence-system",
+    "repo_url": "https://github.com/mianumairx/ai-threat-intelligence-system",
+    "description": "AI-powered cybersecurity platform for CVE analysis, vulnerability intelligence, and risk assessment across applications and infrastructure.",
+    "stars": 4,
+    "language": "Python",
+    "owner": "mianumairx",
+    "updated": "2026-08-27T09:38:24Z"
+  },
+  {
+    "service_category": "cybersecurity",
+    "repo_name": "IBLU_KALIGPTWITHMCP",
+    "repo_url": "https://github.com/iblu23/IBLU_KALIGPTWITHMCP",
+    "description": "IBLU Professional Hacking Assistant - AI-Powered Cybersecurity Platform ",
+    "stars": 16,
+    "language": "Python",
+    "owner": "iblu23",
+    "updated": "2026-07-16T17:11:26Z"
+  },
+  {
+    "service_category": "cybersecurity",
+    "repo_name": "AEGIS",
+    "repo_url": "https://github.com/alejadxr/AEGIS",
+    "description": "Open-source autonomous cybersecurity platform — 11/11 detection score, sub-300ms pipeline, honeypot deception, breadcrumb traps, AI-powered triage, and Rust endpoint agent. Built to replace Wazuh.",
+    "stars": 33,
+    "language": "TypeScript",
+    "owner": "alejadxr",
+    "updated": "2026-09-01T04:07:37Z"
+  },
+  {
+    "service_category": "cybersecurity",
+    "repo_name": "huntress-mcp",
+    "repo_url": "https://github.com/WYRE-AI/huntress-mcp",
+    "description": "MCP server for the Huntress cybersecurity platform",
+    "stars": 1,
+    "language": "TypeScript",
+    "owner": "WYRE-AI",
+    "updated": "2026-09-03T13:06:33Z"
+  },
+  {
+    "service_category": "cybersecurity",
+    "repo_name": "CyberX-AI-Digital-Twin",
+    "repo_url": "https://github.com/createunique/CyberX-AI-Digital-Twin",
+    "description": "CyberX-AI-Digital-Twin is an AI-powered cybersecurity platform that uses digital twin technology to simulate, detect, and analyze cyber threats in a safe, isolated environment. Ideal for researchers, ",
+    "stars": 18,
+    "language": "Python",
+    "owner": "createunique",
+    "updated": "2026-08-09T23:17:54Z"
+  },
+  {
+    "service_category": "cybersecurity",
+    "repo_name": "shadow-wall",
+    "repo_url": "https://github.com/yashab-cyber/shadow-wall",
+    "description": "ShadowWall AI is a cutting-edge, enterprise-grade cybersecurity platform that employs artificial intelligence, machine learning, and advanced deception techniques to provide comprehensive protection a",
+    "stars": 12,
+    "language": "Python",
+    "owner": "yashab-cyber",
+    "updated": "2026-07-04T21:08:33Z"
+  },
+  {
+    "service_category": "cybersecurity",
+    "repo_name": "awesome-threat-detection",
+    "repo_url": "https://github.com/0x4D31/awesome-threat-detection",
+    "description": "✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️",
+    "stars": 4721,
+    "language": "N/A",
+    "owner": "0x4D31",
+    "updated": "2026-09-04T02:00:21Z"
+  },
+  {
+    "service_category": "cybersecurity",
+    "repo_name": "fibratus",
+    "repo_url": "https://github.com/rabbitstack/fibratus",
+    "description": "Security sensor for realtime threat detection and protection",
+    "stars": 2539,
+    "language": "Go",
+    "owner": "rabbitstack",
+    "updated": "2026-09-03T19:18:06Z"
+  },
+  {
+    "service_category": "cybersecurity",
+    "repo_name": "awesome-kubernetes-threat-detection",
+    "repo_url": "https://github.com/jatrost/awesome-kubernetes-threat-detection",
+    "description": "A curated list of resources about detecting threats and defending Kubernetes systems.",
+    "stars": 412,
+    "language": "N/A",
+    "owner": "jatrost",
+    "updated": "2026-08-29T18:11:16Z"
+  },
+  {
+    "service_category": "cybersecurity",
+    "repo_name": "OpenThreatDetection",
+    "repo_url": "https://github.com/IterateAI/OpenThreatDetection",
+    "description": "Iterate.ai has open-sourced a powerful Weapons Detection AI software. The AI was trained on about 100 live guns, plus 20,000 videos of robberies and threats involving weapons. Our engineers taught the",
+    "stars": 83,
+    "language": "PureBasic",
+    "owner": "IterateAI",
+    "updated": "2026-08-31T01:41:03Z"
+  },
+  {
+    "service_category": "cybersecurity",
+    "repo_name": "tirreno",
+    "repo_url": "https://github.com/tirrenotechnologies/tirreno",
+    "description": "tirreno is a security framework. Event tracking, threat detection, and risk scoring for any product.",
+    "stars": 1507,
+    "language": "PHP",
+    "owner": "tirrenotechnologies",
+    "updated": "2026-09-03T16:09:43Z"
+  },
+  {
+    "service_category": "cybersecurity",
+    "repo_name": "Practical-Threat-Detection-Engineering",
+    "repo_url": "https://github.com/PacktPublishing/Practical-Threat-Detection-Engineering",
+    "description": "Practical Threat Detection Engineering, Published by Packt",
+    "stars": 96,
+    "language": "N/A",
+    "owner": "PacktPublishing",
+    "updated": "2026-08-31T23:46:44Z"
+  },
+  {
+    "service_category": "cybersecurity",
+    "repo_name": "ADR",
+    "repo_url": "https://github.com/uber/ADR",
+    "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+    "stars": 1533,
+    "language": "Python",
+    "owner": "uber",
+    "updated": "2026-09-04T06:25:29Z"
+  },
+  {
+    "service_category": "it_consulting_smb",
+    "repo_name": "myportorizki10",
+    "repo_url": "https://github.com/md12kiday/myportorizki10",
+    "description": "My Portopolio IT Manage Service",
+    "stars": 0,
+    "language": "CSS",
+    "owner": "md12kiday",
+    "updated": "2025-08-20T09:09:52Z"
+  },
+  {
+    "service_category": "it_consulting_smb",
+    "repo_name": "habl-managed-services",
+    "repo_url": "https://github.com/sumocoder22/habl-managed-services",
+    "description": "Habl - IT Managed Services Provider",
+    "stars": 1,
+    "language": "HTML",
+    "owner": "sumocoder22",
+    "updated": "2023-04-23T06:08:08Z"
+  },
+  {
+    "service_category": "it_consulting_smb",
+    "repo_name": "Triac-solutions",
+    "repo_url": "https://github.com/akramkhan01021990/Triac-solutions",
+    "description": "IT Managed services, IT staffing ,Networking",
+    "stars": 0,
+    "language": "N/A",
+    "owner": "akramkhan01021990",
+    "updated": "2020-09-20T14:39:05Z"
+  },
+  {
+    "service_category": "it_consulting_smb",
+    "repo_name": "clueforit",
+    "repo_url": "https://github.com/realboxofme/clueforit",
+    "description": "IT Managed Services and Business Digital Services",
+    "stars": 0,
+    "language": "HTML",
+    "owner": "realboxofme",
+    "updated": "2026-07-15T16:57:47Z"
+  },
+  {
+    "service_category": "it_consulting_smb",
+    "repo_name": "NodefusionMSP.UserManual",
+    "repo_url": "https://github.com/Nodefusion/NodefusionMSP.UserManual",
+    "description": "Nodefusion IT Managed Service Provider User Manual",
+    "stars": 0,
+    "language": "JavaScript",
+    "owner": "Nodefusion",
+    "updated": "2026-08-31T07:08:19Z"
+  },
+  {
+    "service_category": "it_consulting_smb",
+    "repo_name": "landing-pages",
+    "repo_url": "https://github.com/KeithMino/landing-pages",
+    "description": "Mino IT Managed Services - Marketing Landing Pages",
+    "stars": 0,
+    "language": "TypeScript",
+    "owner": "KeithMino",
+    "updated": "2026-02-11T02:19:21Z"
+  },
+  {
+    "service_category": "it_consulting_smb",
+    "repo_name": "evolution-it-website",
+    "repo_url": "https://github.com/johnrochie/evolution-it-website",
+    "description": "Evolution IT Managed Services Website - Professional IT services company website",
+    "stars": 0,
+    "language": "TypeScript",
+    "owner": "johnrochie",
+    "updated": "2026-03-01T12:20:23Z"
+  },
+  {
+    "service_category": "it_consulting_smb",
+    "repo_name": "IT-Managed-Services",
+    "repo_url": "https://github.com/duggalarmaan/IT-Managed-Services",
+    "description": "",
+    "stars": 0,
+    "language": "HTML",
+    "owner": "duggalarmaan",
+    "updated": "2023-05-04T20:15:17Z"
+  },
+  {
+    "service_category": "it_consulting_smb",
+    "repo_name": "clientst0r",
+    "repo_url": "https://github.com/agit8or1/clientst0r",
+    "description": "Open-source self-hosted MSP platform — IT documentation + native PSA / service desk + workflow engine. Tickets, projects, contracts, quotes, invoices, vault, KB, distributors, AI assist, customer port",
+    "stars": 72,
+    "language": "Python",
+    "owner": "agit8or1",
+    "updated": "2026-09-04T12:47:29Z"
+  },
+  {
+    "service_category": "it_consulting_smb",
+    "repo_name": "MSPowerPlatform",
+    "repo_url": "https://github.com/suyashmalviya/MSPowerPlatform",
+    "description": "I will store my Microsoft Power Platform work here.",
+    "stars": 0,
+    "language": "N/A",
+    "owner": "suyashmalviya",
+    "updated": "2021-06-02T07:29:33Z"
+  },
+  {
+    "service_category": "it_consulting_smb",
+    "repo_name": "MSPowerPlatform",
+    "repo_url": "https://github.com/Ostry7/MSPowerPlatform",
+    "description": "",
+    "stars": 0,
+    "language": "N/A",
+    "owner": "Ostry7",
+    "updated": "2025-09-22T09:24:54Z"
+  },
+  {
+    "service_category": "it_consulting_smb",
+    "repo_name": "MSPowerPlatform",
+    "repo_url": "https://github.com/Rituparna-Ghanty/MSPowerPlatform",
+    "description": "This repository contains Power Platform projects including Power BI dashboards, Power Apps solutions, and Power Automate flows.",
+    "stars": 0,
+    "language": "N/A",
+    "owner": "Rituparna-Ghanty",
+    "updated": "2025-12-20T05:02:53Z"
+  },
+  {
+    "service_category": "it_consulting_smb",
+    "repo_name": "MSPowerPlatform-Learning",
+    "repo_url": "https://github.com/trungIsOnGithhub/MSPowerPlatform-Learning",
+    "description": "",
+    "stars": 0,
+    "language": "N/A",
+    "owner": "trungIsOnGithhub",
+    "updated": "2024-07-31T14:56:10Z"
+  },
+  {
+    "service_category": "it_consulting_smb",
+    "repo_name": "9ksystems",
+    "repo_url": "https://github.com/9K-Systems-Inc/9ksystems",
+    "description": "MSP platform",
+    "stars": 1,
+    "language": "HTML",
+    "owner": "9K-Systems-Inc",
+    "updated": "2026-05-27T18:27:56Z"
+  },
+  {
+    "service_category": "it_consulting_smb",
+    "repo_name": "9k-product-suite",
+    "repo_url": "https://github.com/nynekontinentz-hypez/9k-product-suite",
+    "description": "Full-MSP-Platform",
+    "stars": 0,
+    "language": "JavaScript",
+    "owner": "nynekontinentz-hypez",
+    "updated": "2026-07-17T16:50:20Z"
+  },
+  {
+    "service_category": "data_ai",
+    "repo_name": "churnometer",
+    "repo_url": "https://github.com/Code-Institute-Solutions/churnometer",
+    "description": "WT02 - Predictive Analytics - Churnometer",
+    "stars": 15,
+    "language": "Jupyter Notebook",
+    "owner": "Code-Institute-Solutions",
+    "updated": "2025-08-30T22:30:11Z"
+  },
+  {
+    "service_category": "data_ai",
+    "repo_name": "palladium",
+    "repo_url": "https://github.com/ottogroup/palladium",
+    "description": "Framework for setting up predictive analytics services",
+    "stars": 493,
+    "language": "Python",
+    "owner": "ottogroup",
+    "updated": "2026-07-09T13:17:34Z"
+  },
+  {
+    "service_category": "data_ai",
+    "repo_name": "Predictive-Analytics-with-TensorFlow",
+    "repo_url": "https://github.com/PacktPublishing/Predictive-Analytics-with-TensorFlow",
+    "description": "Predictive Analytics with TensorFlow, published by Packt",
+    "stars": 83,
+    "language": "Jupyter Notebook",
+    "owner": "PacktPublishing",
+    "updated": "2024-09-05T07:15:11Z"
+  },
+  {
+    "service_category": "data_ai",
+    "repo_name": "Predictive-Analytics-for-Business-Nanodegree",
+    "repo_url": "https://github.com/kaishengteh/Predictive-Analytics-for-Business-Nanodegree",
+    "description": "Kai Sheng Teh - Udacity Predictive Analytics for Business Nanodegree",
+    "stars": 77,
+    "language": "Jupyter Notebook",
+    "owner": "kaishengteh",
+    "updated": "2026-08-01T19:58:01Z"
+  },
+  {
+    "service_category": "data_ai",
+    "repo_name": "mtpa",
+    "repo_url": "https://github.com/mtpa/mtpa",
+    "description": "Modeling Techniques in Predictive Analytics with Python and R",
+    "stars": 67,
+    "language": "R",
+    "owner": "mtpa",
+    "updated": "2026-03-31T09:58:40Z"
+  },
+  {
+    "service_category": "data_ai",
+    "repo_name": "cs109_Fund_Analytics",
+    "repo_url": "https://github.com/rupeshmore85/cs109_Fund_Analytics",
+    "description": "Mutual Funds predictive analytics",
+    "stars": 40,
+    "language": "CSS",
+    "owner": "rupeshmore85",
+    "updated": "2026-08-31T15:10:23Z"
+  },
+  {
+    "service_category": "data_ai",
+    "repo_name": "Hands-On-Predictive-Analytics-with-Python",
+    "repo_url": "https://github.com/PacktPublishing/Hands-On-Predictive-Analytics-with-Python",
+    "description": "Hands-On Predictive Analytics with Python, published by Packt",
+    "stars": 55,
+    "language": "Jupyter Notebook",
+    "owner": "PacktPublishing",
+    "updated": "2026-08-29T18:03:40Z"
+  },
+  {
+    "service_category": "data_ai",
+    "repo_name": "sklearn_pandas_tutorial",
+    "repo_url": "https://github.com/GaelVaroquaux/sklearn_pandas_tutorial",
+    "description": "EuroScipy 2014 tutorial: Introduction to predictive analytics with pandas and scikit-learn",
+    "stars": 86,
+    "language": "Python",
+    "owner": "GaelVaroquaux",
+    "updated": "2026-08-20T23:10:28Z"
+  },
+  {
+    "service_category": "data_ai",
+    "repo_name": "vector",
+    "repo_url": "https://github.com/vectordotdev/vector",
+    "description": "A high-performance observability data pipeline.",
+    "stars": 22511,
+    "language": "Rust",
+    "owner": "vectordotdev",
+    "updated": "2026-09-04T15:15:00Z"
+  },
+  {
+    "service_category": "data_ai",
+    "repo_name": "open-data-pipeline",
+    "repo_url": "https://github.com/helicalinsight/open-data-pipeline",
+    "description": "Open Data Pipeline is an AI powered data migration and data transformation tool",
+    "stars": 406,
+    "language": "Python",
+    "owner": "helicalinsight",
+    "updated": "2026-09-04T15:01:27Z"
+  },
+  {
+    "service_category": "data_ai",
+    "repo_name": "data-pipelines-with-apache-airflow",
+    "repo_url": "https://github.com/BasPH/data-pipelines-with-apache-airflow",
+    "description": "Code for Data Pipelines with Apache Airflow",
+    "stars": 827,
+    "language": "Python",
+    "owner": "BasPH",
+    "updated": "2026-08-28T07:58:40Z"
+  },
+  {
+    "service_category": "data_ai",
+    "repo_name": "data-pipeline-samples",
+    "repo_url": "https://github.com/amazon-archives/data-pipeline-samples",
+    "description": "This repository hosts sample pipelines",
+    "stars": 471,
+    "language": "Python",
+    "owner": "amazon-archives",
+    "updated": "2026-08-27T14:48:01Z"
+  },
+  {
+    "service_category": "data_ai",
+    "repo_name": "prefect",
+    "repo_url": "https://github.com/PrefectHQ/prefect",
+    "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+    "stars": 23780,
+    "language": "Python",
+    "owner": "PrefectHQ",
+    "updated": "2026-09-04T17:47:39Z"
+  },
+  {
+    "service_category": "data_ai",
+    "repo_name": "orchest",
+    "repo_url": "https://github.com/orchest/orchest",
+    "description": "Build data pipelines, the easy way 🛠️",
+    "stars": 4131,
+    "language": "TypeScript",
+    "owner": "orchest",
+    "updated": "2026-09-02T08:25:27Z"
+  },
+  {
+    "service_category": "data_ai",
+    "repo_name": "MIMIC-IV-Data-Pipeline",
+    "repo_url": "https://github.com/healthylaife/MIMIC-IV-Data-Pipeline",
+    "description": "A customizable pipeline for multimodal data extraction from MIMIC-IV!",
+    "stars": 354,
+    "language": "Jupyter Notebook",
+    "owner": "healthylaife",
+    "updated": "2026-08-30T22:57:39Z"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "empresa": "NIST - CAPSS Cybersecurity & Privacy",
+    "site": "https://sam.gov/opp/b6f51248db754570a2860d60347f0151/view",
+    "servico_relevante": "Cybersecurity, Privacy, Software Dev, Business Process Automation",
+    "motivo": "Total Small Business Set-Aside (FAR 19.5). NAICS 541519, $30M size standard. Design/test/deploy software, web apps, automation. Direct small business opportunity.",
+    "origem": "zion_leads_free.csv (nova conversão)",
+    "dominio": "sam.gov",
+    "possiveis_emails": [
+      "contatosam.gov",
+      "infosam.gov",
+      "sacsam.gov",
+      "emailsam.gov",
+      "startupsam.gov"
+    ]
+  },
+  {
+    "empresa": "DoD - Agentic Workload Automation Harness",
+    "site": "https://sam.gov/opp/7ac85dcacf0745e8a1488506c3e4e4f6/view",
+    "servico_relevante": "AI Chat/Assistants, RAG, Workflow Automation, Document Analysis, GenAI",
+    "motivo": "Sources Sought for secure enterprise AI: LLM access, generative AI chat, document summarization, RAG, API integration. DoD cybersecurity requirements. San Antonio place of performance.",
+    "origem": "zion_leads_free.csv (nova conversão)",
+    "dominio": "sam.gov",
+    "possiveis_emails": [
+      "contatosam.gov",
+      "infosam.gov",
+      "sacsam.gov",
+      "emailsam.gov",
+      "startupsam.gov"
+    ]
+  },
+  {
+    "empresa": "C5ISRT - Next Gen Cybersecurity & Info Assurance",
+    "site": "https://sam.gov/opp/d0a6b00135934235b42329fd2d7c30d3/view",
+    "servico_relevante": "Cybersecurity, Threat Intelligence, Security Engineering, Compliance, Training",
+    "motivo": "Sources Sought for full-lifecycle cybersecurity program. 12-month base + 4x12-month options. Small business encouraged. NAICS 541330, $25.5M. Potential 8(a) set-aside.",
+    "origem": "zion_leads_free.csv (nova conversão)",
+    "dominio": "sam.gov",
+    "possiveis_emails": [
+      "contatosam.gov",
+      "infosam.gov",
+      "sacsam.gov",
+      "emailsam.gov",
+      "startupsam.gov"
+    ]
+  },
+  {
+    "empresa": "FDA - NextGen Cyber Engineering, Operations AI",
+    "site": "https://sam.gov/workspace/contract/opp/f09034fca4234513a25a5d8e2f9b82f7/view",
+    "servico_relevante": "Cybersecurity Engineering, AI Operations, Cloud Security",
+    "motivo": "Sources Sought for next-gen cyber engineering + AI operations at FDA. High-impact federal health agency. Cloud security and AI ops align with Zion services.",
+    "origem": "zion_leads_free.csv (nova conversão)",
+    "dominio": "sam.gov",
+    "possiveis_emails": [
+      "contatosam.gov",
+      "infosam.gov",
+      "sacsam.gov",
+      "emailsam.gov",
+      "startupsam.gov"
+    ]
+  },
+  {
+    "empresa": "Council Bluffs, IA - IT Services RFP",
+    "site": "https://www.google.com/search?q=Council+Bluffs+Iowa+IT+services+RFP+2026",
+    "servico_relevante": "IT Managed Services, Cloud, Cybersecurity",
+    "motivo": "Municipal IT services RFP identified in prior session. Smaller city = approachable. Managed services + cloud migration align with core Zion offerings.",
+    "origem": "zion_leads_free.csv (nova conversão)",
+    "dominio": "google.com",
+    "possiveis_emails": [
+      "contatogoogle.com",
+      "infogoogle.com",
+      "sacgoogle.com",
+      "emailgoogle.com",
+      "startupgoogle.com"
+    ]
+  },
+  {
+    "empresa": "CFPB - Cybersecurity BPA",
+    "site": "https://www.google.com/search?q=CFPB+cybersecurity+BPA+2026",
+    "servico_relevante": "Cybersecurity, Managed Security, Compliance",
+    "motivo": "Consumer Financial Protection Bureau cybersecurity BPA. Federal financial regulator = high-value cybersecurity client. Found in prior session. Potential subcontracting opportunity.",
+    "origem": "zion_leads_free.csv (nova conversão)",
+    "dominio": "google.com",
+    "possiveis_emails": [
+      "contatogoogle.com",
+      "infogoogle.com",
+      "sacgoogle.com",
+      "emailgoogle.com",
+      "startupgoogle.com"
+    ]
+  },
+  {
+    "empresa": "Red Lotus Tecnologia",
+    "site": "https://www.goodfirms.co/company/red-lotus-tecnologia",
+    "servico_relevante": "IT Consulting, Cloud Migration, QA Automation",
+    "motivo": "Brazilian IT consultancy offering digital transformation. Could be partner for shared clients or client for overflow work. Process improvement + technology overhaul focus.",
+    "origem": "zion_leads_free.csv (nova conversão)",
+    "dominio": "goodfirms.co",
+    "possiveis_emails": [
+      "contatogoodfirms.co",
+      "infogoodfirms.co",
+      "sacgoodfirms.co",
+      "emailgoodfirms.co",
+      "startupgoodfirms.co"
+    ]
+  },
+  {
+    "empresa": "SCM Gestão",
+    "site": "https://www.goodfirms.co/company/scm-gestao",
+    "servico_relevante": "AI Data Pipeline, AI Consulting, QA Automation",
+    "motivo": "Brazilian BI/BPM consultancy serving ISPs. AI tools for business intelligence. Potential client for AI data pipeline services or partner for telecom sector opportunities.",
+    "origem": "zion_leads_free.csv (nova conversão)",
+    "dominio": "goodfirms.co",
+    "possiveis_emails": [
+      "contatogoodfirms.co",
+      "infogoodfirms.co",
+      "sacgoodfirms.co",
+      "emailgoodfirms.co",
+      "startupgoodfirms.co"
+    ]
+  },
+  {
+    "empresa": "Starbridge (City of Cabot Cloud Migration Partner)",
+    "site": "https://www.google.com/search?q=starbridge+cloud+migration+arkansas",
+    "servico_relevante": "Cloud Migration, IT Consulting, Subcontracting",
+    "motivo": "Referenced in City of Cabot cloud migration RFP. Could be prime contractor seeking subcontractors for cloud migration work. Subcontracting opportunity for Zion's cloud services.",
+    "origem": "zion_leads_free.csv (nova conversão)",
+    "dominio": "google.com",
+    "possiveis_emails": [
+      "contatogoogle.com",
+      "infogoogle.com",
+      "sacgoogle.com",
+      "emailgoogle.com",
+      "startupgoogle.com"
+    ]
+  },
+  {
+    "empresa": "AI Automation Agency (UK)",
+    "site": "https://www.google.com/search?q=AI+automation+agency+UK+services+2026",
+    "servico_relevante": "AI Automation, Chatbots, Workflow Automation, Partnership",
+    "motivo": "UK-based AI automation agency identified in prior session. Potential partner for UK/EU clients or client for automation services. AI automation is Zion's core strength.",
+    "origem": "zion_leads_free.csv (nova conversão)",
+    "dominio": "google.com",
+    "possiveis_emails": [
+      "contatogoogle.com",
+      "infogoogle.com",
+      "sacgoogle.com",
+      "emailgoogle.com",
+      "startupgoogle.com"
+    ]
+  },
+  {
+    "empresa": "Agency AI Solutions",
+    "site": "https://www.google.com/search?q=agency+AI+solutions+US+2026",
+    "servico_relevante": "AI Services, Chatbots, AI Data Pipeline, Partnership",
+    "motivo": "AI solutions agency identified in prior session. Potential partner or client for Zion's AI service offerings. AI agency market growing rapidly.",
+    "origem": "zion_leads_free.csv (nova conversão)",
+    "dominio": "google.com",
+    "possiveis_emails": [
+      "contatogoogle.com",
+      "infogoogle.com",
+      "sacgoogle.com",
+      "emailgoogle.com",
+      "startupgoogle.com"
+    ]
+  },
+  {
+    "empresa": "Activepieces (Open-source Automation)",
+    "site": "https://github.com/activepieces/activepieces",
+    "servico_relevante": "AI Automation, Workflow Automation, Chatbots, QA Automation",
+    "motivo": "30k stars. Open-source AI agent & automation platform with 400+ MCP servers. Growing ecosystem needs implementation partners. Similar to n8n - automation platform user base = service opportunity.",
+    "origem": "zion_leads_free.csv (nova conversão)",
+    "dominio": "github.com",
+    "possiveis_emails": [
+      "contatogithub.com",
+      "infogithub.com",
+      "sacgithub.com",
+      "emailgithub.com",
+      "startupgithub.com"
+    ]
+  },
+  {
+    "empresa": "Prefect Technologies (Prefect Workflow Orchestration)",
+    "site": "https://github.com/PrefectHQ/prefect",
+    "servico_relevante": "AI Data Pipeline, QA Automation, Cloud Migration",
+    "motivo": "24k stars. Python workflow orchestration for data pipelines. Their users build data pipelines that need QA, production hardening, cloud deployment. Prefect + Zion = data pipeline implementation servic",
+    "origem": "zion_leads_free.csv (nova conversão)",
+    "dominio": "github.com",
+    "possiveis_emails": [
+      "contatogithub.com",
+      "infogithub.com",
+      "sacgithub.com",
+      "emailgithub.com",
+      "startupgithub.com"
+    ]
+  },
+  {
+    "empresa": "Vector (Observability Data Pipeline)",
+    "site": "https://github.com/vectordotdev/vector",
+    "servico_relevante": "AI Data Pipeline, Cloud Migration, QA Automation",
+    "motivo": "22.5k stars. High-performance observability data pipeline. Users need deployment, integration, and optimization services. Data pipeline expertise aligns directly with Zion's AI data pipeline service.",
+    "origem": "zion_leads_free.csv (nova conversão)",
+    "dominio": "github.com",
+    "possiveis_emails": [
+      "contatogithub.com",
+      "infogithub.com",
+      "sacgithub.com",
+      "emailgithub.com",
+      "startupgithub.com"
+    ]
+  },
+  {
+    "empresa": "Orchest (Data Pipeline Platform)",
+    "site": "https://github.com/orchest/orchest",
+    "servico_relevante": "AI Data Pipeline, QA Automation, Cloud Migration",
+    "motivo": "4k stars. Build data pipelines the easy way. Data science/orchestration platform. Users need production deployment, cloud migration, and QA for their data pipelines.",
+    "origem": "zion_leads_free.csv (nova conversão)",
+    "dominio": "github.com",
+    "possiveis_emails": [
+      "contatogithub.com",
+      "infogithub.com",
+      "sacgithub.com",
+      "emailgithub.com",
+      "startupgithub.com"
+    ]
+  }
+]

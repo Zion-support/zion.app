@@ -1,0 +1,37 @@
+[
+  {
+    "email": "hello@anotherit.co.uk",
+    "name": "ANother Managed IT Services",
+    "company": "ANother Managed IT Services",
+    "role": "TI",
+    "personal_note": "Managed IT Services provider based in UK. Serviços de TI gerenciados para empresas."
+  },
+  {
+    "email": "info@aimanageditservice.com",
+    "name": "AI Managed IT Services",
+    "company": "AI Managed IT Services",
+    "role": "TI",
+    "personal_note": "Managed IT Services com foco em AI, Los Angeles. Infraestrutura e suporte gerenciado."
+  },
+  {
+    "email": "hello@easyit.com.au",
+    "name": "easyIT Melbourne",
+    "company": "easyIT - Managed IT Services Melbourne",
+    "role": "TI",
+    "personal_note": "Managed IT Services em Melbourne, Austrália. Suporte e infraestrutura para empresas locais."
+  },
+  {
+    "email": "contacto@haak.com.mx",
+    "name": "Haak Cybersecurity Consulting",
+    "company": "Haak Cybersecurity Consulting",
+    "role": "Consultor de Segurança",
+    "personal_note": "Consultoria de cibersegurança em México. Serviços de segurança para empresas."
+  },
+  {
+    "email": "a@amk.io",
+    "name": "AMKIO Software & Cybersecurity",
+    "company": "AMKIO Software & Cybersecurity Consulting",
+    "role": "CEO/Fundador",
+    "personal_note": "Software e cibersegurança em Copenhague, Dinamarca. Desenvolvimento e consultoria de segurança."
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "total_jobs": 32,
+  "ok_count": 14,
+  "error_count": 9,
+  "paused_count": 9,
+  "critical_issues": [
+    {
+      "job_name": "Lead Outreach High Frequency - all folders",
+      "status": "error",
+      "issue": "Model drift: job was created with stepfun/step-3.7-flash:free which no longer exists. Global config now uses upstage/solar-pro4:free. Job is unpinned and silently skipped. Failure streak: 967.",
+      "recommended_action": "Run: hermes cron edit 95dd81daa613 --provider nous --model upstage/solar-pro4:free to pin to current config and resume lead outreach."
+    },
+    {
+      "job_name": "zion-daily-growth-loop",
+      "status": "error",
+      "issue": "Model drift: same stepfun->solar-pro4 drift. Failure streak: 10. Daily growth loop not running since model change.",
+      "recommended_action": "Run: hermes cron edit 4a73e84e878a --provider nous --model upstage/solar-pro4:free"
+    },
+    {
+      "job_name": "github lead discovery",
+      "status": "error",
+      "issue": "Model drift: stepfun->solar-pro4. Failure streak: 43. Lead discovery from GitHub disabled.",
+      "recommended_action": "Run: hermes cron edit c7e504f18e36 --provider nous --model upstage/solar-pro4:free"
+    },
+    {
+      "job_name": "Autonomous CRM Lead Outreach Loop",
+      "status": "error",
+      "issue": "Model drift: stepfun->solar-pro4. Failure streak: 276. CRM outreach loop completely down.",
+      "recommended_action": "Run: hermes cron edit 8c6c935d3c18 --provider nous --model upstage/solar-pro4:free"
+    },
+    {
+      "job_name": "Zion Autonomous Growth Loop",
+      "status": "error",
+      "issue": "Model drift: stepfun->solar-pro4. Failure streak: 10. Full growth loop (discover_leads + crm_outreach + build_landing) not running.",
+      "recommended_action": "Run: hermes cron edit 6586b09226e3 --provider nous --model upstage/solar-pro4:free"
+    },
+    {
+      "job_name": "lead-forge-weekly-refresh",
+      "status": "error",
+      "issue": "Model drift: stepfun->solar-pro4. Failure streak: 22. Lead Forge not refreshing lead pool.",
+      "recommended_action": "Run: hermes cron edit 608e9bbe9f15 --provider nous --model upstage/solar-pro4:free"
+    },
+    {
+      "job_name": "Homepage sanity check",
+      "status": "error",
+      "issue": "Timeout lock: TERMINAL_CWD write lock timeout (660s). Another job holding lock too long. Despite this, manual run shows homepage OK (ziontechgroup.com returning 200). Failure streak: 1.",
+      "recommended_action": "Stagger schedule or remove workdir conflict. Homepages itself is healthy - the check is failing due to cron resource contention, not site issues."
+    },
+    {
+      "job_name": "discovered-leads-live-sender",
+      "status": "error",
+      "issue": "Timeout lock: TERMINAL_CWD write lock timeout (660s). Live send cycle blocked by lock contention. Failure streak: 1.",
+      "recommended_action": "Stagger schedule or remove workdir. Check if /Users/miami2/zion.app is being held by another process."
+    },
+    {
+      "job_name": "teste-enquetes-telegram",
+      "status": "error",
+      "issue": "Timeout lock: TERMINAL_CWD read lock timeout (660s). Test job blocked by lock contention. Failure streak: 1.",
+      "recommended_action": "Low priority - stagger schedule or remove workdir. This is a test job."
+    }
+  ],
+  "site_working": true,
+  "email_working": false,
+  "recommendations": [
+    "CRITICAL: Pin 6 drifted jobs to current model (upstage/solar-pro4:free) using 'hermes cron edit <id> --provider nous --model upstage/solar-pro4:free'. Affected: Lead Outreach High Frequency (95dd81daa613), zion-daily-growth-loop (4a73e84e878a), github lead discovery (c7e504f18e36), CRM Lead Outreach Loop (8c6c935d3c18), Zion Autonomous Growth Loop (6586b09226e3), lead-forge-weekly-refresh (608e9bbe9f15).",
+    "CRITICAL: Email outreach is partially down - the high-frequency lead outreach (every 1m) and CRM loop (every 30m) are not sending. Only the backup AI Email Lead Outreach Agent (every 1m) and zion-live-send-cycle (every 30m) are functional.",
+    "MEDIUM: Resolve TERMINAL_CWD lock timeouts affecting Homepage sanity check, discovered-leads-live-sender, and teste-enquetes-telegram. Stagger schedules or remove workdir from competing jobs.",
+    "MEDIUM: 9 jobs are paused - some with valid reasons (duplicate monitoring), others paused due to lock timeouts that could be resumed after fixing contention.",
+    "LOW: Verify that the 6 paused jobs with model drift (CEO Hot Followup Reply, outreach dry-run scan, Autonomous Growth Engine Loop, etc.) also need model pinning if resumed.",
+    "Site health is GOOD: main monitoring jobs (Site Link Integrity Monitor, site health check, zion-site-integrity-check, site watchdog deploy watch) all OK. Homepage returns 200 OK.",
+    "Growth loops are DOWN: zion-daily-growth-loop and Zion Autonomous Growth Loop both failing due to model drift. Lead Forge weekly refresh also down. These need immediate pinning to resume autonomous growth pipeline."
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "email": "contact@crossx-it.de",
+    "name": "CrossX-IT GmbH",
+    "company": "CrossX-IT GmbH",
+    "role": "Managing Director",
+    "personal_note": "Munique-based IT managed services company offering IT managed services and cybersecurity solutions. 20% of services focused on cybersecurity."
+  },
+  {
+    "email": "info@bitefex.de",
+    "name": "BITEFEX GmbH",
+    "company": "BITEFEX GmbH",
+    "role": "CEO",
+    "personal_note": "Berlim-based IT managed services company. Berlin's tech ecosystem provides strong demand for cloud migration and cybersecurity services."
+  },
+  {
+    "email": "contact@cloudkleyer.de",
+    "name": "cloudKleyer Frankfurt GmbH",
+    "company": "cloudKleyer Frankfurt GmbH",
+    "role": "Managing Partner",
+    "personal_note": "Frankfurt-based cybersecurity company founded 2013. 50% of services focused on cybersecurity and cloud consulting/SI. Strong position in financial hub."
+  },
+  {
+    "email": "contact@sacredbyte.de",
+    "name": "Sacred Byte GmbH",
+    "company": "Sacred Byte GmbH",
+    "role": "Founder",
+    "personal_note": "Berlim-based IT managed services company with 25% of services focused on cybersecurity. Small team with specialized focus on security."
+  },
+  {
+    "email": "contact@cgtechnologies.com",
+    "name": "CG Technologies",
+    "company": "CG Technologies",
+    "role": "President",
+    "personal_note": "Toronto-based managed IT services provider founded 1996. Supports 100+ SMBs across GTA with managed IT, cybersecurity, cloud migration and 24/7 helpdesk."
+  },
+  {
+    "email": "contact@f12networks.com",
+    "name": "F12 Networks",
+    "company": "F12 Networks",
+    "role": "CEO",
+    "personal_note": "Canada's premier managed IT and cybersecurity services provider for SMEs. Rapidly emerging as an industry leader, positioned with Microsoft, Lenovo, Veeam partnerships."
+  },
+  {
+    "email": "contact@itweapons.com",
+    "name": "IT Weapons",
+    "company": "IT Weapons (Konica Minolta Canada)",
+    "role": "National Director",
+    "personal_note": "National IT Services Division of Konica Minolta Canada. 20+ years delivering IT services, hybrid cloud, information security and infrastructure management across Canada."
+  },
+  {
+    "email": "contact@403tech.com",
+    "name": "403Tech",
+    "company": "403Tech",
+    "role": "President",
+    "personal_note": "Calgary-based managed IT services provider specializing in flat-fee solutions for SMEs. Partners with Veeam, Fortinet, CrowdStrike, Dell, Datto. Service across Alberta and Southern Ontario."
+  }
+]

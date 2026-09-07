@@ -1,0 +1,157 @@
+#!/usr/bin/env python3
+"""
+=============================================================
+COMPOSIO ZION — Guia Rápido de Configuração
+=============================================================
+Arquivo de referência para configurar todas as variáveis de ambiente
+e rodar os scripts Composio do Zion Tech Group.
+
+PASSO 1: Copiar este arquivo como base
+  cp composio-zion-env.example composio-zion-env.sh
+
+PASSO 2: Editar as variáveis com valores reais
+  vim composio-zion-env.sh
+
+PASSO 3: Carregar no shell
+  source composio-zion-env.sh
+
+PASSO 4: Testar
+  cd /Users/miami2/zion.app
+  python composio-daily-digest.py --dry-run
+
+=============================================================
+"""
+
+# ============================================================
+# ESSENCIAL — Obrigatório para todos os scripts
+# ============================================================
+export COMPOSIO_API_KEY="sk_..."  # ← Substituir pelo API key real do Composio Dashboard
+
+# ============================================================
+# GITHUB — Daily Digest + Release Automation + DevOps Agent
+# ============================================================
+export ZION_GITHUB_OWNER="Zion-TechGroup"       # ← Owner do repositório
+export ZION_GITHUB_REPO="zion.app"                # ← Repositório principal
+export GITHUB_OWNER="Zion-TechGroup"              # ← Alias para release-automation.sh
+export GITHUB_REPO="zion.app"                     # ← Alias para release-automation.sh
+
+# ============================================================
+# VERCEL — Daily Digest + Release + Vercel Deploy
+# ============================================================
+export ZION_VERCEL_PROJECT="zion-tech-group"     # ← Project ID ou nome
+export VERCEL_PROJECT="zion-tech-group"           # ← Alias para release-automation.sh
+export VERCEL_PROJECT_ID=""                       # ← Opcional: Project ID numérico
+
+# ============================================================
+# SLACK — Todos os scripts usam Slack para notificações
+# ============================================================
+export ZION_SLACK_CHANNEL="#status"               # ← Canal default para notificações
+export SLACK_CHANNEL="#status"                    # ← Alias para release-automation.sh
+
+# Canais adicionais (opcionais)
+export ZION_SLACK_LEADS_CHANNEL="#leads"          # ← Para Lead Intelligence + Auto-Reply
+export ZION_SLACK_RELEASES_CHANNEL="#releases"    # ← Para Release Automation
+export ZION_SLACK_ALERTS_CHANNEL="#alerts"        # ← Para Sentry alerts
+export ZION_SLACK_METRICS_CHANNEL="#metrics"      # ← Para PostHog thresholds
+export ZION_SLACK_FINANCE_CHANNEL="#finance"      # ← Para Revenue Automation
+export ZION_SLACK_CONTENT_CHANNEL="#content"      # ← Para Content Agent
+export ZION_SLACK_CRM_CHANNEL="#crm"              # ← Para Airtable CRM
+export ZION_SLACK_CALENDAR_CHANNEL="#calendar"    # ← Para Calendar Agent
+export ZION_SLACK_TELEGRAM_CHANNEL="#telegram"    # ← Para Telegram Broadcast
+
+# ============================================================
+# POSTHOG — Daily Digest + Google Sheets Reports
+# ============================================================
+export POSTHOG_API_KEY="..."                      # ← API key do PostHog
+export POSTHOG_URL="https://app.posthog.com"      # ← URL do PostHog (ou self-hosted)
+
+# ============================================================
+# SENTRY — Daily Digest + DevOps Event Agent
+# ============================================================
+export SENTRY_AUTH_TOKEN="..."                    # ← Auth token do Sentry
+
+# ============================================================
+# HUBSPOT — Lead Intelligence + Auto-Reply + Revenue
+# ============================================================
+export HUBSPOT_API_KEY="..."                      # ← API key do HubSpot
+
+# ============================================================
+# NOTION — Lead Intelligence + Auto-Reply + Revenue
+# ============================================================
+export ZION_NOTION_DB_ID="..."                    # ← Database ID do Notion (para research brief)
+
+# ============================================================
+# LINEAR — Lead Intelligence + Auto-Reply + DevOps
+# ============================================================
+export ZION_LINEAR_TEAM_ID="..."                  # ← Team ID do Linear
+
+# ============================================================
+# FIRECRAW + PERPLEXITY — Lead Intelligence + Content Agent
+# ============================================================
+# (Firecrawl e Perplexity AI usam gerenciamento de auth do Composio)
+# Nenhuma variável adicional necessária para auth básico
+
+# ============================================================
+# PROSPECT MONITORING — Lead Intelligence Pipeline
+# ============================================================
+export ZION_PROSPECT_URLS="https://concorrente1.com,https://concorrente2.com"  # ← URLs a monitorar
+
+# ============================================================
+# GMAIL — Auto-Reply + Content Agent (newsletter)
+# ============================================================
+export ZION_GMAIL_LABEL_PROCESSING="lead-processing"  # ← Label para triage de emails
+export ZION_NEWSLETTER_LIST="leads@ziontechgroup.com"  # ← Lista para newsletters
+
+# ============================================================
+# STRIPE — Revenue Automation
+# ============================================================
+export STRIPE_API_KEY="sk_..."                    # ← API key do Stripe
+
+# ============================================================
+# GOOGLE SHEETS — Google Sheets Reports
+# ============================================================
+export GOOGLE_SHEETS_SPREADSHEET_ID="..."         # ← ID da planilha (do URL)
+
+# ============================================================
+# TELEGRAM — Telegram Broadcast
+# ============================================================
+export ZION_TELEGRAM_BOT_TOKEN="..."              # ← Bot token do Telegram
+export ZION_TELEGRAM_CHANNEL_ID="-100..."         # ← Canal ID (começa com -100)
+
+# ============================================================
+# GOOGLE CALENDAR — Calendar Agent
+# ============================================================
+# (Auth gerenciado pelo Composio — nenhuma variável extra necessária)
+
+# ============================================================
+# AIRTABLE — Airtable CRM
+# ============================================================
+export AIRTABLE_BASE_ID="appXXXXXXXXXXXXXX"       # ← Base ID do Airtable
+export AIRTABLE_TABLE_ID="tblXXXXXXXXXXXXXX"      # ← Table ID
+
+# ============================================================
+# SUPABASE — Supabase Database Agent
+# ============================================================
+export SUPABASE_URL="https://zion.supabase.co"    # ← URL do Supabase project
+export SUPABASE_ANON_KEY="..."                    # ← Anon key do Supabase
+
+# ============================================================
+# CLOUDFLARE — (scripts futuros — Cloudflare Agent)
+# ============================================================
+export CLOUDFLARE_API_TOKEN="..."                 # ← API token do Cloudflare
+export CLOUDFLARE_ACCOUNT_ID="..."                # ← Account ID
+
+# ============================================================
+# SALESFORCE — (scripts futuros — Salesforce CRM)
+# ============================================================
+export SALESFORCE_INSTANCE_URL="https://xxx.salesforce.com"
+export SALESFORCE_ACCESS_TOKEN="..."
+
+# ============================================================
+# DISCORD — Social Broadcast
+# ============================================================
+export ZION_DISCORD_CHANNEL_ID="..."              # ← Channel ID do Discord
+
+# ============================================================
+# END OF CONFIG
+# ============================================================

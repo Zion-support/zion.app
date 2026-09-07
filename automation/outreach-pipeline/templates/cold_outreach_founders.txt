@@ -1,0 +1,23 @@
+Subject: Introdução — ${company} / ${role}
+
+Olá ${name},
+
+${personal_note}
+
+Vi que vocês estão em uma fase de crescimento acelerado e a infraestrutura vai diretamente impactar a velocidade de entrega da plataforma.
+
+A Zion Tech Group trabalha com empresas em estilo startup para:
+• Escalar infraestrutura cloud sem overhead desnecessário (FinOps, right-sizing, reserved instances)
+• MLOps e pipelines de dados para modelos de IA em produção
+• Automação de workflows internos com IA generativa e agentes
+• Cibersegurança e compliance (ISO 27001, NIST, LGPD) para plataformas que cuidam de dados sensíveis
+
+Temos experiência entregando resultados mensuráveis para empresas similares.
+
+Você teria 15 minutos na próxima semana para uma conversa rápida?
+
+Atenciosamente,
+Kleber Garcia Alcatrão
+CEO, Zion Tech Group
+kleber@ziontechgroup.com
+https://ziontechgroup.com

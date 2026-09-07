@@ -15,14 +15,14 @@ log "Scanning blog source for new/updated content..."
 for dir in "$BLOG_SRC"/*/; do
   [ -d "$dir" ] || continue
   slug=$(basename "$dir")
-  
+
   # Skip meta files
   case "$slug" in
     __next.*|index*) continue ;;
   esac
-  
+
   index_file="$dir/index.html"
-  
+
   if [ -f "$index_file" ]; then
     # Static HTML already exists — copy/update
     mkdir -p "$PUBLIC_BLOG/$slug"
@@ -33,10 +33,10 @@ for dir in "$BLOG_SRC"/*/; do
     src_file="$dir/page.tsx"
     md_file="$dir/index.md"
     mdx_file="$dir/index.mdx"
-    
+
     target_dir="$PUBLIC_BLOG/$slug"
     mkdir -p "$target_dir"
-    
+
     # Extract frontmatter and content, generate HTML
     if [ -f "$md_file" ]; then
       python3 - "$md_file" "$target_dir/index.html" "$slug" <<'PYEOF'
@@ -125,22 +125,22 @@ html = f'''<!DOCTYPE html>
   <link rel="canonical" href="https://ziontechgroup.com/blog/{slug}/" />
   <link rel="stylesheet" href="/css/style.css" />
   <style>
-    body {{ font-family: system-ui, -apple-system, sans-serif; max-width: 800px; margin: 0 auto; padding: 40px 24px; line-height: 1.7; color: #1a1a2e; }}
-    h1 {{ font-size: 2.2rem; color: #7c3aed; margin-bottom: 16px; }}
-    h2 {{ font-size: 1.5rem; color: #334155; margin-top: 32px; margin-bottom: 12px; }}
-    h3 {{ font-size: 1.2rem; color: #475569; margin-top: 24px; margin-bottom: 8px; }}
-    p {{ margin-bottom: 16px; }}
-    ul {{ margin-bottom: 16px; padding-left: 24px; }}
-    li {{ margin-bottom: 8px; }}
-    a {{ color: #7c3aed; }}
-    .meta {{ color: #64748b; font-size: 0.9rem; margin-bottom: 32px; border-bottom: 1px solid #e2e8f0; padding-bottom: 16px; }}
-    .back {{ display: inline-block; margin-bottom: 24px; color: #7c3aed; text-decoration: none; font-weight: 600; }}
-    pre {{ background: #f1f5f9; padding: 16px; border-radius: 8px; overflow-x: auto; }}
-    code {{ background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; }}
-    table {{ border-collapse: collapse; width: 100%; margin: 16px 0; }}
-    th, td {{ border: 1px solid #e2e8f0; padding: 8px 12px; text-align: left; }}
-    th {{ background: #f1f5f9; }}
-    blockquote {{ border-left: 4px solid #7c3aed; padding-left: 16px; color: #64748b; margin: 16px 0; }}
+    body { font-family: system-ui, -apple-system, sans-serif; max-width: 800px; margin: 0 auto; padding: 40px 24px; line-height: 1.7; color: #1a1a2e; }
+    h1 { font-size: 2.2rem; color: #7c3aed; margin-bottom: 16px; }
+    h2 { font-size: 1.5rem; color: #334155; margin-top: 32px; margin-bottom: 12px; }
+    h3 { font-size: 1.2rem; color: #475569; margin-top: 24px; margin-bottom: 8px; }
+    p { margin-bottom: 16px; }
+    ul { margin-bottom: 16px; padding-left: 24px; }
+    li { margin-bottom: 8px; }
+    a { color: #7c3aed; }
+    .meta { color: #64748b; font-size: 0.9rem; margin-bottom: 32px; border-bottom: 1px solid #e2e8f0; padding-bottom: 16px; }
+    .back { display: inline-block; margin-bottom: 24px; color: #7c3aed; text-decoration: none; font-weight: 600; }
+    pre { background: #f1f5f9; padding: 16px; border-radius: 8px; overflow-x: auto; }
+    code { background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; }
+    table { border-collapse: collapse; width: 100%; margin: 16px 0; }
+    th, td { border: 1px solid #e2e8f0; padding: 8px 12px; text-align: left; }
+    th { background: #f1f5f9; }
+    blockquote { border-left: 4px solid #7c3aed; padding-left: 16px; color: #64748b; margin: 16px 0; }
   </style>
 </head>
 <body>
@@ -158,7 +158,8 @@ with open(out_path, 'w') as f:
     f.write(html)
 print(f"Generated: {out_path}")
 PYEOF
-    log "  generated: /blog/$slug/"
+      log "  generated: /blog/$slug/"
+    fi
   fi
 done
 
@@ -199,15 +200,15 @@ html = f'''<!DOCTYPE html>
   <meta name="description" content="AI automation, enterprise IT services, cybersecurity, cloud migration, and monetization strategies. Practical guides and insights from Zion Tech Group." />
   <link rel="canonical" href="https://ziontechgroup.com/blog/" />
   <style>
-    body {{ font-family: system-ui, -apple-system, sans-serif; max-width: 800px; margin: 0 auto; padding: 40px 24px; }}
-    h1 {{ font-size: 2rem; color: #7c3aed; margin-bottom: 8px; }}
-    .sub {{ color: #64748b; margin-bottom: 32px; }}
-    .post {{ border-bottom: 1px solid #e2e8f0; padding: 20px 0; }}
-    .post h2 {{ margin: 0 0 8px 0; font-size: 1.2rem; }}
-    .post h2 a {{ color: #1e293b; text-decoration: none; }}
-    .post h2 a:hover {{ color: #7c3aed; }}
-    .post .meta {{ color: #94a3b8; font-size: 0.85rem; }}
-    .back {{ display: inline-block; margin-bottom: 24px; color: #7c3aed; text-decoration: none; }}
+    body { font-family: system-ui, -apple-system, sans-serif; max-width: 800px; margin: 0 auto; padding: 40px 24px; }
+    h1 { font-size: 2rem; color: #7c3aed; margin-bottom: 8px; }
+    .sub { color: #64748b; margin-bottom: 32px; }
+    .post { border-bottom: 1px solid #e2e8f0; padding: 20px 0; }
+    .post h2 { margin: 0 0 8px 0; font-size: 1.2rem; }
+    .post h2 a { color: #1e293b; text-decoration: none; }
+    .post h2 a:hover { color: #7c3aed; }
+    .post .meta { color: #94a3b8; font-size: 0.85rem; }
+    .back { display: inline-block; margin-bottom: 24px; color: #7c3aed; text-decoration: none; }
   </style>
 </head>
 <body>

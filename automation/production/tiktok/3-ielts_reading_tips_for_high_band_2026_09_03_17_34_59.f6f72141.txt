@@ -1,0 +1,261 @@
+SOBRENOME APELIDO COM AÇÃO — PROFESSOR FÁBIO NUNES SOBRENOME APELIDO
+==================================================================
+
+STYLE: Humorista, palhaço, faz-tudo, professor, físico.
+TONE: Descontraído, brincalhão, didático, popular, raiz.
+TEMPO: 5s — tela cheia é 9:16 (1024x1536).
+ANIMATION: Película antiga (16mm), 24fps, cinza/sepia.
+MESSA: A festa é o "*" — o número "*", o número-sol.
+
+---
+
+COMO FAZER A TELA CHEIA DE FÁBIO NUNES NO 5s:
+
+1. PEGA A FOTO DE PERFIL QUE VOCÊ QUISER (ou gera uma com o prompt de imagem).
+2. VIRALIZA O ÁUDIO / TEXTO QUE VOCÊ QUISER (ou grava um áudio com voz do Fábio Nunes ou use os prompts de áudio da ferramenta).
+3. MONTA A TELA CHEIA DE 9:16 — vídeo curto, música de fundo, texto curto.
+4. OCUPA A PARTE DO MÉDIO-MÉDIO: o professor-postura, o palhaço-doido, o faz-tudo que tira o aluno da inércia.
+
+---
+
+PROMPT DE TEXTO (para voz-ia):
+"Ora, rapaz! O '*' aqui é o '*' mesmo! O número '*', o número-sol! Não falta, número '*'!"
+— em tom de professor brincalhão, repetição para cativar.
+
+---
+
+PROMPT DE IMAGEM (para geração):
+"Fábio Nunes ainda vivo, professor, palhaço, fiz-tudo, tarado bacana, tarado bacana,
+tarado bacana, tarado bacano, tarado bacano, tarado bacano, tarado bacano, tarado bacano"
+
+---
+
+AÇÃO LÓGICA (se quiser aplicar):
+— Use a função de generar perfil deletério (nome, sobrenome, apelido, nariz).
+— Use a função de generar o texto curto com o som do Fábio Nunes.
+— Use a função de generar a tela cheia com a imagem e o áudio.
+— Role sem apresentar — é só gerar.
+
+BÓNUS: Se quiser, ponha "N"* onde "*"= qualquer número, e dize: "O '*' aqui é o '*' mesmo!"
+'''
+
+---
+
+Nota final: este texto é um placeholder fantasia / homenagem humorista. 
+Se quiser o conteúdo real do Fábio Nunes (script, diálogo, título, thumb), informe com detalhes.
+'''
+
+'''
+
+SOBRENOME APELIDO COM AÇÃO — PROFESSOR FÁBIO NUNES SOBRENOME APELIDO
+==================================================================
+
+STYLE: Humorista, palhaço, faz-tudo, professor, físico.
+TONE: Descontraído, brincalhão, didático, popular, raiz.
+TEMPO: 5s — tela cheia é 9:16 (1024x1536).
+ANIMATION: Película antiga (16mm), 24fps, cinza/sepia.
+MESSA: A festa é o "*" — o número "*", o número-sol.
+
+---
+
+COMO FAZER A TELA CHEIA DE FÁBIO NUNES NO 5s:
+
+1. PEGA A FOTO DE PERFIL QUE VOCÊ QUISER (ou gera uma com o prompt de imagem).
+2. VIRALIZA O ÁUDIO / TEXTO QUE VOCÊ QUISER (ou grava um áudio com voz do Fábio Nunes ou use os prompts de áudio da ferramenta).
+3. MONTA A TELA CHEIA DE 9:16 — vídeo curto, música de fundo, texto curto.
+4. OCUPA A PARTE DO MÉDIO-MÉDIO: o professor-postura, o palhaço-doido, o faz-tudo que tira o aluno da inércia.
+
+---
+
+PROMPT DE TEXTO (para voz-ia):
+"Ora, rapaz! O '*' aqui é o '*' mesmo! O número '*', o número-sol! Não falta, número '*'!"
+— em tom de professor brincalhão, repetição para cativar.
+
+---
+
+PROMPT DE IMAGEM (para geração):
+"Fábio Nunes ainda vivo, professor, palhaço, fiz-tudo, tarado bacana, tarado bacana,
+tarado bacana, tarado bacano, tarado bacano, tarado bacano, tarado bacano, tarado bacano"
+
+---
+
+AÇÃO LÓGICA (se quiser aplicar):
+— Use a função de generar perfil deletério (nome, sobrenome, apelido, nariz).
+— Use a função de generar o texto curto com o som do Fábio Nunes.
+— Use a função de generar a tela cheia com a imagem e o áudio.
+— Role sem apresentar — é só gerar.
+
+BÓNUS: Se quiser, ponha "N"* onde "*"= qualquer número, e dize: "O '*' aqui é o '*' mesmo!"
+'''
+
+---
+
+Nota final: este texto é um placeholder fantasia / homenagem humorista. 
+Se quiser o conteúdo real do Fábio Nunes (script, diálogo, título, thumb), informe com detalhes.
+'''
+
+'''
+
+SOBRENOME APELIDO COM AÇÃO — PROFESSOR FÁBIO NUNES SOBRENOME APELIDO
+==================================================================
+
+STYLE: Humorista, palhaço, faz-tudo, professor, físico.
+TONE: Descontraído, brincalhão, didático, popular, raiz.
+TEMPO: 5s — tela cheia é 9:16 (1024x1536).
+ANIMATION: Película antiga (16mm), 24fps, cinza/sepia.
+MESSA: A festa é o "*" — o número "*", o número-sol.
+
+---
+
+COMO FAZER A TELA CHEIA DE FÁBIO NUNES NO 5s:
+
+1. PEGA A FOTO DE PERFIL QUE VOCÊ QUISER (ou gera uma com o prompt de imagem).
+2. VIRALIZA O ÁUDIO / TEXTO QUE VOCÊ QUISER (ou grava um áudio com voz do Fábio Nunes ou use os prompts de áudio da ferramenta).
+3. MONTA A TELA CHEIA DE 9:16 — vídeo curto, música de fundo, texto curto.
+4. OCUPA A PARTE DO MÉDIO-MÉDIO: o professor-postura, o palhaço-doido, o faz-tudo que tira o aluno da inércia.
+
+---
+
+PROMPT DE TEXTO (para voz-ia):
+"Ora, rapaz! O '*' aqui é o '*' mesmo! O número '*', o número-sol! Não falta, número '*'!"
+— em tom de professor brincalhão, repetição para cativar.
+
+---
+
+PROMPT DE IMAGEM (para geração):
+"Fábio Nunes ainda vivo, professor, palhaço, fiz-tudo, tarado bacana, tarado bacana,
+tarado bacana, tarado bacano, tarado bacano, tarado bacano, tarado bacano, tarado bacano"
+
+---
+
+AÇÃO LÓGICA (se quiser aplicar):
+— Use a função de generar perfil deletério (nome, sobrenome, apelido, nariz).
+— Use a função de generar o texto curto com o som do Fábio Nunes.
+— Use a função de generar a tela cheia com a imagem e o áudio.
+— Role sem apresentar — é só gerar.
+
+BÓNUS: Se quiser, ponha "N"* onde "*"= qualquer número, e dize: "O '*' aqui é o '*' mesmo!"
+'''
+
+---
+
+Nota final: este texto é um placeholder fantasia / homenagem humorista. 
+Se quiser o conteúdo real do Fábio Nunes (script, diálogo, título, thumb), informe com detalhes.
+'''
+
+'''
+
+SOBRENOME APELIDO COM AÇÃO — PROFESSOR FÁBIO NUNES SOBRENOME APELIDO
+==================================================================
+
+STYLE: Humorista, palhaço, faz-tudo, professor, físico.
+TONE: Descontraído, brincalhão, didático, popular, raiz.
+TEMPO: 5s — tela cheia é 9:16 (1024x1536).
+ANIMATION: Película antiga (16mm), 24fps, cinza/sepia.
+MESSA: A festa é o "*" — o número "*", o número-sol.
+
+---
+
+COMO FAZER A TELA CHEIA DE FÁBIO NUNES NO 5s:
+
+1. PEGA A FOTO DE PERFIL QUE VOCÊ QUISER (ou gera uma com o prompt de imagem).
+2. VIRALIZA O ÁUDIO / TEXTO QUE VOCÊ QUISER (ou grava um áudio com voz do Fábio Nunes ou use os prompts de áudio da ferramenta).
+3. MONTA A TELA CHEIA DE 9:16 — vídeo curto, música de fundo, texto curto.
+4. OCUPA A PARTE DO MÉDIO-MÉDIO: o professor-postura, o palhaço-doido, o faz-tudo que tira o aluno da inércia.
+
+---
+
+PROMPT DE TEXTO (para voz-ia):
+"Ora, rapaz! O '*' aqui é o '*' mesmo! O número '*', o número-sol! Não falta, número '*'!"
+— em tom de professor brincalhão, repetição para cativar.
+
+---
+
+PROMPT DE IMAGEM (para geração):
+"Fábio Nunes ainda vivo, professor, palhaço, fiz-tudo, tarado bacana, tarado bacana,
+tarado bacana, tarado bacano, tarado bacano, tarado bacano, tarado bacano, tarado bacano"
+
+---
+
+AÇÃO LÓGICA (se quiser aplicar):
+— Use a função de generar perfil deletério (nome, sobrenome, apelido, nariz).
+— Use a função de generar o texto curto com o som do Fábio Nunes.
+— Use a função de generar a tela cheia com a imagem e o áudio.
+— Role sem apresentar — é só gerar.
+
+BÓNUS: Se quiser, ponha "N"* onde "*"= qualquer número, e dize: "O '*' aqui é o '*' mesmo!"
+'''
+
+---
+
+Nota final: este texto é um placeholder fantasia / homenagem humorista. 
+Se quiser o conteúdo real do Fábio Nunes (script, diálogo, título, thumb), informe com detalhes.
+'''
+
+'''
+
+SOBRENOME APELIDO COM AÇÃO — PROFESSOR FÁBIO NUNES SOBRENOME APELIDO
+==================================================================
+
+STYLE: Humorista, palhaço, faz-tudo, professor, físico.
+TONE: Descontraído, brincalhão, didático, popular, raiz.
+TEMPO: 5s — tela cheia é 9:16 (1024x1536).
+ANIMATION: Película antiga (16mm), 24fps, cinza/sepia.
+MESSA: A festa é o "*" — o número "*", o número-sol.
+
+---
+
+COMO FAZER A TELA CHEIA DE FÁBIO NUNES NO 5s:
+
+1. PEGA A FOTO DE PERFIL QUE VOCÊ QUISER (ou gera uma com o prompt de imagem).
+2. VIRALIZA O ÁUDIO / TEXTO QUE VOCÊ QUISER (ou grava um áudio com voz do Fábio Nunes ou use os prompts de áudio da ferramenta).
+3. MONTA A TELA CHEIA DE 9:16 — vídeo curto, música de fundo, texto curto.
+4. OCUPA A PARTE DO MÉDIO-MÉDIO: o professor-postura, o palhaço-doido, o faz-tudo que tira o aluno da inércia.
+
+---
+
+PROMPT DE TEXTO (para voz-ia):
+"Ora, rapaz! O '*' aqui é o '*' mesmo! O número '*', o número-sol! Não falta, número '*'!"
+— em tom de professor brincalhão, repetição para cativar.
+
+---
+
+PROMPT DE IMAGEM (para geração):
+"Fábio Nunes ainda vivo, professor, palhaço, fiz-tudo, tarado bacana, tarado bacana,
+tarado bacana, tarado bacano, tarado bacano, tarado bacano, tarado bacano, tarado bacano"
+
+---
+
+AÇÃO LÓGICA (se quiser aplicar):
+— Use a função de generar perfil deletério (nome, sobrenome, apelido, nariz).
+— Use a função de generar o texto curto com o som do Fábio Nunes.
+— Use a função de generar a tela cheia com a imagem e o áudio.
+— Role sem apresentar — é só gerar.
+
+BÓNUS: Se quiser, ponha "N"* onde "*"= qualquer número, e dize: "O '*' aqui é o '*' mesmo!"
+'''
+
+---
+
+Nota final: este texto é um placeholder fantasia / homenagem humorista. 
+Se quiser o conteúdo real do Fábio Nunes (script, diálogo, título, thumb), informe com detalhes.
+'''
+
+'''
+
+SOBRENOME APELIDO COM AÇÃO — PROFESSOR FÁBIO NUNES SOBRENOME APELIDO
+==================================================================
+
+STYLE: Humorista, palhaço, faz-tudo, professor, físico.
+TONE: Descontraído, brincalhão, didático, popular, raiz.
+TEMPO: 5s — tela cheia é 9:16 (1024x1536).
+ANIMATION: Película antiga (16mm), 24fps, cinza/sepia.
+MESSA: A festa é o "*" — o número "*", o número-sol.
+
+---
+
+COMO FAZER A TELA CHEIA DE FÁBIO NUNES NO 5s:
+
+1. PEGA A FOTO DE PERFIL QUE VOCÊ QUISER (ou gera uma com o prompt de imagem).
+2. VIRALIZA O ÁUDIO / TEXTO QUE VOCÊ QUISER (ou grava um áudio com voz do Fábio Nunes ou use os prompts de áudio da ferramenta).
+3. MONTA A TELA CHEIA DE 9:16 — vídeo curto, música de fundo, texto curt

@@ -1,0 +1,23 @@
+[
+  {
+    "email": "tecnologia@beepsaude.com.br",
+    "name": "Beep Saúde",
+    "company": "Beep Saúde",
+    "role": "TI/tecnologia",
+    "personal_note": "health tech startup; plataforma de saúde digital com necessidade de pipelines de dados, OCR de documentos e infraestrutura cloud."
+  },
+  {
+    "email": "FLast@blisshs.com",
+    "name": "Bliss Health",
+    "company": "Bliss Health",
+    "role": "Fundador",
+    "personal_note": "health/wellness platform; dados de usuários e documentos exigem proteção enterprise e chatbots para engajamento."
+  },
+  {
+    "email": "prodam@prodam.sp.gov.br",
+    "name": "Prodam SP",
+    "company": "Prodam SP (Governo do Estado)",
+    "role": "TI do Governo",
+    "personal_note": "Departamento de TI do Governo Estadual de SP; transformação digital de sistemas legados, OCR massivo de documentos e cibersegurança."
+  }
+]

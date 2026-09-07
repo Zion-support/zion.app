@@ -1,0 +1,23 @@
+[
+  {
+    "email": "founders@getenter.ai",
+    "name": "Enter (getenter.ai)",
+    "company": "Enter",
+    "role": "Fundador",
+    "personal_note": "AI legal tech Series A ($35M); crescimento rápido exige infra escalável e compliance automation."
+  },
+  {
+    "email": "founders@getdarwin.ai",
+    "name": "Darwin AI (getdarwin.ai)",
+    "company": "Darwin AI",
+    "role": "Fundador",
+    "personal_note": "AI platform startup Seed ($4.5M); precisa de cloud infra, MLOps e IT managed services para crescimento pós-seeding."
+  },
+  {
+    "email": "founders@kahunalabs.com",
+    "name": "Kahuna Labs",
+    "company": "Kahuna Labs (Google Startup Cloud AI Accelerator)",
+    "role": "Fundador",
+    "personal_note": "No Google for Startups Cloud AI Accelerator; construindo plataforma AI para suporte técnico — opp de cloud infra, MLOps e AI automation."
+  }
+]

@@ -1,0 +1,396 @@
+[
+  {
+    "empresa": "Beep Saúde",
+    "dominio": "beep.saude.com.br",
+    "assunto_original": "Otimização de custos cloud para Beep Saúde",
+    "servico": "Cloud Cost",
+    "personal_emails_found": [
+      "John.Doe@beepsaude.com.br",
+      "r@grupobrmed.com.br",
+      "First.Last@beepsaude.com.br",
+      "tecnologia@beepsaude.com.br"
+    ],
+    "sources": [
+      "search: \"Beep Saúde\" email contact",
+      "search: \"Beep Saúde\" email contact",
+      "search: \"Beep Saúde\" email contact",
+      "search: \"Beep Saúde\" founder email"
+    ],
+    "primary_site": "https://beep.saude.com.br"
+  },
+  {
+    "empresa": "Bliss Health",
+    "dominio": "bliss.health",
+    "assunto_original": "Proteção cibernética para Bliss Health",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [
+      "FLast@blisshs.com"
+    ],
+    "sources": [
+      "search: \"Bliss Health\" founder email"
+    ],
+    "primary_site": "https://bliss.health"
+  },
+  {
+    "empresa": "Prodam SP (Governo do Estado)",
+    "dominio": "prodam.sp.gov.br",
+    "assunto_original": "Proteção cibernética para Prodam SP (Governo do Estado)",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [
+      "prodam@prodam.sp.gov.br",
+      "SOLUCOES@PRODAM.SP.GOV.BR",
+      "ricardo.araujo@omidsolutions.com",
+      "ouvidoria@prodam.sp.gov.br",
+      "o@prodam.sp.gov.br",
+      "evertonandrade@PRODAM.SP.GOV.BR"
+    ],
+    "sources": [
+      "search: \"Prodam SP (Governo do Estado)\" email contact",
+      "search: \"Prodam SP (Governo do Estado)\" email contact",
+      "search: \"Prodam SP (Governo do Estado)\" CEO email",
+      "search: \"Prodam SP (Governo do Estado)\" CTO email site:prodam.sp.gov.br",
+      "search: \"Prodam SP (Governo do Estado)\" CTO email site:prodam.sp.gov.br",
+      "search: \"Prodam SP (Governo do Estado)\" CTO email site:prodam.sp.gov.br"
+    ],
+    "primary_site": "https://www.prodam.sp.gov.br"
+  },
+  {
+    "empresa": "Natura",
+    "dominio": "natura.com",
+    "assunto_original": "Proteção cibernética para Natura",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [
+      "info@naturaworld.com",
+      "info@naturaresources.com"
+    ],
+    "sources": [
+      "search: \"Natura\" email contact",
+      "search: \"Natura\" founder email"
+    ],
+    "primary_site": "https://www.natura.com"
+  },
+  {
+    "empresa": "Enter (getenter.ai)",
+    "dominio": "getenter.ai",
+    "assunto_original": "Proteção cibernética para Enter (getenter.ai)",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [
+      "contato@getenter.ai",
+      "founders@getenter.ai"
+    ],
+    "sources": [
+      "lead_data_hint: getenter.ai",
+      "lead_data_hint: getenter.ai"
+    ],
+    "primary_site": "https://getenter.ai"
+  },
+  {
+    "empresa": "Darwin AI (getdarwin.ai)",
+    "dominio": "getdarwin.ai",
+    "assunto_original": "Otimização de custos cloud para Darwin AI (getdarwin.ai)",
+    "servico": "Cloud Cost",
+    "personal_emails_found": [
+      "founders@getdarwin.ai"
+    ],
+    "sources": [
+      "lead_data_hint: getdarwin.ai"
+    ],
+    "primary_site": "https://getdarwin.ai"
+  },
+  {
+    "empresa": "Guiss Consulting",
+    "dominio": "guiss.com.br",
+    "assunto_original": "Otimização de custos cloud para Guiss Consulting",
+    "servico": "Cloud Cost",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://www.guiss.com.br"
+  },
+  {
+    "empresa": "Origen Tech",
+    "dominio": "origentech.com",
+    "assunto_original": "Otimização de custos cloud para Origen Tech",
+    "servico": "Cloud Cost",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://www.origen-tech.com.br"
+  },
+  {
+    "empresa": "Conta Azul",
+    "dominio": "contaazul.com",
+    "assunto_original": "Automação com IA para Conta Azul",
+    "servico": "AI Automation",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://www.contaazul.com"
+  },
+  {
+    "empresa": "Stone (Pagamentos)",
+    "dominio": "stone.com.br",
+    "assunto_original": "Proteção cibernética para Stone (Pagamentos)",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://stone.com.br"
+  },
+  {
+    "empresa": "Wildlife Studios",
+    "dominio": "wildlifestudios.com.br",
+    "assunto_original": "Automação com IA para Wildlife Studios",
+    "servico": "AI Automation",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://wildlifestudios.com.br"
+  },
+  {
+    "empresa": "Apptunix",
+    "dominio": "apptunix.com",
+    "assunto_original": "Otimização de custos cloud para Apptunix",
+    "servico": "Cloud Cost",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://www.apptunix.com"
+  },
+  {
+    "empresa": "Radix",
+    "dominio": "radix.com.br",
+    "assunto_original": "Proteção cibernética para Radix",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://www.radix.com.br"
+  },
+  {
+    "empresa": "TechPulse (IT Support & Managed IT)",
+    "dominio": "clutch.co",
+    "assunto_original": "Proteção cibernética para TechPulse (IT Support & Managed IT)",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://clutch.co"
+  },
+  {
+    "empresa": "trueITpros",
+    "dominio": "trueitpros.com",
+    "assunto_original": "Proteção cibernética para trueITpros",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [
+      "sales@trueitpros.com"
+    ],
+    "sources": [
+      "lead_data_hint: trueitpros.com"
+    ],
+    "primary_site": "https://trueitpros.com"
+  },
+  {
+    "empresa": "MIS Solutions",
+    "dominio": "mis-solutions.com",
+    "assunto_original": "Proteção cibernética para MIS Solutions",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://www.mis-solutions.com"
+  },
+  {
+    "empresa": "Veristor",
+    "dominio": "veristor.com",
+    "assunto_original": "Proteção cibernética para Veristor",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://www.veristor.com"
+  },
+  {
+    "empresa": "360 Smart Networks",
+    "dominio": "360smartnetworks.com",
+    "assunto_original": "Proteção cibernética para 360 Smart Networks",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://www.360smartnetworks.com"
+  },
+  {
+    "empresa": "Brite-Star",
+    "dominio": "britestar.com",
+    "assunto_original": "Proteção cibernética para Brite-Star",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://www.britestar.com"
+  },
+  {
+    "empresa": "ProviDyn",
+    "dominio": "providyn.com",
+    "assunto_original": "Proteção cibernética para ProviDyn",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://www.providyn.com"
+  },
+  {
+    "empresa": "Integris (Premium National MSP)",
+    "dominio": "integris.com",
+    "assunto_original": "Proteção cibernética para Integris (Premium National MSP)",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://integris.com"
+  },
+  {
+    "empresa": "Advanced IT (Chicago SMB focus)",
+    "dominio": "advancedit.net",
+    "assunto_original": "Proteção cibernética para Advanced IT (Chicago SMB focus)",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://advancedit.net"
+  },
+  {
+    "empresa": "WheelHouse IT (Top-100 MSP)",
+    "dominio": "wheelhouseit.com",
+    "assunto_original": "Proteção cibernética para WheelHouse IT (Top-100 MSP)",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://www.wheelhouseit.com"
+  },
+  {
+    "empresa": "Frontline Managed Services",
+    "dominio": "frontlinemsp.com",
+    "assunto_original": "Proteção cibernética para Frontline Managed Services",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://frontlinemsp.com"
+  },
+  {
+    "empresa": "Rio AI City Project / Prefeitura RJ",
+    "dominio": "rio.rj.gov.br",
+    "assunto_original": "Otimização de custos cloud para Rio AI City Project / Prefeitura RJ",
+    "servico": "Cloud Cost",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://rio.rj.gov.br"
+  },
+  {
+    "empresa": "Kahuna Labs (Google Startup Cloud AI Accelerator)",
+    "dominio": "kahunalabs.com",
+    "assunto_original": "Otimização de custos cloud para Kahuna Labs (Google Startup Cloud AI Accelerator)",
+    "servico": "Cloud Cost",
+    "personal_emails_found": [
+      "founders@kahunalabs.com"
+    ],
+    "sources": [
+      "lead_data_hint: kahunalabs.com"
+    ],
+    "primary_site": "https://kahunalabs.com"
+  },
+  {
+    "empresa": "Elenta Technology LLC",
+    "dominio": "elenta.tech",
+    "assunto_original": "Otimização de custos cloud para Elenta Technology LLC",
+    "servico": "Cloud Cost",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://elenta.tech"
+  },
+  {
+    "empresa": "DNFSB - IT Support Services",
+    "dominio": "sam.gov",
+    "assunto_original": "Proteção cibernética para DNFSB - IT Support Services",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://sam.gov"
+  },
+  {
+    "empresa": "IRS - Small Business IT/ Cloud BPA",
+    "dominio": "ostglobalsolutions.com",
+    "assunto_original": "Proteção cibernética para IRS - Small Business IT/ Cloud BPA",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://ostglobalsolutions.com"
+  },
+  {
+    "empresa": "City of Cabot - Cloud Migration RFP (Starbridge)",
+    "dominio": "google.com",
+    "assunto_original": "Otimização de custos cloud para City of Cabot - Cloud Migration RFP (Starbridge)",
+    "servico": "Cloud Cost",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://google.com"
+  },
+  {
+    "empresa": "Neurosia",
+    "dominio": "goodfirms.co",
+    "assunto_original": "Automação com IA para Neurosia",
+    "servico": "AI Automation",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://www.goodfirms.co/company/neurosia"
+  },
+  {
+    "empresa": "Xovak Studio",
+    "dominio": "xovakstudio.com",
+    "assunto_original": "Automação com IA para Xovak Studio",
+    "servico": "AI Automation",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://www.xovakstudio.com"
+  },
+  {
+    "empresa": "Krishang Technolab",
+    "dominio": "krishangtechnolab.com",
+    "assunto_original": "Automação com IA para Krishang Technolab",
+    "servico": "AI Automation",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://krishangtechnolab.com"
+  },
+  {
+    "empresa": "DoodleWeb",
+    "dominio": "doodleweb.io",
+    "assunto_original": "Proteção cibernética para DoodleWeb",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://doodleweb.io"
+  },
+  {
+    "empresa": "Allusivedigital",
+    "dominio": "allusivedigital.com",
+    "assunto_original": "Automação com IA para Allusivedigital",
+    "servico": "AI Automation",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://allusivedigital.com"
+  },
+  {
+    "empresa": "Taskip",
+    "dominio": "taskip.net",
+    "assunto_original": "Automação com IA para Taskip",
+    "servico": "AI Automation",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://taskip.net"
+  },
+  {
+    "empresa": "n8n-io (n8n Workflow Automation)",
+    "dominio": "github.com",
+    "assunto_original": "Automação com IA para n8n-io (n8n Workflow Automation)",
+    "servico": "AI Automation",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://github.com"
+  },
+  {
+    "empresa": "Entech (Cloud Migration for Mid-Sized Firms)",
+    "dominio": "entechus.com",
+    "assunto_original": "Proteção cibernética para Entech (Cloud Migration for Mid-Sized Firms)",
+    "servico": "Cybersecurity",
+    "personal_emails_found": [],
+    "sources": [],
+    "primary_site": "https://entechus.com"
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "empresa": "Conta Azul",
+    "email": "vinicius.roveda@contaazul.com",
+    "site": "https://www.contaazul.com",
+    "localidade": "São Paulo, SP, Brasil",
+    "servico_relevante": "AI Data Pipeline, QA Automation, Chatbots, Document OCR",
+    "motivo": "Accounting/ERP SaaS for SMBs. Needs AI data pipeline for financial analytics, QA automation for continuous deployment, chatbot for customer support, OCR for receipt/invoice processing. High-volume transactional data.",
+    "fonte": "email_discovery_personal",
+    "tipo": "company_brazil",
+    "estimado_valor": "Venture-backed SaaS (Series C+)",
+    "prioridade": "alta",
+    "contato_proventivo": "vinicius.roveda@contaazul.com",
+    "domain": "contaazul.com",
+    "servicos_interesse": [
+      "AI Data Pipeline, QA Automation, Chatbots, Document OCR"
+    ]
+  },
+  {
+    "empresa": "Wildlife Studios",
+    "email": "victor@wildlifestudios.com",
+    "site": "https://wildlifestudios.com.br",
+    "localidade": "São Paulo, SP, Brasil",
+    "servico_relevante": "Video/Audio AI, AI Data Pipeline, QA Automation",
+    "motivo": "Brazilian video/game production studio. Needs video/audio AI for content analysis, automated editing, QA for games/apps, and data pipelines for player analytics. Creative tech = video/audio AI service fit.",
+    "fonte": "email_discovery_personal",
+    "tipo": "company_brazil",
+    "estimado_valor": "Game/video production studio",
+    "prioridade": "media",
+    "contato_proventivo": "victor@wildlifestudios.com",
+    "domain": "wildlifestudios.com",
+    "servicos_interesse": [
+      "Video/Audio AI, AI Data Pipeline, QA Automation"
+    ]
+  },
+  {
+    "empresa": "MIS Solutions",
+    "email": "lliammholmes@mis-solutions.com",
+    "site": "https://www.mis-solutions.com",
+    "localidade": "",
+    "servico_relevante": "Cybersecurity",
+    "motivo": "Contato pessoal identificado para MIS Solutions",
+    "fonte": "email_discovery_personal",
+    "tipo": "company",
+    "estimado_valor": "",
+    "prioridade": "media",
+    "contato_proventivo": "lliammholmes@mis-solutions.com",
+    "domain": "mis-solutions.com",
+    "servicos_interesse": [
+      "Cybersecurity"
+    ]
+  },
+  {
+    "empresa": "Veristor",
+    "email": "ashby.lincoln@veristor.com",
+    "site": "https://www.veristor.com",
+    "localidade": "",
+    "servico_relevante": "Cybersecurity",
+    "motivo": "Contato pessoal identificado para Veristor",
+    "fonte": "email_discovery_personal",
+    "tipo": "company",
+    "estimado_valor": "",
+    "prioridade": "media",
+    "contato_proventivo": "ashby.lincoln@veristor.com",
+    "domain": "veristor.com",
+    "servicos_interesse": [
+      "Cybersecurity"
+    ]
+  },
+  {
+    "empresa": "360 Smart Networks",
+    "email": "terrance.story@360smartnetworks.com",
+    "site": "https://www.360smartnetworks.com",
+    "localidade": "",
+    "servico_relevante": "Cybersecurity",
+    "motivo": "Contato pessoal identificado para 360 Smart Networks",
+    "fonte": "email_discovery_personal",
+    "tipo": "company",
+    "estimado_valor": "",
+    "prioridade": "media",
+    "contato_proventivo": "terrance.story@360smartnetworks.com",
+    "domain": "360smartnetworks.com",
+    "servicos_interesse": [
+      "Cybersecurity"
+    ]
+  },
+  {
+    "empresa": "Brite-Star",
+    "email": "richard.kinderman@britestar.com",
+    "site": "https://www.britestar.com",
+    "localidade": "",
+    "servico_relevante": "Cybersecurity",
+    "motivo": "Contato pessoal identificado para Brite-Star",
+    "fonte": "email_discovery_personal",
+    "tipo": "company",
+    "estimado_valor": "",
+    "prioridade": "media",
+    "contato_proventivo": "richard.kinderman@britestar.com",
+    "domain": "britestar.com",
+    "servicos_interesse": [
+      "Cybersecurity"
+    ]
+  },
+  {
+    "empresa": "ProviDyn",
+    "email": "hamish.davidson@providyn.com",
+    "site": "https://www.providyn.com",
+    "localidade": "",
+    "servico_relevante": "Cybersecurity",
+    "motivo": "Contato pessoal identificado para ProviDyn",
+    "fonte": "email_discovery_personal",
+    "tipo": "company",
+    "estimado_valor": "",
+    "prioridade": "media",
+    "contato_proventivo": "hamish.davidson@providyn.com",
+    "domain": "providyn.com",
+    "servicos_interesse": [
+      "Cybersecurity"
+    ]
+  },
+  {
+    "empresa": "Integris (Premium National MSP)",
+    "email": "rashaad.bajwa@integris.com",
+    "site": "https://integris.com",
+    "localidade": "",
+    "servico_relevante": "Cybersecurity",
+    "motivo": "Contato pessoal identificado para Integris (Premium National MSP)",
+    "fonte": "email_discovery_personal",
+    "tipo": "company",
+    "estimado_valor": "",
+    "prioridade": "alta",
+    "contato_proventivo": "rashaad.bajwa@integris.com",
+    "domain": "integris.com",
+    "servicos_interesse": [
+      "Cybersecurity"
+    ]
+  },
+  {
+    "empresa": "Advanced IT (Chicago SMB focus)",
+    "email": "walter.brown@advancedit.net",
+    "site": "https://advancedit.net",
+    "localidade": "",
+    "servico_relevante": "Cybersecurity",
+    "motivo": "Contato pessoal identificado para Advanced IT (Chicago SMB focus)",
+    "fonte": "email_discovery_personal",
+    "tipo": "company",
+    "estimado_valor": "",
+    "prioridade": "alta",
+    "contato_proventivo": "walter.brown@advancedit.net",
+    "domain": "advancedit.net",
+    "servicos_interesse": [
+      "Cybersecurity"
+    ]
+  },
+  {
+    "empresa": "WheelHouse IT (Top-100 MSP)",
+    "email": "gani.zebersky@wheelhouseit.com",
+    "site": "https://www.wheelhouseit.com",
+    "localidade": "",
+    "servico_relevante": "Cybersecurity",
+    "motivo": "Contato pessoal identificado para WheelHouse IT (Top-100 MSP)",
+    "fonte": "email_discovery_personal",
+    "tipo": "company",
+    "estimado_valor": "",
+    "prioridade": "alta",
+    "contato_proventivo": "gani.zebersky@wheelhouseit.com",
+    "domain": "wheelhouseit.com",
+    "servicos_interesse": [
+      "Cybersecurity"
+    ]
+  },
+  {
+    "empresa": "Elenta Technology LLC",
+    "email": "david.beasley@elentatech.com",
+    "site": "https://elenta.tech",
+    "localidade": "",
+    "servico_relevante": "Cloud Cost",
+    "motivo": "Contato pessoal identificado para Elenta Technology LLC",
+    "fonte": "email_discovery_personal",
+    "tipo": "company",
+    "estimado_valor": "",
+    "prioridade": "media",
+    "contato_proventivo": "david.beasley@elentatech.com",
+    "domain": "elentatech.com",
+    "servicos_interesse": [
+      "Cloud Cost"
+    ]
+  },
+  {
+    "empresa": "Xovak Studio",
+    "email": "khushbu.rao@xovakstudio.com",
+    "site": "https://xovakstudio.com",
+    "localidade": "USA (Web agency, white-label focus)",
+    "servico_relevante": "White-label Development Partner, AI Services, QA Automation",
+    "motivo": "Top white-label agency partner for 2026. Offers custom web/enterprise software. Could be partner for Zion to provide AI/QA services under their brand, or client needing AI capabilities they don't have in-house.",
+    "fonte": "email_discovery_personal",
+    "tipo": "agency_usa",
+    "estimado_valor": "White-label dev agency",
+    "prioridade": "alta",
+    "contato_proventivo": "khushbu.rao@xovakstudio.com",
+    "domain": "xovakstudio.com",
+    "servicos_interesse": [
+      "White-label Development Partner, AI Services, QA Automation"
+    ]
+  },
+  {
+    "empresa": "Krishang Technolab",
+    "email": "ramesh.gosiya@krishangtechnolab.com",
+    "site": "https://www.krishangtechnolab.com",
+    "localidade": "India / Global (White-label agency)",
+    "servico_relevante": "White-label Services, AI, QA Automation, Chatbots",
+    "motivo": "Full-service white label agency. Could subcontract AI/data/QA work to Zion. Digital agencies actively seek white-label partners for AI capabilities they can't build in-house.",
+    "fonte": "email_discovery_personal",
+    "tipo": "agency_international",
+    "estimado_valor": "White-label agency",
+    "prioridade": "media",
+    "contato_proventivo": "ramesh.gosiya@krishangtechnolab.com",
+    "domain": "krishangtechnolab.com",
+    "servicos_interesse": [
+      "White-label Services, AI, QA Automation, Chatbots"
+    ]
+  },
+  {
+    "empresa": "DoodleWeb",
+    "email": "kamal@doodleweb.io",
+    "site": "https://doodleweb.io",
+    "localidade": "USA (White-label web build partner)",
+    "servico_relevante": "White-label Partner for Primes, AI Services, QA",
+    "motivo": "White-label web build partner for agencies and prime contractors. Prime contractors need AI/QA/cybersecurity subs. DoodleWeb model = they sell, partners build. Zion could provide AI services under their brand.",
+    "fonte": "email_discovery_personal",
+    "tipo": "agency_usa",
+    "estimado_valor": "White-label dev partner",
+    "prioridade": "media",
+    "contato_proventivo": "kamal@doodleweb.io",
+    "domain": "doodleweb.io",
+    "servicos_interesse": [
+      "White-label Partner for Primes, AI Services, QA"
+    ]
+  },
+  {
+    "empresa": "Taskip",
+    "email": "sharifur.rahman@taskip.net",
+    "site": "https://taskip.net",
+    "localidade": "USA/Global (White-label services)",
+    "servico_relevante": "White-label Services, AI, QA, Chatbots",
+    "motivo": "White-label services agency with 2026 strategy guide. Agencies looking to productize and offer AI/QA as white-label. Zion could be their AI/ML backend partner.",
+    "fonte": "email_discovery_personal",
+    "tipo": "agency_usa",
+    "estimado_valor": "White-label services agency",
+    "prioridade": "media",
+    "contato_proventivo": "sharifur.rahman@taskip.net",
+    "domain": "taskip.net",
+    "servicos_interesse": [
+      "White-label Services, AI, QA, Chatbots"
+    ]
+  },
+  {
+    "empresa": "Entech (Cloud Migration for Mid-Sized Firms)",
+    "email": "jeffrey.milne@entechus.com",
+    "site": "https://www.entechus.com",
+    "localidade": "Florida, USA",
+    "servico_relevante": "Cloud Migration, IT Consulting, Cybersecurity",
+    "motivo": "Cloud migration services for mid-sized firms. Florida-focused. Mid-market = Zion's sweet spot. Could be competitive intel or partnership opportunity depending on service overlap.",
+    "fonte": "email_discovery_personal",
+    "tipo": "company_usa",
+    "estimado_valor": "Regional IT/cloud services",
+    "prioridade": "baixa",
+    "contato_proventivo": "jeffrey.milne@entechus.com",
+    "domain": "entechus.com",
+    "servicos_interesse": [
+      "Cloud Migration, IT Consulting, Cybersecurity"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-09-07T01:16:42.417718+00:00",
+  "generated_by": "gmail-scan-reseed",
+  "total_leads": 2,
+  "leads": [
+    {
+      "empresa": "\"'MOVECTA S.A' via Commercial Department @ Zion Tech Group\"",
+      "email": "commercial@ziontechgroup.com",
+      "site": "https://ziontechgroup.com",
+      "servico_relevante": "AI Automation",
+      "motivo": "Olá, analisei seu e-mail sobre: Inscreva-se agora: preparamos algo exclusivo para você no Mês do Cliente Movecta!",
+      "fonte": "gmail-scan-reseed",
+      "tipo": "email_inbound_lead",
+      "prioridade": "alta",
+      "contato_proventivo": "commercial@ziontechgroup.com"
+    },
+    {
+      "empresa": "Anass Lagrine Tajeddine",
+      "email": "anass.lagrine@altinexdg.com",
+      "site": "https://altinexdg.com",
+      "servico_relevante": "AI Automation",
+      "motivo": "Olá, analisei seu e-mail sobre: Respuesta automática: Re: RFQ– Rack Relocation Project (Los Angeles)",
+      "fonte": "gmail-scan-reseed",
+      "tipo": "email_inbound_lead",
+      "prioridade": "alta",
+      "contato_proventivo": "anass.lagrine@altinexdg.com"
+    }
+  ]
+}

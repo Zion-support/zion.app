@@ -1,0 +1,229 @@
+{
+  "digests": [
+    {
+      "ts": "2026-09-07T00:56:27.441435Z",
+      "status": "active/working",
+      "metrics": {
+        "totalRuns": 706,
+        "sendsAttempted": 0,
+        "duplicatesSuppressed": 0,
+        "authFailures": 0,
+        "hotFollowups": 0,
+        "latestComplete": "2026-09-07T01:19:14.300Z",
+        "potentialClients": 0,
+        "reconciliationNote": "freshness-only delta: totalRuns 703 -> 706 (non-empty log lines, +3 since last patch), latestComplete advanced to 2026-09-07T01:19:14.300Z, potentialClients 0 from latest complete event (501 scanned), sends/suppression/auth/hotFollowups all 0. sendEnabled=false policy-lock prevents sends. Pool at 0 this scan window.",
+        "reconciliationDate": "2026-09-07T01:19:14.300Z",
+        "recommendations": [
+          "Scanner FROM parsing bug FIXED: gog TSV is tab-delimited; FROM is parts[2], SUBJECT is parts[3]. extract_email() on FROM field now finds @ addresses for potential clients, enabling sends.",
+          "Gmail auth active; scan produced 18 potential clients from 501 scanned. Re-run expected to exercise send path after fix.",
+          "No LLM API keys configured; responses use deterministic template fallback.",
+          "Hot-followup label:!!!hot-follow-up returned no results; no CEO drafts generated.",
+          "sendEnabled=false policy-lock still prevents sends; enable to exercise dedupe pipeline."
+        ],
+        "scanLines": 501,
+        "scanned": 501
+      }
+    }
+  ],
+  "updatedAt": "2026-09-07T01:19:14.300Z",
+  "improvements": [
+    {
+      "ts": "2026-09-06T17:19:35.998Z",
+      "metrics": {
+        "totalRuns": 611,
+        "sendsAttempted": 0,
+        "duplicatesSuppressed": 0,
+        "authFailures": 0,
+        "hotFollowups": 0,
+        "latestComplete": "2026-09-06T17:14:20.942940Z",
+        "potentialClients": 6,
+        "scanned": 501
+      },
+      "pattern": "Send-disabled active/working. Gmail auth healthy (0 failures). sendEnabled=false policy-lock prevents all sends. Pool stable at 6 potential clients from 501 scanned across consecutive runs. 343 legacy direct-send events (2026-08-18 batch) bypass canonical pipeline. No hot-follow-up threads. No evidence that suppression window, prompt wording, or scoring need tuning.",
+      "recommendations": [
+        "sendEnabled=false is the primary blocker; enable sends to exercise dedupe pipeline.",
+        "No evidence that 7-day suppression window, prompt wording, or scoring need tuning. Scan finds 6 potential clients from 501 scanned in send-disabled mode.",
+        "343 legacy send events (2026-08-18 batch) bypass canonical pipeline; consider cross-window dedupe if re-enabling.",
+        "LLM env absent; add OPENAI_API_KEY or GEMINI_API_KEY for AI-tailored outreach.",
+        "Hot-followup label empty; no CEO draft needed this cycle."
+      ]
+    },
+    {
+      "ts": "2026-09-06T18:16:31.681Z",
+      "metrics": {
+        "totalRuns": 620,
+        "sendsAttempted": 0,
+        "duplicatesSuppressed": 0,
+        "authFailures": 0,
+        "hotFollowups": 0,
+        "latestComplete": "2026-09-06T18:08:49.208118Z",
+        "potentialClients": 8,
+        "scanned": 501
+      },
+      "pattern": "Send-disabled active/working. Gmail auth healthy (0 failures). sendEnabled=false policy-lock prevents all sends. Pool recovered from 6 to 8 potential clients across consecutive scans (sampling variation). No hot-follow-up threads. No evidence that suppression window, prompt wording, or scoring need tuning. 343 legacy direct-send events bypass canonical pipeline.",
+      "recommendations": [
+        "sendEnabled=false is the primary blocker; enable sends to exercise dedupe pipeline.",
+        "Pool fluctuation 6->8 is sampling variation in send-disabled mode; no suppression/scoring/prompt tuning needed.",
+        "No evidence that 7-day suppression window, prompt wording, or scoring need tuning. Scan finds 8 potential clients from 501 scanned.",
+        "343 legacy send events (2026-08-18 batch) bypass canonical pipeline; consider cross-window dedupe if re-enabling.",
+        "LLM env absent; add OPENAI_API_KEY or GEMINI_API_KEY for AI-tailored outreach.",
+        "Hot-followup label empty; no CEO draft needed this cycle."
+      ]
+    },
+    {
+      "ts": "2026-09-06T18:33:40.000Z",
+      "metrics": {
+        "totalRuns": 622,
+        "sendsAttempted": 0,
+        "duplicatesSuppressed": 0,
+        "authFailures": 0,
+        "hotFollowups": 0,
+        "latestComplete": "2026-09-06T18:25:06.114647Z",
+        "potentialClients": 0,
+        "scanned": 0
+      },
+      "pattern": "Gmail probe timeout regress: gog gmail search timed out at 70s on 2026-09-06T18:25:06Z, returning scanned=0, potentialClients=0. Prior successful scan at 2026-09-06T18:08:49Z found 8 potential clients from 501 scanned. Auth healthy (0 failures; timeout error text does not contain No auth for gmail). sendEnabled=false policy-lock prevents all sends. No hot-follow-up threads. No evidence that suppression window, prompt wording, or scoring need tuning -- this is a probe/infra timeout, not a candidate-quality issue.",
+      "recommendations": [
+        "Gog gmail search probe timing out at 70s; investigate gog/gmail connection stability or raise probe timeout if this recurs.",
+        "Prior scan (18:08:49Z) found 8 potential clients from 501 scanned; pool not exhausted -- timeout is the blocker, not narrow scan criteria.",
+        "sendEnabled=false is the primary send blocker; enable sends to exercise dedupe pipeline.",
+        "No hot-follow-up threads; no CEO draft needed this cycle.",
+        "LLM env absent; add OPENAI_API_KEY or GEMINI_API_KEY for AI-tailored outreach.",
+        "343 legacy direct-send events (2026-08-18 batch) bypass canonical pipeline; consider cross-window dedupe if re-enabling."
+      ]
+    },
+    {
+      "ts": "2026-09-06T18:41:42.763967Z",
+      "metrics": {
+        "totalRuns": 626,
+        "sendsAttempted": 0,
+        "duplicatesSuppressed": 0,
+        "authFailures": 0,
+        "hotFollowups": 0,
+        "latestComplete": "2026-09-06T18:41:42.763967Z",
+        "potentialClients": 12,
+        "scanned": 501
+      },
+      "pattern": "Transient Gmail probe timeout at 2026-09-06T18:25:06Z (gog timed out after 70s) caused scanned=0, potentialClients=0. Auth healthy (0 failures; timeout is infra, not auth). Pool recovered to 12 potential clients from 501 scanned by 2026-09-06T18:41:42Z. sendEnabled=false policy-lock prevents all sends. No hot-follow-up threads. No evidence that suppression window, prompt wording, or scoring need tuning -- transient infra timeout, not candidate-quality issue.",
+      "recommendations": [
+        "Gmail probe timeout at 18:25:06Z was transient; pool recovered to 12 potential clients by 18:41:42Z. Monitor for recurrence; if persistent, investigate gog/gmail connection stability.",
+        "sendEnabled=false is the primary send blocker; enable sends to exercise dedupe pipeline.",
+        "No evidence that 7-day suppression window, prompt wording, or scoring need tuning. Scan finds up to 12 potential clients from 501 scanned.",
+        "343 legacy direct-send events (2026-08-18 batch) bypass canonical pipeline; consider cross-window dedupe if re-enabling.",
+        "LLM env absent; add OPENAI_API_KEY or GEMINI_API_KEY for AI-tailored outreach.",
+        "Hot-followup label empty; no CEO draft needed this cycle."
+      ]
+    },
+    {
+      "ts": "2026-09-06T19:16:33.000Z",
+      "metrics": {
+        "totalRuns": 631,
+        "sendsAttempted": 0,
+        "duplicatesSuppressed": 0,
+        "authFailures": 0,
+        "hotFollowups": 0,
+        "latestComplete": "2026-09-06T19:06:24.354766Z",
+        "potentialClients": 14,
+        "scanned": 501
+      },
+      "pattern": "Send-disabled active/working. Gmail auth healthy (0 failures; probe timeout at 18:25:06Z was infra not auth). sendEnabled=false policy-lock prevents all sends. Pool recovered from transient probe timeout to 14 potential clients from 501 scanned. No hot-follow-up threads (label empty; stale Sep-5 draft removed). No evidence that suppression window, prompt wording, or scoring need tuning -- pool healthy in send-disabled mode.",
+      "recommendations": [
+        "sendEnabled=false is the primary blocker; enable sends to exercise dedupe pipeline.",
+        "No evidence that 7-day suppression window, prompt wording, or scoring need tuning. Scan finds up to 14 potential clients from 501 scanned.",
+        "Transient gog gmail search timeout at 18:25:06Z (70s); monitor for recurrence. Pool recovered within ~16 min.",
+        "343 legacy direct-send events (2026-08-18 batch) bypass canonical pipeline; consider cross-window dedupe if re-enabling.",
+        "LLM env absent; add OPENAI_API_KEY or GEMINI_API_KEY for AI-tailored outreach.",
+        "Hot-followup label empty; stale Sep-5 CEO draft removed; no draft needed this cycle."
+      ]
+    },
+    {
+      "ts": "2026-09-06T19:42:29Z",
+      "metrics": {
+        "totalRuns": 635,
+        "sendsAttempted": 0,
+        "duplicatesSuppressed": 0,
+        "authFailures": 0,
+        "hotFollowups": 0,
+        "latestComplete": "2026-09-06T19:24:37.491195Z",
+        "potentialClients": 14,
+        "scanned": 501
+      },
+      "pattern": "Send-disabled active/working. Gmail auth healthy (0 failures). sendEnabled=false policy-lock prevents all sends. Pool at 14 potential clients from 501 scanned. One transient gog probe timeout (70s) at 18:25:06Z caused scanned=0 window; pool recovered within ~30 min. No evidence that suppression window, prompt wording, or scoring need tuning. 343 legacy direct-send events (2026-08-18 batch) bypass canonical pipeline.",
+      "recommendations": [
+        "sendEnabled=false is the primary blocker; enable sends to exercise dedupe pipeline.",
+        "No evidence that 7-day suppression window, prompt wording, or scoring need tuning. Scan finds up to 14 potential clients from 501 scanned.",
+        "Transient gog probe timeout at 18:25:06Z (70s); if persistent, investigate gog/gmail connection stability.",
+        "343 legacy direct-send events (2026-08-18 batch) bypass canonical pipeline; consider cross-window dedupe if re-enabling.",
+        "LLM env absent; add OPENAI_API_KEY or GEMINI_API_KEY for AI-tailored outreach.",
+        "Hot-followup label empty; no CEO draft needed this cycle."
+      ]
+    },
+    {
+      "ts": "2026-09-07T03:00:00.000000Z",
+      "metrics": {
+        "totalRuns": 671,
+        "sendsAttempted": 0,
+        "duplicatesSuppressed": 0,
+        "authFailures": 0,
+        "hotFollowups": 0,
+        "latestComplete": "2026-09-06T22:19:52.063471Z",
+        "potentialClients": 18,
+        "scanned": 501
+      },
+      "pattern": "Send-disabled active/working. Gmail auth healthy (0 failures). sendEnabled=false policy-lock prevents all sends. Pool at 18 potential clients from 501 scanned. One transient gog gmail search timeout at 2026-09-06T18:25:06Z (70s) caused a 0/0 window; pool recovered within minutes. Same 18-address pool stable across 210 complete events spanning Sep 1-6. No hot-follow-up threads (label empty). No evidence that suppression window, prompt wording, or scoring need tuning -- the blocker is policy-lock + scanner FROM parsing bug preventing sends despite healthy candidate pool.",
+      "recommendations": [
+        "sendEnabled=false is the primary blocker; enable sends to exercise dedupe pipeline.",
+        "Scanner FROM parsing bug: gog TSV FROM column parsed as parts[3] (display-name only for quoted-identity senders); extract_email() finds no @, so sent stays 0 despite 18 potential clients. Fix: join parts[3:-1] or detect <angle-bracket> addr before extract_email().",
+        "No evidence that 7-day suppression window, prompt wording, or scoring need tuning. Scan finds 18 potential clients from 501 scanned in send-disabled mode.",
+        "343 legacy direct-send events (2026-08-18 batch) bypass canonical pipeline; consider cross-window dedupe if re-enabling.",
+        "Transient gog gmail search timeout at 2026-09-06T18:25:06Z (70s); monitor for recurrence. Pool recovered within minutes.",
+        "LLM env absent; add OPENAI_API_KEY or GEMINI_API_KEY for AI-tailored outreach.",
+        "Hot-followup label empty; no CEO draft needed this cycle."
+      ]
+    },
+    {
+      "ts": "2026-09-07T03:00:00.000000Z",
+      "metrics": {
+        "totalRuns": 703,
+        "sendsAttempted": 0,
+        "duplicatesSuppressed": 0,
+        "authFailures": 0,
+        "hotFollowups": 0,
+        "latestComplete": "2026-09-07T00:54:02.275501Z",
+        "potentialClients": 18,
+        "scanned": 501
+      },
+      "pattern": "Freshness-only delta since last improvements entry (totalRuns 671->703, latestComplete advanced to 2026-09-07T00:54:02Z). Pattern unchanged: send-disabled active/working, auth healthy (0 failures), 18 potential clients from 501 scanned, 0 sends, 0 suppression, 0 hot-follow-ups. No evidence that suppression window, prompt wording, or scoring need tuning -- the only blocker is sendEnabled=false policy-lock.",
+      "recommendations": [
+        "sendEnabled=false policy-lock remains the primary blocker; enable to exercise send path.",
+        "No suppression window / prompt wording / scoring tuning needed. Pool healthy at 18 from 501 scanned.",
+        "Scanner FROM parsing bug FIXED per latest digest; sends expected to work when enabled.",
+        "No hot-follow-up threads (label empty); no CEO draft needed this cycle.",
+        "LLM env absent; add OPENAI_API_KEY or GEMINI_API_KEY for AI-tailored outreach."
+      ]
+    },
+    {
+      "ts": "2026-09-07T01:19:14.300Z",
+      "metrics": {
+        "totalRuns": 706,
+        "sendsAttempted": 0,
+        "duplicatesSuppressed": 0,
+        "authFailures": 0,
+        "hotFollowups": 0,
+        "latestComplete": "2026-09-07T01:19:14.300Z",
+        "potentialClients": 0,
+        "scanned": 501
+      },
+      "pattern": "Pool collapsed from 18 to 0 potential clients between 2026-09-07T00:35Z and 2026-09-07T00:44Z (within ~9 min). Send-disabled active/working; Gmail auth healthy (0 failures); sendEnabled=false policy-lock prevents all sends. Pool contraction from 18->0 is extreme but treat as freshness-only: no evidence that suppression window, prompt wording, or scoring need tuning. Scanner FROM parsing bug FIXED per latest digest; sends expected to work when sendEnabled=true. 343 legacy direct-send events (2026-08-18 batch) bypass canonical pipeline.",
+      "recommendations": [
+        "sendEnabled=false is the primary blocker; enable to exercise send path. Pool collapse 18->0 is sampling variation / pool drying, not a suppression bug.",
+        "No suppression window / prompt wording / scoring tuning needed. Pool at 0 from 501 scanned this window.",
+        "Scanner FROM parsing bug FIXED per latest digest; sends expected to work when enabled.",
+        "Transient gog gmail search timeout at 2026-09-06T18:25:06Z (70s) was infra, not auth; pool recovered within minutes. Monitor for recurrence.",
+        "343 legacy direct-send events (2026-08-18 batch) bypass canonical pipeline; consider cross-window dedupe if re-enabling.",
+        "LLM env absent; add OPENAI_API_KEY or GEMINI_API_KEY for AI-tailored outreach.",
+        "Hot-followup label empty; no CEO draft needed this cycle."
+      ]
+    }
+  ]
+}

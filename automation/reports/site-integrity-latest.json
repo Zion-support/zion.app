@@ -1,0 +1,71 @@
+{
+  "site": "https://ziontechgroup.com",
+  "total_crawled": 5000,
+  "http_200_count": 413,
+  "broken_count": 4587,
+  "broken_urls": [
+    {
+      "url": "https://ziontechgroup.com/admin-dashboard/",
+      "status": "ERR: https://ziontechgroup.com/admin-dashboard/",
+      "classification": "missing page",
+      "final_url": null
+    },
+    {
+      "url": "https://ziontechgroup.com/ai-data-contract-governance-2026/",
+      "status": "ERR: https://ziontechgroup.com/ai-data-contract-governance-2026/",
+      "classification": "missing page",
+      "final_url": null
+    },
+    {
+      "url": "https://ziontechgroup.com/ai-first-cloud-cost-optimization/",
+      "status": "ERR: https://ziontechgroup.com/ai-first-cloud-cost-optimization/",
+      "classification": "missing page",
+      "final_url": null
+    },
+    {
+      "url": "https://ziontechgroup.com/ai-first-cloud-migration-2026/",
+      "status": "ERR: https://ziontechgroup.com/ai-first-cloud-migration-2026/",
+      "classification": "missing page",
+      "final_url": null
+    },
+    {
+      "url": "https://ziontechgroup.com/ai-first-devsecops-2026/",
+      "status": "ERR: https://ziontechgroup.com/ai-first-devsecops-2026/",
+      "classification": "missing page",
+      "final_url": null
+    },
+    {
+      "url": "https://ziontechgroup.com/ai-first-education-platforms-and-learning-intelligence-in-2026/",
+      "status": "ERR: https://ziontechgroup.com/ai-first-education-platforms-and-learning-intelligence-in-2026/",
+      "classification": "missing page",
+      "final_url": null
+    },
+    {
+      "url": "https://ziontechgroup.com/ai-first-incident-response-2026/",
+      "status": "ERR: https://ziontechgroup.com/ai-first-incident-response-2026/",
+      "classification": "missing page",
+      "final_url": null
+    },
+    {
+      "url": "https://ziontechgroup.com/ai-first-low-code-workflow-automation-for-brazilian-it-in-2026/",
+      "status": "ERR: https://ziontechgroup.com/ai-first-low-code-workflow-automation-for-brazilian-it-in-2026/",
+      "classification": "missing page",
+      "final_url": null
+    },
+    {
+      "url": "https://ziontechgroup.com/ai-first-low-latency-observability-and-edge-monitoring-for-it-in-2026/",
+      "status": "ERR: https://ziontechgroup.com/ai-first-low-latency-observability-and-edge-monitoring-for-it-in-2026/",
+      "classification": "missing page",
+      "final_url": null
+    },
+    {
+      "url": "https://ziontechgroup.com/ai-first-occupational-health-and-safety-intelligence-in-2026/",
+      "status": "ERR: https://ziontechgroup.com/ai-first-occupational-health-and-safety-intelligence-in-2026/",
+      "classification": "missing page",
+      "final_url": null
+    }
+  ],
+  "classification_summary": {
+    "missing page": 4587
+  }
+}

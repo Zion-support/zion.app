@@ -1,0 +1,26 @@
+[
+  {
+    "email": "contato@beep.saude.com.br",
+    "name": "Beep Saúde",
+    "company": "Beep Saúde",
+    "role": "Destionário",
+    "personal_note": "Health tech startup. Digital health platform needing AI data pipelines, patient document OCR, chatbot for patient engagement, and cloud infrastructure",
+    "site": "https://beep.saude.com.br"
+  },
+  {
+    "email": "contato@bliss.health",
+    "name": "Bliss Health",
+    "company": "Bliss Health",
+    "role": "Destionário",
+    "personal_note": "Health/wellness platform. Digital health services needing patient data pipelines, chatbot for user engagement, document processing, and cloud infrastr",
+    "site": "https://bliss.health"
+  },
+  {
+    "email": "contato@contaazul.com",
+    "name": "Conta Azul",
+    "company": "Conta Azul",
+    "role": "Destionário",
+    "personal_note": "Accounting/ERP SaaS for SMBs. Needs AI data pipeline for financial analytics, QA automation for continuous deployment, chatbot for customer support, O",
+    "site": "https://www.contaazul.com"
+  }
+]

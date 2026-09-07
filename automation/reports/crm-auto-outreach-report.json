@@ -1,0 +1,10 @@
+{
+  "source": "/Users/miami2/zion.app/automation/data/zion_leads_free.json",
+  "leads_processed": 160,
+  "sent": 0,
+  "skipped": 160,
+  "errors": 0,
+  "send_enabled_live_sends_happened": false,
+  "reason_all_skipped": "todos os 160 leads foram marcados como duplicados (email já enviado) no log de campanha",
+  "log_path": "/Users/miami2/zion.app/outreach-send-log-campaign.jsonl"
+}

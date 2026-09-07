@@ -1,0 +1,157 @@
+---
+layout: none
+---
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charSet="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes"/>
+<link rel="stylesheet" href="/styles.css"/>
+<title="AI Application Development — Zion Tech Group</title>
+<meta name="description" content="Full-stack AI application development: architecture, UX, model integration, security, and production deployment."/>
+<meta name="keywords" content="AI development, AI application, AI product development, AI engineering, production AI"/>
+<link rel="canonical" href="https://ziontechgroup.com/services/ai-application-development/"/>
+<meta property="og:title" content="AI Application Development — Zion Tech Group"/>
+<meta property="og:description" content="Full-stack AI application development: architecture, UX, model integration, security, and production deployment."/>
+<meta property="og:url" content="https://ziontechgroup.com/services/ai-application-development/"/>
+<meta property="og:type" content="website"/>
+<link rel="icon" href="/favicon.ico"/>
+<link rel="apple-touch-icon" href="/icon.svg"/>
+<style>
+:root { --purple: #a855f7; --pink: #ec4899; --blue: #3b82f6; --slate-950: #020617; --slate-900: #0f172a; --slate-800: #1e293b; --slate-700: #334155; --slate-400: #94a3b8; --slate-300: #cbd5e1; --white: #f8fafc; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: var(--slate-950); color: var(--white); line-height: 1.6; }
+.container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+.nav { display: flex; align-items: center; justify-content: space-between; padding: 16px 24px; background: rgba(15, 23, 42, 0.8); backdrop-filter: blur(12px); position: sticky; top: 0; z-index: 100; border-bottom: 1px solid rgba(148, 163, 184, 0.1); }
+.nav-brand { font-size: 1.5rem; font-weight: 700; background: linear-gradient(135deg, var(--purple), var(--pink)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; }
+.nav-links { display: flex; align-items: center; gap: 16px; }
+.nav-links a { color: var(--slate-300); text-decoration: none; font-size: 0.875rem; transition: color 0.2s; }
+.nav-links a:hover { color: var(--white); }
+.nav-cta { background: linear-gradient(135deg, var(--purple), var(--pink)); color: white; padding: 8px 20px; border-radius: 9999px; font-weight: 600; font-size: 0.875rem; text-decoration: none; }
+.header { text-align: center; padding: 80px 24px 40px; }
+.header h1 { font-size: 3rem; font-weight: 800; margin-bottom: 16px; background: linear-gradient(135deg, var(--white), var(--slate-300)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.header p { color: var(--slate-400); font-size: 1.125rem; max-width: 800px; margin: 0 auto 32px; }
+.section { padding: 60px 0; }
+.section h2 { font-size: 2rem; font-weight: 700; margin-bottom: 16px; text-align: center; }
+.section .subtitle { color: var(--slate-400); font-size: 1.0625rem; max-width: 700px; margin: 0 auto 40px; text-align: center; }
+.price-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; padding: 40px 0; }
+.price-card { background: rgba(30, 41, 59, 0.5); border: 1px solid rgba(148, 163, 184, 0.1); border-radius: 16px; padding: 32px; transition: all 0.3s; position: relative; }
+.price-card:hover { border-color: var(--purple); transform: translateY(-2px); box-shadow: 0 20px 40px rgba(0,0,0,0.3); }
+.price-card.featured { border-color: var(--purple); background: linear-gradient(180deg, rgba(168, 85, 247, 0.1), rgba(30, 41, 59, 0.5)); }
+.price-card h3 { font-size: 1.25rem; margin-bottom: 8px; }
+.price-card .price { font-size: 2.5rem; font-weight: 700; color: var(--white); margin: 16px 0; }
+.price-card .price span { font-size: 1rem; color: var(--slate-400); font-weight: 400; }
+.price-card .description { color: var(--slate-400); font-size: 0.875rem; margin-bottom: 24px; }
+.price-features { list-style: none; margin-bottom: 24px; }
+.price-features li { padding: 8px 0; color: var(--slate-300); font-size: 0.875rem; display: flex; align-items: center; gap: 8px; }
+.price-features li::before { content: '✓'; color: var(--blue); font-weight: 700; }
+.price-card .btn { display: block; width: 100%; padding: 12px 24px; border-radius: 8px; font-weight: 600; text-align: center; text-decoration: none; transition: all 0.2s; font-size: 0.875rem; cursor: pointer; border: none; }
+.btn-primary { background: linear-gradient(135deg, var(--purple), var(--pink)); color: white; }
+.btn-primary:hover { opacity: 0.9; transform: translateY(-1px); }
+.btn-outline { background: transparent; border: 1px solid var(--slate-700); color: var(--slate-300); }
+.btn-outline:hover { border-color: var(--purple); color: var(--white); }
+.cta-section { text-align: center; padding: 80px 24px; background: linear-gradient(180deg, transparent, rgba(168, 85, 247, 0.05)); }
+.cta-section h2 { font-size: 2rem; margin-bottom: 16px; }
+.cta-section p { color: var(--slate-400); margin-bottom: 32px; }
+.footer { border-top: 1px solid rgba(148, 163, 184, 0.1); padding: 40px 24px; text-align: center; color: var(--slate-400); font-size: 0.875rem; }
+.footer a { color: var(--slate-300); text-decoration: none; }
+.footer a:hover { color: var(--white); }
+.note { background: rgba(59, 130, 246, 0.1); border: 1px solid rgba(59, 130, 246, 0.2); border-radius: 12px; padding: 20px 24px; margin-top: 32px; }
+.note p { color: var(--slate-400); font-size: 0.9375rem; }
+@media (max-width: 768px) {
+  .header h1 { font-size: 2rem; }
+  .nav-links { display: none; }
+  .price-cards { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+<nav class="nav">
+  <a href="/" class="nav-brand">Zion Tech Group</a>
+  <div class="nav-links">
+    <a href="/services/">Services</a>
+    <a href="/pricing/">Pricing</a>
+    <a href="/stripe/">Pay</a>
+    <a href="/contact/">Contact</a>
+    <a href="https://calendly.com/kleber-ziontechgroup" class="nav-cta">Book Consultation</a>
+  </div>
+</nav>
+
+<header class="header">
+  <h1>AI Application Development</h1>
+  <p>End-to-end AI product development: UX, architecture, model integration, security, and production deployment.</p>
+</header>
+
+<section class="section">
+  <div class="container">
+    <h2>Engagement Models</h2>
+    <p class="subtitle">Productized AI development packages.</p>
+    <div class="price-cards">
+      <div class="price-card">
+        <h3>AI MVP</h3>
+        <div class="price">$4,499 <span>one-time</span></div>
+        <p class="description">Ship an AI-powered product MVP with core workflows, integrations, and validation metrics.</p>
+        <ul class="price-features">
+          <li>Product &amp; UX definition</li>
+          <li>Core AI workflow implementation</li>
+          <li>Model integration &amp; evaluation</li>
+          <li>Security &amp; privacy controls</li>
+          <li>Deployment &amp; monitoring setup</li>
+          <li>Validation metrics &amp; report</li>
+        </ul>
+        <a href="https://buy.stripe.com/test_3dsFE0m9sKK09viOZMMO8MQ8Wx8w3A895" class="btn btn-primary" target="_blank">Pay $4,499 — Start Now</a>
+      </div>
+
+      <div class="price-card featured">
+        <h3>AI Product Launch</h3>
+        <div class="price">$14,999 <span>one-time</span></div>
+        <p class="description">Full AI product development through production launch with reliability, security, and growth features.</p>
+        <ul class="price-features">
+          <li>Everything in AI MVP</li>
+          <li>Advanced workflows &amp; personalization</li>
+          <li>Security hardening &amp; compliance</li>
+          <li>Performance optimization</li>
+          <li>Release checklist &amp; launch plan</li>
+          <li>Post-launch support &amp; monitoring</li>
+          <li>Executive presentation</li>
+        </ul>
+        <a href="https://buy.stripe.com/test_3dsFE0m9sKK0909viOZMMO8MQ8Wx8w3A895" class="btn btn-primary" target="_blank">Pay $14,999 — Start Now</a>
+      </div>
+
+      <div class="price-card">
+        <h3>AI Product Operations</h3>
+        <div class="price">$3,999 <span>/month</span></div>
+        <p class="description">Managed evolution: bug fixes, model improvements, feature updates, and reliability engineering.</p>
+        <ul class="price-features">
+          <li>Bug fixes &amp; patch releases</li>
+          <li>Model retraining &amp; evaluation</li>
+          <li>Feature updates &amp; experiments</li>
+          <li>Reliability &amp; incident response</li>
+          <li>Monthly product review</li>
+          <li>Cancel anytime</li>
+        </ul>
+        <a href="https://buy.stripe.com/test_3dsFE0m9sKK09viOZMMO8MQ8Wx8w3A895" class="btn btn-primary" target="_blank">Start Operations — $3,999/mo</a>
+      </div>
+    </div>
+
+    <div class="note">
+      <p><strong>Secure payment via Stripe.</strong> After payment, we'll begin with product scoping and milestone planning.</p>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <div class="container">
+    <h2>Need a Custom Product Roadmap?</h2>
+    <p>Large AI products need scoped delivery. Book a call for fixed-price milestones.</p>
+    <a href="https://calendly.com/kleber-ziontechgroup" style="display:inline-block; padding:14px 32px; background: linear-gradient(135deg, var(--purple), var(--pink)); color:white; border-radius:9999px; font-weight:600; text-decoration:none;">Book a Discovery Call</a>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <p>© 2026 Zion Tech Group. All rights reserved. | <a href="/privacy/">Privacy</a> | <a href="/terms/">Terms</a> | <a href="/contact/">Contact</a></p>
+  </div>
+</footer>
+</body>
+</html>

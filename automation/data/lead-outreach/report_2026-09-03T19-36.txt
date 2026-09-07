@@ -1,0 +1,29 @@
+Total outreach runs: 31
+Duplicates suppressed: 0
+Sends attempted: 0
+Auth failures: 0
+Hot followups: 0
+Latest complete: 2026-09-03T19:36:10.477879+00:00
+Potential clients: 6
+Canonical complete events: 31
+Scanned per event: 501
+
+Pattern: Active/working stale candidate pool. Same 6 addresses suppressed by 7-day dedupe window across 31 consecutive complete events since log truncation (2026-09-03T12:40:57). Zero sends attempted — canonical send path not wired up. This is a send-path integration gap, not a suppression/scoring/prompt issue.
+
+Suppression pool (unchanged):
+- bernard@awaz.pro
+- spmsuvadcomunicaservicos8@correios.com.br
+- sales@luxortek.com
+- admin1@everkerr.com
+- falecom@portaldecompraspublicas.com.br
+- adam@logicwell-tech.com
+
+Legacy direct-send topology bypasses canonical pipeline: 343 sends, 342 identical subject (Parceria Zion Tech Group), 143 unique recipients, 95 domains, no cross-window dedupe.
+
+No meaningful delta to suggest updating suppression window, prompt wording, or scoring. Blocker is canonical send path integration.
+
+Hot-followup: label:!!!hot-follow-up returned 0 results. No live reply thread. No CEO draft generated.
+
+Draft file: hot-followup-ceo-reply-draft.txt updated with status "prepared — no active hot-followup threads" at 2026-09-03T19:36:10.477879+00:00.
+
+New improvements.json entry appended: ts=2026-09-03T19:36:10.477879+00:00 documenting post-truncation log growth to 31 complete events, 6-address stagnant pool, 0 sends, 0 suppression, 0 auth failures, 0 hot-followups, same recommendations.

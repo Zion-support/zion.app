@@ -1,0 +1,344 @@
+[
+  {
+    "timestamp": "2026-09-01T11:30:34.266510+00:00",
+    "to": "contato@beep.saude.com.br",
+    "empresa": "Beep Saúde",
+    "subject": "Otimização de custos cloud para Beep Saúde",
+    "service": "Cloud Cost",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:30:35.600072+00:00",
+    "to": "contato@bliss.health",
+    "empresa": "Bliss Health",
+    "subject": "Proteção cibernética para Bliss Health",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:30:36.941876+00:00",
+    "to": "contato@prodam.sp.gov.br",
+    "empresa": "Prodam SP (Governo do Estado)",
+    "subject": "Proteção cibernética para Prodam SP (Governo do Estado)",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:30:38.459859+00:00",
+    "to": "contato@natura.com",
+    "empresa": "Natura",
+    "subject": "Proteção cibernética para Natura",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:30:39.748474+00:00",
+    "to": "contato@getenter.ai",
+    "empresa": "Enter (getenter.ai)",
+    "subject": "Proteção cibernética para Enter (getenter.ai)",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:30:41.768283+00:00",
+    "to": "contato@getdarwin.ai",
+    "empresa": "Darwin AI (getdarwin.ai)",
+    "subject": "Otimização de custos cloud para Darwin AI (getdarwin.ai)",
+    "service": "Cloud Cost",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:30:43.231343+00:00",
+    "to": "contato@guiss.com.br",
+    "empresa": "Guiss Consulting",
+    "subject": "Otimização de custos cloud para Guiss Consulting",
+    "service": "Cloud Cost",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:30:45.216265+00:00",
+    "to": "contato@origentech.com",
+    "empresa": "Origen Tech",
+    "subject": "Otimização de custos cloud para Origen Tech",
+    "service": "Cloud Cost",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:30:47.099891+00:00",
+    "to": "contato@contaazul.com",
+    "empresa": "Conta Azul",
+    "subject": "Automação com IA para Conta Azul",
+    "service": "AI Automation",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:30:48.674613+00:00",
+    "to": "contato@stone.com.br",
+    "empresa": "Stone (Pagamentos)",
+    "subject": "Proteção cibernética para Stone (Pagamentos)",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:30:50.347327+00:00",
+    "to": "contato@wildlifestudios.com.br",
+    "empresa": "Wildlife Studios",
+    "subject": "Automação com IA para Wildlife Studios",
+    "service": "AI Automation",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:30:51.831847+00:00",
+    "to": "contato@apptunix.com",
+    "empresa": "Apptunix",
+    "subject": "Otimização de custos cloud para Apptunix",
+    "service": "Cloud Cost",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:30:53.373115+00:00",
+    "to": "contato@radix.com.br",
+    "empresa": "Radix",
+    "subject": "Proteção cibernética para Radix",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:30:54.970699+00:00",
+    "to": "contato@clutch.co",
+    "empresa": "TechPulse (IT Support & Managed IT)",
+    "subject": "Proteção cibernética para TechPulse (IT Support & Managed IT)",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:30:57.155048+00:00",
+    "to": "contato@trueitpros.com",
+    "empresa": "trueITpros",
+    "subject": "Proteção cibernética para trueITpros",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:30:58.574998+00:00",
+    "to": "contato@mis-solutions.com",
+    "empresa": "MIS Solutions",
+    "subject": "Proteção cibernética para MIS Solutions",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:00.009951+00:00",
+    "to": "contato@veristor.com",
+    "empresa": "Veristor",
+    "subject": "Proteção cibernética para Veristor",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:01.667505+00:00",
+    "to": "contato@360smartnetworks.com",
+    "empresa": "360 Smart Networks",
+    "subject": "Proteção cibernética para 360 Smart Networks",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:03.007647+00:00",
+    "to": "contato@britestar.com",
+    "empresa": "Brite-Star",
+    "subject": "Proteção cibernética para Brite-Star",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:04.540333+00:00",
+    "to": "contato@providyn.com",
+    "empresa": "ProviDyn",
+    "subject": "Proteção cibernética para ProviDyn",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:06.492077+00:00",
+    "to": "contato@integris.com",
+    "empresa": "Integris (Premium National MSP)",
+    "subject": "Proteção cibernética para Integris (Premium National MSP)",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:08.098824+00:00",
+    "to": "contato@advancedit.net",
+    "empresa": "Advanced IT (Chicago SMB focus)",
+    "subject": "Proteção cibernética para Advanced IT (Chicago SMB focus)",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:09.663967+00:00",
+    "to": "contato@wheelhouseit.com",
+    "empresa": "WheelHouse IT (Top-100 MSP)",
+    "subject": "Proteção cibernética para WheelHouse IT (Top-100 MSP)",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:11.264669+00:00",
+    "to": "contato@frontlinemsp.com",
+    "empresa": "Frontline Managed Services",
+    "subject": "Proteção cibernética para Frontline Managed Services",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:12.730689+00:00",
+    "to": "contato@rio.rj.gov.br",
+    "empresa": "Rio AI City Project / Prefeitura RJ",
+    "subject": "Otimização de custos cloud para Rio AI City Project / Prefeitura RJ",
+    "service": "Cloud Cost",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:14.529747+00:00",
+    "to": "contato@kahunalabs.com",
+    "empresa": "Kahuna Labs (Google Startup Cloud AI Accelerator)",
+    "subject": "Otimização de custos cloud para Kahuna Labs (Google Startup Cloud AI Accelerator)",
+    "service": "Cloud Cost",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:16.084676+00:00",
+    "to": "contato@elenta.tech",
+    "empresa": "Elenta Technology LLC",
+    "subject": "Otimização de custos cloud para Elenta Technology LLC",
+    "service": "Cloud Cost",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:17.752463+00:00",
+    "to": "contato@sam.gov",
+    "empresa": "DNFSB - IT Support Services",
+    "subject": "Proteção cibernética para DNFSB - IT Support Services",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:19.324722+00:00",
+    "to": "contato@ostglobalsolutions.com",
+    "empresa": "IRS - Small Business IT/ Cloud BPA",
+    "subject": "Proteção cibernética para IRS - Small Business IT/ Cloud BPA",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:20.779593+00:00",
+    "to": "contato@google.com",
+    "empresa": "City of Cabot - Cloud Migration RFP (Starbridge)",
+    "subject": "Otimização de custos cloud para City of Cabot - Cloud Migration RFP (Starbridge)",
+    "service": "Cloud Cost",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:22.472370+00:00",
+    "to": "contato@goodfirms.co",
+    "empresa": "Neurosia",
+    "subject": "Automação com IA para Neurosia",
+    "service": "AI Automation",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:23.774671+00:00",
+    "to": "contato@xovakstudio.com",
+    "empresa": "Xovak Studio",
+    "subject": "Automação com IA para Xovak Studio",
+    "service": "AI Automation",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:25.157775+00:00",
+    "to": "contato@krishangtechnolab.com",
+    "empresa": "Krishang Technolab",
+    "subject": "Automação com IA para Krishang Technolab",
+    "service": "AI Automation",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:26.962877+00:00",
+    "to": "contato@doodleweb.io",
+    "empresa": "DoodleWeb",
+    "subject": "Proteção cibernética para DoodleWeb",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:28.439418+00:00",
+    "to": "contato@allusivedigital.com",
+    "empresa": "Allusivedigital",
+    "subject": "Automação com IA para Allusivedigital",
+    "service": "AI Automation",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:30.668710+00:00",
+    "to": "contato@taskip.net",
+    "empresa": "Taskip",
+    "subject": "Automação com IA para Taskip",
+    "service": "AI Automation",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:32.069128+00:00",
+    "to": "contato@github.com",
+    "empresa": "n8n-io (n8n Workflow Automation)",
+    "subject": "Automação com IA para n8n-io (n8n Workflow Automation)",
+    "service": "AI Automation",
+    "status": "sent",
+    "error": null
+  },
+  {
+    "timestamp": "2026-09-01T11:31:33.519642+00:00",
+    "to": "contato@entechus.com",
+    "empresa": "Entech (Cloud Migration for Mid-Sized Firms)",
+    "subject": "Proteção cibernética para Entech (Cloud Migration for Mid-Sized Firms)",
+    "service": "Cybersecurity",
+    "status": "sent",
+    "error": null
+  }
+]

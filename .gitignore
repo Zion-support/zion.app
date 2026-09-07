@@ -22,8 +22,16 @@ _not-found/
 
 # Build output (GitHub Pages)
 _next/
+
+# Python/virtualenv artifacts
 out/
 __pycache__/
+.crawl-venv/
+automation/.crawl-venv/
+automation/__pycache__/
+automation/scripts/__pycache__/
+commands/__pycache__/
+*.bak
 live_integrity_check.py
 crawl_live.py
 crawl_report.txt

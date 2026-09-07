@@ -1,0 +1,126 @@
+{"template": "cold_outreach", "email": "contato@empresa1.com.br", "subject": "Introdução — Empresa 1 / CTO", "status": "dry_run", "ts": "2026-09-01T15:24:28.546875+00:00", "error": null}
+{"template": "cold_outreach", "email": "hello@empresa2.com", "subject": "Introdução — Empresa 2 / Head de Operações", "status": "dry_run", "ts": "2026-09-01T15:24:28.547392+00:00", "error": null}
+{"template": "cold_outreach", "email": "cto@startupbrasil.io", "subject": "Introdução — StartupBrasil / CEO", "status": "dry_run", "ts": "2026-09-01T15:24:28.548202+00:00", "error": null}
+{"template": "cold_outreach", "email": "FLast@blisshs.com", "subject": "Introdução — Bliss Health / Fundador", "status": "sent", "ts": "2026-09-01T15:36:23.251744+00:00", "error": null}
+{"template": "cold_outreach", "email": "tecnologia@beepsaude.com.br", "subject": "Introdução — Beep Saúde / TI/tecnologia", "status": "sent", "ts": "2026-09-01T15:37:05.113260+00:00", "error": null}
+{"template": "cold_outreach", "email": "prodam@prodam.sp.gov.br", "subject": "Introdução — Prodam SP (Governo do Estado) / TI do Governo", "status": "sent", "ts": "2026-09-01T15:37:12.103564+00:00", "error": null}
+{"template": "cold_outreach_founders", "email": "founders@getenter.ai", "subject": "Contato — Enter", "status": "sent", "ts": "2026-09-01T15:43:32.126889+00:00", "error": null}
+{"template": "cold_outreach_founders", "email": "founders@getdarwin.ai", "subject": "Contato — Darwin AI", "status": "sent", "ts": "2026-09-01T15:43:35.515291+00:00", "error": null}
+{"template": "cold_outreach_founders", "email": "founders@kahunalabs.com", "subject": "Contato — Kahuna Labs (Google Startup Cloud AI Accelerator)", "status": "sent", "ts": "2026-09-01T15:43:38.989004+00:00", "error": null}
+{"template": "cold_outreach", "email": "hello@anotherit.co.uk", "subject": "Introdução — ANother Managed IT Services / TI", "status": "sent", "ts": "2026-09-01T16:06:38.162240+00:00", "error": null}
+{"template": "cold_outreach", "email": "info@aimanageditservice.com", "subject": "Introdução — AI Managed IT Services / TI", "status": "sent", "ts": "2026-09-01T16:06:41.581112+00:00", "error": null}
+{"template": "cold_outreach", "email": "hello@easyit.com.au", "subject": "Introdução — easyIT - Managed IT Services Melbourne / TI", "status": "sent", "ts": "2026-09-01T16:06:45.044477+00:00", "error": null}
+{"template": "cold_outreach", "email": "contacto@haak.com.mx", "subject": "Introdução — Haak Cybersecurity Consulting / Consultor de Segurança", "status": "sent", "ts": "2026-09-01T16:06:48.817033+00:00", "error": null}
+{"template": "cold_outreach", "email": "a@amk.io", "subject": "Introdução — AMKIO Software & Cybersecurity Consulting / CEO/Fundador", "status": "sent", "ts": "2026-09-01T16:06:52.516818+00:00", "error": null}
+{"template": "cold_outreach", "email": "contact@redsquid.co.uk", "subject": "Introdução — Redsquid / MSSP Director", "status": "sent", "ts": "2026-09-01T16:13:41.302748+00:00", "error": null}
+{"template": "cold_outreach", "email": "contact@fifosys.com", "subject": "Introdução — Fifosys / Managing Director", "status": "sent", "ts": "2026-09-01T16:13:44.817293+00:00", "error": null}
+{"template": "cold_outreach", "email": "contact@boldit.co.uk", "subject": "Introdução — Bold IT / Director", "status": "sent", "ts": "2026-09-01T16:13:48.261837+00:00", "error": null}
+{"template": "cold_outreach", "email": "contact@dynamicnetworksgroup.co.uk", "subject": "Introdução — Dynamic Networks Group / Managing Director", "status": "sent", "ts": "2026-09-01T16:13:51.739782+00:00", "error": null}
+{"template": "cold_outreach", "email": "contact@sisl.global", "subject": "Introdução — Sisl Infotech (UK) Ltd / Director", "status": "sent", "ts": "2026-09-01T16:13:55.220806+00:00", "error": null}
+{"template": "cold_outreach", "email": "contact@cybercx.com.au", "subject": "Introdução — CyberCX / CEO", "status": "sent", "ts": "2026-09-01T16:13:58.667476+00:00", "error": null}
+{"template": "cold_outreach", "email": "contact@gridware.com.au", "subject": "Introdução — Gridware / Founder", "status": "sent", "ts": "2026-09-01T16:14:02.201843+00:00", "error": null}
+{"template": "cold_outreach", "email": "contact@intellectit.com.au", "subject": "Introdução — Intellect IT / Director", "status": "sent", "ts": "2026-09-01T16:14:05.738525+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@beep.saude.com.br", "subject": "Introdução — Beep Saúde / Destionário", "status": "sent", "ts": "2026-09-01T18:58:00.163043+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@bliss.health", "subject": "Introdução — Bliss Health / Destionário", "status": "sent", "ts": "2026-09-01T18:58:09.458371+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@contaazul.com", "subject": "Introdução — Conta Azul / Destionário", "status": "sent", "ts": "2026-09-01T18:58:14.078455+00:00", "error": null}
+{"template": "cold_outreach", "email": "vercel-labs@github.com", "subject": "Introdução — vercel-labs / Maintainer", "status": "sent", "ts": "2026-09-01T19:01:24.916249+00:00", "error": null}
+{"template": "cold_outreach", "email": "activepieces@github.com", "subject": "Introdução — activepieces / Maintainer", "status": "sent", "ts": "2026-09-01T19:01:28.361965+00:00", "error": null}
+{"template": "cold_outreach", "email": "hexabot-ai@github.com", "subject": "Introdução — hexabot-ai / Maintainer", "status": "sent", "ts": "2026-09-01T19:01:31.858064+00:00", "error": null}
+{"template": "cold_outreach", "email": "dong90@github.com", "subject": "Introdução — Dong90 / Maintainer", "status": "sent", "ts": "2026-09-01T19:01:38.139317+00:00", "error": null}
+{"template": "cold_outreach", "email": "tmseidel@github.com", "subject": "Introdução — tmseidel / Maintainer", "status": "sent", "ts": "2026-09-01T19:01:41.763769+00:00", "error": null}
+{"template": "cold_outreach", "email": "cloudbase@github.com", "subject": "Introdução — cloudbase / Maintainer", "status": "sent", "ts": "2026-09-01T19:01:45.239265+00:00", "error": null}
+{"template": "cold_outreach", "email": "aws-solutions@github.com", "subject": "Introdução — aws-solutions / Maintainer", "status": "sent", "ts": "2026-09-01T19:01:48.798449+00:00", "error": null}
+{"template": "cold_outreach", "email": "genaker@github.com", "subject": "Introdução — Genaker / Maintainer", "status": "sent", "ts": "2026-09-01T19:01:52.300901+00:00", "error": null}
+{"template": "cold_outreach", "email": "crowdsecurity@github.com", "subject": "Introdução — crowdsecurity / Maintainer", "status": "sent", "ts": "2026-09-01T19:01:56.125488+00:00", "error": null}
+{"template": "cold_outreach", "email": "openafw@github.com", "subject": "Introdução — openafw / Maintainer", "status": "sent", "ts": "2026-09-01T19:01:59.576712+00:00", "error": null}
+{"template": "cold_outreach", "email": "mianumairx@github.com", "subject": "Introdução — mianumairx / Maintainer", "status": "sent", "ts": "2026-09-01T19:02:03.075404+00:00", "error": null}
+{"template": "cold_outreach", "email": "adm@beep.saude.com.br", "subject": "Introdução — Beep Saúde / Contato", "status": "sent", "ts": "2026-09-01T19:05:52.819165+00:00", "error": null}
+{"template": "cold_outreach", "email": "ti@bliss.health", "subject": "Introdução — Bliss Health / Contato", "status": "sent", "ts": "2026-09-01T19:05:56.320863+00:00", "error": null}
+{"template": "cold_outreach", "email": "email@prodam.sp.gov.br", "subject": "Introdução — Prodam SP (Governo do Estado) / Contato", "status": "sent", "ts": "2026-09-01T19:05:59.706192+00:00", "error": null}
+{"template": "cold_outreach", "email": "diretoria@contaazul.com", "subject": "Introdução — Conta Azul / Contato", "status": "sent", "ts": "2026-09-01T19:06:03.425946+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@ostglobalsolutions.com", "subject": "Introdução — IRS - Small Business IT/ Cloud BPA / Destionário", "status": "sent", "ts": "2026-09-01T19:06:06.891426+00:00", "error": null}
+{"template": "cold_outreach", "email": "hello@xovakstudio.com", "subject": "Introdução — Xovak Studio / Contato", "status": "sent", "ts": "2026-09-01T19:06:22.130250+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@natura.com", "subject": "Introdução — Natura / Destionário", "status": "sent", "ts": "2026-09-01T19:06:25.566569+00:00", "error": null}
+{"template": "cold_outreach", "email": "ti@getenter.ai", "subject": "Introdução — Enter (getenter.ai) / Contato", "status": "sent", "ts": "2026-09-01T19:06:29.000230+00:00", "error": null}
+{"template": "cold_outreach", "email": "gerencia@getdarwin.ai", "subject": "Introdução — Darwin AI (getdarwin.ai) / Contato", "status": "sent", "ts": "2026-09-01T19:06:32.486079+00:00", "error": null}
+{"template": "cold_outreach", "email": "gestao@guiss.com.br", "subject": "Introdução — Guiss Consulting / Contato", "status": "sent", "ts": "2026-09-01T19:06:36.063970+00:00", "error": null}
+{"template": "cold_outreach", "email": "ti@origentech.com", "subject": "Introdução — Origen Tech / Contato", "status": "sent", "ts": "2026-09-01T19:06:39.829483+00:00", "error": null}
+{"template": "cold_outreach", "email": "gestao@stone.com.br", "subject": "Introdução — Stone (Pagamentos) / Contato", "status": "sent", "ts": "2026-09-01T19:06:43.343167+00:00", "error": null}
+{"template": "cold_outreach", "email": "gestao@wildlifestudios.com.br", "subject": "Introdução — Wildlife Studios / Contato", "status": "sent", "ts": "2026-09-01T19:06:46.809659+00:00", "error": null}
+{"template": "cold_outreach", "email": "diretoria@apptunix.com", "subject": "Introdução — Apptunix / Contato", "status": "sent", "ts": "2026-09-01T19:06:51.110805+00:00", "error": null}
+{"template": "cold_outreach", "email": "gestao@radix.com.br", "subject": "Introdução — Radix / Contato", "status": "sent", "ts": "2026-09-01T19:06:54.542941+00:00", "error": null}
+{"template": "cold_outreach", "email": "ti@clutch.co", "subject": "Introdução — TechPulse (IT Support & Managed IT) / Contato", "status": "sent", "ts": "2026-09-01T19:06:57.957347+00:00", "error": null}
+{"template": "cold_outreach", "email": "email@trueitpros.com", "subject": "Introdução — trueITpros / Contato", "status": "sent", "ts": "2026-09-01T19:07:01.326329+00:00", "error": null}
+{"template": "cold_outreach", "email": "ti@mis-solutions.com", "subject": "Introdução — MIS Solutions / Contato", "status": "sent", "ts": "2026-09-01T19:07:14.029241+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@veristor.com", "subject": "Introdução — Veristor / Destionário", "status": "sent", "ts": "2026-09-01T19:07:17.473908+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@360smartnetworks.com", "subject": "Introdução — 360 Smart Networks / Destionário", "status": "sent", "ts": "2026-09-01T19:07:21.005154+00:00", "error": null}
+{"template": "cold_outreach", "email": "admin@britestar.com", "subject": "Introdução — Brite-Star / Contato", "status": "sent", "ts": "2026-09-01T19:07:24.473603+00:00", "error": null}
+{"template": "cold_outreach", "email": "admin@providyn.com", "subject": "Introdução — ProviDyn / Contato", "status": "sent", "ts": "2026-09-01T19:07:27.974202+00:00", "error": null}
+{"template": "cold_outreach", "email": "gestao@integris.com", "subject": "Introdução — Integris (Premium National MSP) / Contato", "status": "sent", "ts": "2026-09-01T19:07:31.671025+00:00", "error": null}
+{"template": "cold_outreach", "email": "admin@advancedit.net", "subject": "Introdução — Advanced IT (Chicago SMB focus) / Contato", "status": "sent", "ts": "2026-09-01T19:07:35.195522+00:00", "error": null}
+{"template": "cold_outreach", "email": "diretoria@wheelhouseit.com", "subject": "Introdução — WheelHouse IT (Top-100 MSP) / Contato", "status": "sent", "ts": "2026-09-01T19:07:38.744459+00:00", "error": null}
+{"template": "cold_outreach", "email": "email@frontlinemsp.com", "subject": "Introdução — Frontline Managed Services / Contato", "status": "sent", "ts": "2026-09-01T19:07:42.314342+00:00", "error": null}
+{"template": "cold_outreach", "email": "adm@rio.rj.gov.br", "subject": "Introdução — Rio AI City Project / Prefeitura RJ / Contato", "status": "sent", "ts": "2026-09-01T19:07:46.112529+00:00", "error": null}
+{"template": "cold_outreach", "email": "email@kahunalabs.com", "subject": "Introdução — Kahuna Labs (Google Startup Cloud AI Accelerator) / Contato", "status": "sent", "ts": "2026-09-01T19:07:49.583651+00:00", "error": null}
+{"template": "cold_outreach", "email": "diretoria@elenta.tech", "subject": "Introdução — Elenta Technology LLC / Contato", "status": "sent", "ts": "2026-09-01T19:07:53.058797+00:00", "error": null}
+{"template": "cold_outreach", "email": "ti@goodfirms.co", "subject": "Introdução — Neurosia / Contato", "status": "sent", "ts": "2026-09-01T19:07:56.497761+00:00", "error": null}
+{"template": "cold_outreach", "email": "ti@goodfirms.co", "subject": "Introdução — Red Lotus Tecnologia / Contato", "status": "sent", "ts": "2026-09-01T19:08:02.075420+00:00", "error": null}
+{"template": "cold_outreach", "email": "ti@goodfirms.co", "subject": "Introdução — SCM Gestão / Contato", "status": "sent", "ts": "2026-09-01T19:08:05.772771+00:00", "error": null}
+{"template": "cold_outreach", "email": "email@krishangtechnolab.com", "subject": "Introdução — Krishang Technolab / Contato", "status": "sent", "ts": "2026-09-01T19:08:09.258633+00:00", "error": null}
+{"template": "cold_outreach", "email": "info@doodleweb.io", "subject": "Introdução — DoodleWeb / Destionário", "status": "sent", "ts": "2026-09-01T19:08:12.863060+00:00", "error": null}
+{"template": "cold_outreach", "email": "suporte@allusivedigital.com", "subject": "Introdução — Allusivedigital / Contato", "status": "sent", "ts": "2026-09-01T19:08:16.292864+00:00", "error": null}
+{"template": "cold_outreach", "email": "admin@taskip.net", "subject": "Introdução — Taskip / Contato", "status": "sent", "ts": "2026-09-01T19:08:19.731100+00:00", "error": null}
+{"template": "cold_outreach", "email": "info@entechus.com", "subject": "Introdução — Entech (Cloud Migration for Mid-Sized Firms) / Destionário", "status": "sent", "ts": "2026-09-01T19:08:23.115469+00:00", "error": null}
+{"template": "cold_outreach", "email": "email@beep.saude.com.br", "subject": "Introdução — Beep Saúde / Contato", "status": "sent", "ts": "2026-09-01T19:21:14.107345+00:00", "error": null}
+{"template": "cold_outreach", "email": "email@bliss.health", "subject": "Introdução — Bliss Health / Contato", "status": "sent", "ts": "2026-09-01T19:21:17.565336+00:00", "error": null}
+{"template": "cold_outreach", "email": "hello@prodam.sp.gov.br", "subject": "Introdução — Prodam SP (Governo do Estado) / Contato", "status": "sent", "ts": "2026-09-01T19:21:20.983984+00:00", "error": null}
+{"template": "cold_outreach", "email": "info@contaazul.com", "subject": "Introdução — Conta Azul / Contato", "status": "sent", "ts": "2026-09-01T19:21:26.050613+00:00", "error": null}
+{"template": "cold_outreach", "email": "ti@sam.gov", "subject": "Introdução — DNFSB - IT Support Services / Contato", "status": "sent", "ts": "2026-09-01T19:21:29.549271+00:00", "error": null}
+{"template": "cold_outreach", "email": "ti@sam.gov", "subject": "Introdução — NIST - CAPSS Cybersecurity & Privacy / Contato", "status": "sent", "ts": "2026-09-01T19:21:33.090447+00:00", "error": null}
+{"template": "cold_outreach", "email": "ti@sam.gov", "subject": "Introdução — DoD - Agentic Workload Automation Harness / Contato", "status": "sent", "ts": "2026-09-01T19:21:36.558321+00:00", "error": null}
+{"template": "cold_outreach", "email": "ti@sam.gov", "subject": "Introdução — C5ISRT - Next Gen Cybersecurity & Info Assurance / Contato", "status": "sent", "ts": "2026-09-01T19:21:40.068415+00:00", "error": null}
+{"template": "cold_outreach", "email": "suporte@ostglobalsolutions.com", "subject": "Introdução — IRS - Small Business IT/ Cloud BPA / Contato", "status": "sent", "ts": "2026-09-01T19:21:43.660789+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@google.com", "subject": "Introdução — City of Cabot - Cloud Migration RFP (Starbridge) / Contato", "status": "sent", "ts": "2026-09-01T19:21:47.118343+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@google.com", "subject": "Introdução — Council Bluffs, IA - IT Services RFP / Contato", "status": "sent", "ts": "2026-09-01T19:21:50.505952+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@google.com", "subject": "Introdução — Starbridge (City of Cabot Cloud Migration Partner) / Contato", "status": "sent", "ts": "2026-09-01T19:21:53.954568+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@xovakstudio.com", "subject": "Introdução — Xovak Studio / Contato", "status": "sent", "ts": "2026-09-01T19:21:57.453198+00:00", "error": null}
+{"template": "cold_outreach", "email": "hello@natura.com", "subject": "Introdução — Natura / Contato", "status": "sent", "ts": "2026-09-01T19:22:00.876539+00:00", "error": null}
+{"template": "cold_outreach", "email": "suporte@getenter.ai", "subject": "Introdução — Enter (getenter.ai) / Contato", "status": "sent", "ts": "2026-09-01T19:22:10.973784+00:00", "error": null}
+{"template": "cold_outreach", "email": "suporte@getdarwin.ai", "subject": "Introdução — Darwin AI (getdarwin.ai) / Contato", "status": "sent", "ts": "2026-09-01T19:22:14.426788+00:00", "error": null}
+{"template": "cold_outreach", "email": "hello@guiss.com.br", "subject": "Introdução — Guiss Consulting / Contato", "status": "sent", "ts": "2026-09-01T19:22:17.912697+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@origentech.com", "subject": "Introdução — Origen Tech / Contato", "status": "sent", "ts": "2026-09-01T19:22:21.393098+00:00", "error": null}
+{"template": "cold_outreach", "email": "suporte@stone.com.br", "subject": "Introdução — Stone (Pagamentos) / Contato", "status": "sent", "ts": "2026-09-01T19:22:25.736982+00:00", "error": null}
+{"template": "cold_outreach", "email": "email@wildlifestudios.com.br", "subject": "Introdução — Wildlife Studios / Contato", "status": "sent", "ts": "2026-09-01T19:22:29.255031+00:00", "error": null}
+{"template": "cold_outreach", "email": "gerencia@apptunix.com", "subject": "Introdução — Apptunix / Contato", "status": "sent", "ts": "2026-09-01T19:22:32.795372+00:00", "error": null}
+{"template": "cold_outreach", "email": "gerencia@radix.com.br", "subject": "Introdução — Radix / Contato", "status": "sent", "ts": "2026-09-01T19:22:36.234181+00:00", "error": null}
+{"template": "cold_outreach", "email": "info@clutch.co", "subject": "Introdução — TechPulse (IT Support & Managed IT) / Contato", "status": "sent", "ts": "2026-09-01T19:22:39.775015+00:00", "error": null}
+{"template": "cold_outreach", "email": "info@trueitpros.com", "subject": "Introdução — trueITpros / Contato", "status": "sent", "ts": "2026-09-01T19:22:43.188410+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@mis-solutions.com", "subject": "Introdução — MIS Solutions / Contato", "status": "sent", "ts": "2026-09-01T19:22:46.979582+00:00", "error": null}
+{"template": "cold_outreach", "email": "email@veristor.com", "subject": "Introdução — Veristor / Contato", "status": "sent", "ts": "2026-09-01T19:22:50.416854+00:00", "error": null}
+{"template": "cold_outreach", "email": "diretoria@360smartnetworks.com", "subject": "Introdução — 360 Smart Networks / Contato", "status": "sent", "ts": "2026-09-01T19:22:54.310310+00:00", "error": null}
+{"template": "cold_outreach", "email": "ti@britestar.com", "subject": "Introdução — Brite-Star / Contato", "status": "sent", "ts": "2026-09-01T19:22:57.697805+00:00", "error": null}
+{"template": "cold_outreach", "email": "info@providyn.com", "subject": "Introdução — ProviDyn / Contato", "status": "sent", "ts": "2026-09-01T19:23:01.374777+00:00", "error": null}
+{"template": "cold_outreach", "email": "gerencia@integris.com", "subject": "Introdução — Integris (Premium National MSP) / Contato", "status": "sent", "ts": "2026-09-01T19:23:04.776826+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@advancedit.net", "subject": "Introdução — Advanced IT (Chicago SMB focus) / Contato", "status": "sent", "ts": "2026-09-01T19:23:08.588216+00:00", "error": null}
+{"template": "cold_outreach", "email": "email@wheelhouseit.com", "subject": "Introdução — WheelHouse IT (Top-100 MSP) / Contato", "status": "sent", "ts": "2026-09-01T19:23:12.094224+00:00", "error": null}
+{"template": "cold_outreach", "email": "gestao@frontlinemsp.com", "subject": "Introdução — Frontline Managed Services / Contato", "status": "sent", "ts": "2026-09-01T19:23:15.720106+00:00", "error": null}
+{"template": "cold_outreach", "email": "email@rio.rj.gov.br", "subject": "Introdução — Rio AI City Project / Prefeitura RJ / Contato", "status": "sent", "ts": "2026-09-01T19:23:19.450079+00:00", "error": null}
+{"template": "cold_outreach", "email": "gestao@kahunalabs.com", "subject": "Introdução — Kahuna Labs (Google Startup Cloud AI Accelerator) / Contato", "status": "sent", "ts": "2026-09-01T19:23:22.940522+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@elenta.tech", "subject": "Introdução — Elenta Technology LLC / Contato", "status": "sent", "ts": "2026-09-01T19:23:26.845369+00:00", "error": null}
+{"template": "cold_outreach", "email": "ti@sam.gov", "subject": "Introdução — FDA - NextGen Cyber Engineering, Operations AI / Contato", "status": "sent", "ts": "2026-09-01T19:23:30.365388+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@google.com", "subject": "Introdução — CFPB - Cybersecurity BPA / Contato", "status": "sent", "ts": "2026-09-01T19:23:33.779360+00:00", "error": null}
+{"template": "cold_outreach", "email": "admin@goodfirms.co", "subject": "Introdução — Neurosia / Contato", "status": "sent", "ts": "2026-09-01T19:23:37.391368+00:00", "error": null}
+{"template": "cold_outreach", "email": "admin@goodfirms.co", "subject": "Introdução — Red Lotus Tecnologia / Contato", "status": "sent", "ts": "2026-09-01T19:23:40.848292+00:00", "error": null}
+{"template": "cold_outreach", "email": "admin@goodfirms.co", "subject": "Introdução — SCM Gestão / Contato", "status": "sent", "ts": "2026-09-01T19:23:44.305938+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@google.com", "subject": "Introdução — AI Automation Agency (UK) / Contato", "status": "sent", "ts": "2026-09-01T19:23:47.726170+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@google.com", "subject": "Introdução — Agency AI Solutions / Contato", "status": "sent", "ts": "2026-09-01T19:23:51.236021+00:00", "error": null}
+{"template": "cold_outreach", "email": "gestao@krishangtechnolab.com", "subject": "Introdução — Krishang Technolab / Contato", "status": "sent", "ts": "2026-09-01T19:24:07.369409+00:00", "error": null}
+{"template": "cold_outreach", "email": "adm@doodleweb.io", "subject": "Introdução — DoodleWeb / Contato", "status": "sent", "ts": "2026-09-01T19:24:24.900337+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@allusivedigital.com", "subject": "Introdução — Allusivedigital / Contato", "status": "sent", "ts": "2026-09-01T19:24:28.394682+00:00", "error": null}
+{"template": "cold_outreach", "email": "suporte@taskip.net", "subject": "Introdução — Taskip / Contato", "status": "sent", "ts": "2026-09-01T19:24:31.927992+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@github.com", "subject": "Introdução — n8n-io (n8n Workflow Automation) / Contato", "status": "sent", "ts": "2026-09-01T19:24:35.619479+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@github.com", "subject": "Introdução — Activepieces (Open-source Automation) / Contato", "status": "sent", "ts": "2026-09-01T19:24:39.054464+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@github.com", "subject": "Introdução — Prefect Technologies (Prefect Workflow Orchestration) / Contato", "status": "sent", "ts": "2026-09-01T19:24:42.536287+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@github.com", "subject": "Introdução — Vector (Observability Data Pipeline) / Contato", "status": "sent", "ts": "2026-09-01T19:24:46.005565+00:00", "error": null}
+{"template": "cold_outreach", "email": "contato@github.com", "subject": "Introdução — Orchest (Data Pipeline Platform) / Contato", "status": "sent", "ts": "2026-09-01T19:24:49.409336+00:00", "error": null}
+{"template": "cold_outreach", "email": "hello@entechus.com", "subject": "Introdução — Entech (Cloud Migration for Mid-Sized Firms) / Contato", "status": "sent", "ts": "2026-09-01T19:24:53.331838+00:00", "error": null}

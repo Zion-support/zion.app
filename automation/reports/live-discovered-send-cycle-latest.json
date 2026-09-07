@@ -1,0 +1,15 @@
+{
+  "mode": "live_discovered_send_cycle",
+  "queue_send_ready": true,
+  "targeted": 0,
+  "duplicate_skips": 185,
+  "live_send": 0,
+  "failed": 0,
+  "skipped_no_email": 0,
+  "sent_emails": [],
+  "errors": [],
+  "run_timestamp": "2026-09-07T00:19:08.473267+00:00",
+  "account": "kleber@ziontechgroup.com",
+  "leads_source": "/Users/miami2/zion.app/app/data/discovered_leads.json",
+  "exit_code": 0
+}

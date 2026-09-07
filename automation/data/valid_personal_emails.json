@@ -1,0 +1,59 @@
+[
+  {
+    "empresa": "Beep Saúde",
+    "email": "tecnologia@beepsaude.com.br",
+    "domain": "beep.saude.com.br",
+    "all_emails": [
+      "John.Doe@beepsaude.com.br",
+      "r@grupobrmed.com.br",
+      "First.Last@beepsaude.com.br",
+      "tecnologia@beepsaude.com.br"
+    ]
+  },
+  {
+    "empresa": "Bliss Health",
+    "email": "FLast@blisshs.com",
+    "domain": "bliss.health",
+    "all_emails": [
+      "FLast@blisshs.com"
+    ]
+  },
+  {
+    "empresa": "Prodam SP (Governo do Estado)",
+    "email": "prodam@prodam.sp.gov.br",
+    "domain": "prodam.sp.gov.br",
+    "all_emails": [
+      "prodam@prodam.sp.gov.br",
+      "SOLUCOES@PRODAM.SP.GOV.BR",
+      "ricardo.araujo@omidsolutions.com",
+      "ouvidoria@prodam.sp.gov.br",
+      "o@prodam.sp.gov.br",
+      "evertonandrade@PRODAM.SP.GOV.BR"
+    ]
+  },
+  {
+    "empresa": "Enter (getenter.ai)",
+    "email": "founders@getenter.ai",
+    "domain": "getenter.ai",
+    "all_emails": [
+      "contato@getenter.ai",
+      "founders@getenter.ai"
+    ]
+  },
+  {
+    "empresa": "Darwin AI (getdarwin.ai)",
+    "email": "founders@getdarwin.ai",
+    "domain": "getdarwin.ai",
+    "all_emails": [
+      "founders@getdarwin.ai"
+    ]
+  },
+  {
+    "empresa": "Kahuna Labs (Google Startup Cloud AI Accelerator)",
+    "email": "founders@kahunalabs.com",
+    "domain": "kahunalabs.com",
+    "all_emails": [
+      "founders@kahunalabs.com"
+    ]
+  }
+]

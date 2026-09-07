@@ -1,0 +1,91 @@
+{
+  "checked_at": "2026-09-05T11:31:45",
+  "results": [
+    {
+      "route": "/",
+      "url": "https://ziontechgroup.com/",
+      "status": 200,
+      "final_url": "https://ziontechgroup.com/",
+      "elapsed_s": 0.21,
+      "history": [],
+      "ok": true
+    },
+    {
+      "route": "/public-roadmap",
+      "url": "https://ziontechgroup.com/public-roadmap",
+      "status": 200,
+      "final_url": "https://ziontechgroup.com/public-roadmap/",
+      "elapsed_s": 0.34,
+      "history": [
+        "https://ziontechgroup.com/public-roadmap"
+      ],
+      "ok": true
+    },
+    {
+      "route": "/status-page",
+      "url": "https://ziontechgroup.com/status-page",
+      "status": 200,
+      "final_url": "https://ziontechgroup.com/status-page/",
+      "elapsed_s": 0.34,
+      "history": [
+        "https://ziontechgroup.com/status-page"
+      ],
+      "ok": true
+    },
+    {
+      "route": "/use-cases",
+      "url": "https://ziontechgroup.com/use-cases",
+      "status": 200,
+      "final_url": "https://ziontechgroup.com/use-cases/",
+      "elapsed_s": 0.34,
+      "history": [
+        "https://ziontechgroup.com/use-cases"
+      ],
+      "ok": true
+    },
+    {
+      "route": "/solutions/healthcare",
+      "url": "https://ziontechgroup.com/solutions/healthcare",
+      "status": 200,
+      "final_url": "https://ziontechgroup.com/solutions/healthcare/",
+      "elapsed_s": 0.35,
+      "history": [
+        "https://ziontechgroup.com/solutions/healthcare"
+      ],
+      "ok": true
+    },
+    {
+      "route": "/industries/financial-services",
+      "url": "https://ziontechgroup.com/industries/financial-services",
+      "status": 200,
+      "final_url": "https://ziontechgroup.com/industries/financial-services/",
+      "elapsed_s": 0.34,
+      "history": [
+        "https://ziontechgroup.com/industries/financial-services"
+      ],
+      "ok": true
+    },
+    {
+      "route": "/free-consultation",
+      "url": "https://ziontechgroup.com/free-consultation",
+      "status": 200,
+      "final_url": "https://ziontechgroup.com/free-consultation/",
+      "elapsed_s": 0.34,
+      "history": [
+        "https://ziontechgroup.com/free-consultation"
+      ],
+      "ok": true
+    },
+    {
+      "route": "/tools/phishing-analyzer",
+      "url": "https://ziontechgroup.com/tools/phishing-analyzer",
+      "status": 200,
+      "final_url": "https://ziontechgroup.com/tools/phishing-analyzer/",
+      "elapsed_s": 0.34,
+      "history": [
+        "https://ziontechgroup.com/tools/phishing-analyzer"
+      ],
+      "ok": true
+    }
+  ]
+}

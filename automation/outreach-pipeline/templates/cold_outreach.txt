@@ -1,0 +1,17 @@
+Subject: Introdução — ${company} / ${role}
+
+Olá ${name},
+
+${personal_note}
+
+Gostaria de apresentar como a Zion Tech Group pode ajudar a ${company} a [benefício principal: ex. reduzir custos de infraestrutura / escalar operações com IA / fortalecer segurança cibernética].
+
+Temos experiência em [área 1], [área 2] e [área 3], entregando resultados mensuráveis para empresas similares.
+
+Você teria 15 minutos na próxima semana para uma conversa rápida?
+
+Atenciosamente,
+Kleber Garcia Alcatrão
+CEO, Zion Tech Group
+kleber@ziontechgroup.com
+https://ziontechgroup.com

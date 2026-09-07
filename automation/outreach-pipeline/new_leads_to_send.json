@@ -1,0 +1,373 @@
+[
+  {
+    "email": "email@beep.saude.com.br",
+    "name": "Beep Saúde",
+    "company": "Beep Saúde",
+    "role": "Contato",
+    "personal_note": "Health tech startup. Digital health platform needing AI data pipelines, patient document OCR, chatbot for patient engagement, and cloud infrastructure. High growth = scaling IT needs."
+  },
+  {
+    "email": "email@bliss.health",
+    "name": "Bliss Health",
+    "company": "Bliss Health",
+    "role": "Contato",
+    "personal_note": "Health/wellness platform. Digital health services needing patient data pipelines, chatbot for user engagement, document processing, and cloud infrastructure. Health vertical = strong AI + compliance n"
+  },
+  {
+    "email": "hello@prodam.sp.gov.br",
+    "name": "Prodam SP (Governo do Estado)",
+    "company": "Prodam SP (Governo do Estado)",
+    "role": "Contato",
+    "personal_note": "State government IT department. Digital transformation of Sao Paulo state systems. massive document processing (OCR), citizen chatbots, cloud migration of legacy systems, cybersecurity hardening. Gove"
+  },
+  {
+    "email": "info@contaazul.com",
+    "name": "Conta Azul",
+    "company": "Conta Azul",
+    "role": "Contato",
+    "personal_note": "Accounting/ERP SaaS for SMBs. Needs AI data pipeline for financial analytics, QA automation for continuous deployment, chatbot for customer support, OCR for receipt/invoice processing. High-volume tra"
+  },
+  {
+    "email": "ti@sam.gov",
+    "name": "DNFSB - IT Support Services",
+    "company": "DNFSB - IT Support Services",
+    "role": "Contato",
+    "personal_note": "Sources Sought for IT O&M with embedded cybersecurity + AI-enabled tools for Microsoft/cloud environment. Industry Day Mar 18, award before Sep 2026. Small business eligible."
+  },
+  {
+    "email": "ti@sam.gov",
+    "name": "NIST - CAPSS Cybersecurity & Privacy",
+    "company": "NIST - CAPSS Cybersecurity & Privacy",
+    "role": "Contato",
+    "personal_note": "Total Small Business Set-Aside (FAR 19.5). NAICS 541519, $30M size standard. Design/test/deploy software, web apps, automation. Direct small business opportunity."
+  },
+  {
+    "email": "ti@sam.gov",
+    "name": "DoD - Agentic Workload Automation Harness",
+    "company": "DoD - Agentic Workload Automation Harness",
+    "role": "Contato",
+    "personal_note": "Sources Sought for secure enterprise AI: LLM access, generative AI chat, document summarization, RAG, API integration. DoD cybersecurity requirements. San Antonio place of performance."
+  },
+  {
+    "email": "ti@sam.gov",
+    "name": "C5ISRT - Next Gen Cybersecurity & Info Assurance",
+    "company": "C5ISRT - Next Gen Cybersecurity & Info Assurance",
+    "role": "Contato",
+    "personal_note": "Sources Sought for full-lifecycle cybersecurity program. 12-month base + 4x12-month options. Small business encouraged. NAICS 541330, $25.5M. Potential 8(a) set-aside."
+  },
+  {
+    "email": "suporte@ostglobalsolutions.com",
+    "name": "IRS - Small Business IT/ Cloud BPA",
+    "company": "IRS - Small Business IT/ Cloud BPA",
+    "role": "Contato",
+    "personal_note": "Exclusive small business BPA for IRS IT work including cloud migration. Reserved for small businesses. Strong fit for Zion's cloud + cybersecurity services."
+  },
+  {
+    "email": "contato@google.com",
+    "name": "City of Cabot - Cloud Migration RFP (Starbridge)",
+    "company": "City of Cabot - Cloud Migration RFP (Starbridge)",
+    "role": "Contato",
+    "personal_note": "Municipal cloud migration RFP identified in prior session. Smaller government entity = less competition. Starbridge referenced as potential partner. High close probability for SMB-focused Zion."
+  },
+  {
+    "email": "contato@google.com",
+    "name": "Council Bluffs, IA - IT Services RFP",
+    "company": "Council Bluffs, IA - IT Services RFP",
+    "role": "Contato",
+    "personal_note": "Municipal IT services RFP identified in prior session. Smaller city = approachable. Managed services + cloud migration align with core Zion offerings."
+  },
+  {
+    "email": "contato@google.com",
+    "name": "Starbridge (City of Cabot Cloud Migration Partner)",
+    "company": "Starbridge (City of Cabot Cloud Migration Partner)",
+    "role": "Contato",
+    "personal_note": "Referenced in City of Cabot cloud migration RFP. Could be prime contractor seeking subcontractors for cloud migration work. Subcontracting opportunity for Zion's cloud services."
+  },
+  {
+    "email": "contato@xovakstudio.com",
+    "name": "Xovak Studio",
+    "company": "Xovak Studio",
+    "role": "Contato",
+    "personal_note": "Top white-label agency partner for 2026. Offers custom web/enterprise software. Could be partner for Zion to provide AI/QA services under their brand, or client needing AI capabilities they don't have"
+  },
+  {
+    "email": "hello@natura.com",
+    "name": "Natura",
+    "company": "Natura",
+    "role": "Contato",
+    "personal_note": "Major Brazilian cosmetics company undergoing digital transformation. Supply chain data pipelines, e-commerce cloud, security for customer data, QA for digital platforms. Large enterprise with budget."
+  },
+  {
+    "email": "suporte@getenter.ai",
+    "name": "Enter (getenter.ai)",
+    "company": "Enter (getenter.ai)",
+    "role": "Contato",
+    "personal_note": "Startup Series A ($35M) de AI legal tech; crescimento rápido exige infra escalável, AI workflow interno, e compliance automation"
+  },
+  {
+    "email": "suporte@getdarwin.ai",
+    "name": "Darwin AI (getdarwin.ai)",
+    "company": "Darwin AI (getdarwin.ai)",
+    "role": "Contato",
+    "personal_note": "Startup Seed ($4.5M) de AI pura; precisa de cloud infra, MLOps, e IT managed services para suportar crescimento pós-seeding"
+  },
+  {
+    "email": "hello@guiss.com.br",
+    "name": "Guiss Consulting",
+    "company": "Guiss Consulting",
+    "role": "Contato",
+    "personal_note": "Pequena consultoria de TI (86 seguidores no LinkedIn); empresa de pequeno porte que pode expandir oferta com AI services e cloud migration e precisar de parceria para entregar"
+  },
+  {
+    "email": "contato@origentech.com",
+    "name": "Origen Tech",
+    "company": "Origen Tech",
+    "role": "Contato",
+    "personal_note": "Consultoria de TI com 51-200 funcionários; claramente em expansão — chance de selar parceria ou contratos de AI automation e cloud services"
+  },
+  {
+    "email": "suporte@stone.com.br",
+    "name": "Stone (Pagamentos)",
+    "company": "Stone (Pagamentos)",
+    "role": "Contato",
+    "personal_note": "Major payment processor. Payment data pipelines, QA for transaction systems, cybersecurity for financial data, IoT edge for POS terminals. Large fintech = significant IT spend."
+  },
+  {
+    "email": "email@wildlifestudios.com.br",
+    "name": "Wildlife Studios",
+    "company": "Wildlife Studios",
+    "role": "Contato",
+    "personal_note": "Brazilian video/game production studio. Needs video/audio AI for content analysis, automated editing, QA for games/apps, and data pipelines for player analytics. Creative tech = video/audio AI service"
+  },
+  {
+    "email": "gerencia@apptunix.com",
+    "name": "Apptunix",
+    "company": "Apptunix",
+    "role": "Contato",
+    "personal_note": "Top AI dev company no Brasil segundo AVIXA; oportunidade de parceria ou contrato de cloud management e AI ops para seus próprios projetos e clientes"
+  },
+  {
+    "email": "gerencia@radix.com.br",
+    "name": "Radix",
+    "company": "Radix",
+    "role": "Contato",
+    "personal_note": "Brazilian technology company (deep tech / engineering). Likely works with industrial IoT, embedded systems. IoT edge computing + AI data pipeline + cybersecurity for connected devices = strong fit."
+  },
+  {
+    "email": "info@clutch.co",
+    "name": "TechPulse (IT Support & Managed IT)",
+    "company": "TechPulse (IT Support & Managed IT)",
+    "role": "Contato",
+    "personal_note": "MSP em NYC listado no Clutch; pequenas/médias empresas nos EUA precisam de cybersecurity e cloud migration — oportunidade de white-label ou contrato direto"
+  },
+  {
+    "email": "info@trueitpros.com",
+    "name": "trueITpros",
+    "company": "trueITpros",
+    "role": "Contato",
+    "personal_note": "MSP focado em small businesses em Atlanta; site explicita cloud migration + managed IT + cybersecurity para SMBs — lead direto para serviços complementares da Zion"
+  },
+  {
+    "email": "contato@mis-solutions.com",
+    "name": "MIS Solutions",
+    "company": "MIS Solutions",
+    "role": "Contato",
+    "personal_note": "MSP focado em SMBs em Atlanta; site declara foco em suporte IT confiável para pequenas/médias empresas — opp de cloud migration e security services"
+  },
+  {
+    "email": "email@veristor.com",
+    "name": "Veristor",
+    "company": "Veristor",
+    "role": "Contato",
+    "personal_note": "MSP avançado com SOC, IAM e cloud migration planning; possível parceiro de integrção ou cliente que precisa de AI-powered security automation"
+  },
+  {
+    "email": "diretoria@360smartnetworks.com",
+    "name": "360 Smart Networks",
+    "company": "360 Smart Networks",
+    "role": "Contato",
+    "personal_note": "MSP que atua como consultor de compliance e segurança para SMBs; demanda natural por security automation, AI threat detection e compliance-as-code"
+  },
+  {
+    "email": "ti@britestar.com",
+    "name": "Brite-Star",
+    "company": "Brite-Star",
+    "role": "Contato",
+    "personal_note": "MSP atendendo small businesses e startups; frase de posicionamento indica foco em atenção dedicada — opp de serviços de AI automation e cloud para diferencial competitivo"
+  },
+  {
+    "email": "info@providyn.com",
+    "name": "ProviDyn",
+    "company": "ProviDyn",
+    "role": "Contato",
+    "personal_note": "MSP com back-end que oferece next-gen cybersecurity e cloud management; possivelmente limitado em AI automation — opp de complementar com AI services"
+  },
+  {
+    "email": "gerencia@integris.com",
+    "name": "Integris (Premium National MSP)",
+    "company": "Integris (Premium National MSP)",
+    "role": "Contato",
+    "personal_note": "MSP naciona premium fundado em 2005; oferece suporte proativo, cybersecurity, cloud, compliance — lead para serviços de AI ops e cloud cost optimization"
+  },
+  {
+    "email": "contato@advancedit.net",
+    "name": "Advanced IT (Chicago SMB focus)",
+    "company": "Advanced IT (Chicago SMB focus)",
+    "role": "Contato",
+    "personal_note": "MSP focado explicitamente em small businesses em Chicago; otimização de operações, segurança e produtividade — opp de AI automation e cloud migration"
+  },
+  {
+    "email": "email@wheelhouseit.com",
+    "name": "WheelHouse IT (Top-100 MSP)",
+    "company": "WheelHouse IT (Top-100 MSP)",
+    "role": "Contato",
+    "personal_note": "Top-100 MSP nacional com 25 anos; avaliação 4.8/5. Opp de cloud cost optimization, AI automation para operações e expandir oferta de segurança"
+  },
+  {
+    "email": "gestao@frontlinemsp.com",
+    "name": "Frontline Managed Services",
+    "company": "Frontline Managed Services",
+    "role": "Contato",
+    "personal_note": "MSP listado no Top 500 InfoMSP 2025; oferece suporte IT e cybersecurity para negócios — possivelmente pequeno/médio, oportunidade de cloud migration e AI services"
+  },
+  {
+    "email": "email@rio.rj.gov.br",
+    "name": "Rio AI City Project / Prefeitura RJ",
+    "company": "Rio AI City Project / Prefeitura RJ",
+    "role": "Contato",
+    "personal_note": "Projeto 'Rio AI City' para transformar RJ na maior data center hub da América Latina; opp massiva de cloud migration, AI infra e IT consulting para o ecossistema"
+  },
+  {
+    "email": "gestao@kahunalabs.com",
+    "name": "Kahuna Labs (Google Startup Cloud AI Accelerator)",
+    "company": "Kahuna Labs (Google Startup Cloud AI Accelerator)",
+    "role": "Contato",
+    "personal_note": "Startup no Google for Startups Cloud AI Accelerator; construindo plataforma AI para suporte técnico — opp de cloud infra, MLOps e AI automation services"
+  },
+  {
+    "email": "contato@elenta.tech",
+    "name": "Elenta Technology LLC",
+    "company": "Elenta Technology LLC",
+    "role": "Contato",
+    "personal_note": "Empresa que oferece AI solutions e support, com foco em cloud migration para AI workloads (AWS, Azure, GCP); opp de parceira ou cliente que precisa de complementos"
+  },
+  {
+    "email": "ti@sam.gov",
+    "name": "FDA - NextGen Cyber Engineering, Operations AI",
+    "company": "FDA - NextGen Cyber Engineering, Operations AI",
+    "role": "Contato",
+    "personal_note": "Sources Sought for next-gen cyber engineering + AI operations at FDA. High-impact federal health agency. Cloud security and AI ops align with Zion services."
+  },
+  {
+    "email": "contato@google.com",
+    "name": "CFPB - Cybersecurity BPA",
+    "company": "CFPB - Cybersecurity BPA",
+    "role": "Contato",
+    "personal_note": "Consumer Financial Protection Bureau cybersecurity BPA. Federal financial regulator = high-value cybersecurity client. Found in prior session. Potential subcontracting opportunity."
+  },
+  {
+    "email": "admin@goodfirms.co",
+    "name": "Neurosia",
+    "company": "Neurosia",
+    "role": "Contato",
+    "personal_note": "AI consulting firm building AI agents, RAG, predictive analytics, computer vision. Potential partner for Zion's AI services or client for end-to-end AI pipeline infrastructure. Complementary not compe"
+  },
+  {
+    "email": "admin@goodfirms.co",
+    "name": "Red Lotus Tecnologia",
+    "company": "Red Lotus Tecnologia",
+    "role": "Contato",
+    "personal_note": "Brazilian IT consultancy offering digital transformation. Could be partner for shared clients or client for overflow work. Process improvement + technology overhaul focus."
+  },
+  {
+    "email": "admin@goodfirms.co",
+    "name": "SCM Gestão",
+    "company": "SCM Gestão",
+    "role": "Contato",
+    "personal_note": "Brazilian BI/BPM consultancy serving ISPs. AI tools for business intelligence. Potential client for AI data pipeline services or partner for telecom sector opportunities."
+  },
+  {
+    "email": "contato@google.com",
+    "name": "AI Automation Agency (UK)",
+    "company": "AI Automation Agency (UK)",
+    "role": "Contato",
+    "personal_note": "UK-based AI automation agency identified in prior session. Potential partner for UK/EU clients or client for automation services. AI automation is Zion's core strength."
+  },
+  {
+    "email": "contato@google.com",
+    "name": "Agency AI Solutions",
+    "company": "Agency AI Solutions",
+    "role": "Contato",
+    "personal_note": "AI solutions agency identified in prior session. Potential partner or client for Zion's AI service offerings. AI agency market growing rapidly."
+  },
+  {
+    "email": "gestao@krishangtechnolab.com",
+    "name": "Krishang Technolab",
+    "company": "Krishang Technolab",
+    "role": "Contato",
+    "personal_note": "Full-service white label agency. Could subcontract AI/data/QA work to Zion. Digital agencies actively seek white-label partners for AI capabilities they can't build in-house."
+  },
+  {
+    "email": "adm@doodleweb.io",
+    "name": "DoodleWeb",
+    "company": "DoodleWeb",
+    "role": "Contato",
+    "personal_note": "White-label web build partner for agencies and prime contractors. Prime contractors need AI/QA/cybersecurity subs. DoodleWeb model = they sell, partners build. Zion could provide AI services under the"
+  },
+  {
+    "email": "contato@allusivedigital.com",
+    "name": "Allusivedigital",
+    "company": "Allusivedigital",
+    "role": "Contato",
+    "personal_note": "Digital agency scaling with white-label web development partner model. Could expand into AI services via partnership with Zion. Agency wants to offer AI without building it in-house."
+  },
+  {
+    "email": "suporte@taskip.net",
+    "name": "Taskip",
+    "company": "Taskip",
+    "role": "Contato",
+    "personal_note": "White-label services agency with 2026 strategy guide. Agencies looking to productize and offer AI/QA as white-label. Zion could be their AI/ML backend partner."
+  },
+  {
+    "email": "contato@github.com",
+    "name": "n8n-io (n8n Workflow Automation)",
+    "company": "n8n-io (n8n Workflow Automation)",
+    "role": "Contato",
+    "personal_note": "203k stars. Leading open-source workflow automation platform with native AI. Their users need implementation, customization, enterprise integration - all Zion services. Ecosystem partner or implementa"
+  },
+  {
+    "email": "contato@github.com",
+    "name": "Activepieces (Open-source Automation)",
+    "company": "Activepieces (Open-source Automation)",
+    "role": "Contato",
+    "personal_note": "30k stars. Open-source AI agent & automation platform with 400+ MCP servers. Growing ecosystem needs implementation partners. Similar to n8n - automation platform user base = service opportunity."
+  },
+  {
+    "email": "contato@github.com",
+    "name": "Prefect Technologies (Prefect Workflow Orchestration)",
+    "company": "Prefect Technologies (Prefect Workflow Orchestration)",
+    "role": "Contato",
+    "personal_note": "24k stars. Python workflow orchestration for data pipelines. Their users build data pipelines that need QA, production hardening, cloud deployment. Prefect + Zion = data pipeline implementation servic"
+  },
+  {
+    "email": "contato@github.com",
+    "name": "Vector (Observability Data Pipeline)",
+    "company": "Vector (Observability Data Pipeline)",
+    "role": "Contato",
+    "personal_note": "22.5k stars. High-performance observability data pipeline. Users need deployment, integration, and optimization services. Data pipeline expertise aligns directly with Zion's AI data pipeline service."
+  },
+  {
+    "email": "contato@github.com",
+    "name": "Orchest (Data Pipeline Platform)",
+    "company": "Orchest (Data Pipeline Platform)",
+    "role": "Contato",
+    "personal_note": "4k stars. Build data pipelines the easy way. Data science/orchestration platform. Users need production deployment, cloud migration, and QA for their data pipelines."
+  },
+  {
+    "email": "hello@entechus.com",
+    "name": "Entech (Cloud Migration for Mid-Sized Firms)",
+    "company": "Entech (Cloud Migration for Mid-Sized Firms)",
+    "role": "Contato",
+    "personal_note": "Cloud migration services for mid-sized firms. Florida-focused. Mid-market = Zion's sweet spot. Could be competitive intel or partnership opportunity depending on service overlap."
+  }
+]

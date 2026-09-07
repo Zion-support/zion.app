@@ -1,0 +1,101 @@
+[
+  {
+    "email": "vercel-labs@github.com",
+    "name": "vercel-labs",
+    "company": "vercel-labs",
+    "role": "Maintainer",
+    "personal_note": "Seu projeto workflow-builder-template (1194 stars) é relevante para nossos serviços de AI automation.",
+    "repo": "workflow-builder-template",
+    "site": "https://github.com/vercel-labs/workflow-builder-template"
+  },
+  {
+    "email": "activepieces@github.com",
+    "name": "activepieces",
+    "company": "activepieces",
+    "role": "Maintainer",
+    "personal_note": "Seu projeto activepieces (24160 stars) é relevante para nossos serviços de AI automation.",
+    "repo": "activepieces",
+    "site": "https://github.com/activepieces/activepieces"
+  },
+  {
+    "email": "hexabot-ai@github.com",
+    "name": "hexabot-ai",
+    "company": "hexabot-ai",
+    "role": "Maintainer",
+    "personal_note": "Seu projeto Hexabot (1202 stars) é relevante para nossos serviços de AI automation.",
+    "repo": "Hexabot",
+    "site": "https://github.com/hexabot-ai/Hexabot"
+  },
+  {
+    "email": "dong90@github.com",
+    "name": "Dong90",
+    "company": "Dong90",
+    "role": "Maintainer",
+    "personal_note": "Seu projeto oh-my-taiyiforge (887 stars) é relevante para nossos serviços de AI automation.",
+    "repo": "oh-my-taiyiforge",
+    "site": "https://github.com/Dong90/oh-my-taiyiforge"
+  },
+  {
+    "email": "tmseidel@github.com",
+    "name": "tmseidel",
+    "company": "tmseidel",
+    "role": "Maintainer",
+    "personal_note": "Seu projeto ai-git-bot (152 stars) é relevante para nossos serviços de AI automation.",
+    "repo": "ai-git-bot",
+    "site": "https://github.com/tmseidel/ai-git-bot"
+  },
+  {
+    "email": "cloudbase@github.com",
+    "name": "cloudbase",
+    "company": "cloudbase",
+    "role": "Maintainer",
+    "personal_note": "Seu projeto coriolis (129 stars) sobre cloud migration é relevante para nossos serviços.",
+    "repo": "coriolis",
+    "site": "https://github.com/cloudbase/coriolis"
+  },
+  {
+    "email": "aws-solutions@github.com",
+    "name": "aws-solutions",
+    "company": "aws-solutions",
+    "role": "Maintainer",
+    "personal_note": "Seu projeto cloud-migration-factory-on-aws (87 stars) sobre cloud migration é relevante para nossos serviços.",
+    "repo": "cloud-migration-factory-on-aws",
+    "site": "https://github.com/aws-solutions/cloud-migration-factory-on-aws"
+  },
+  {
+    "email": "genaker@github.com",
+    "name": "Genaker",
+    "company": "Genaker",
+    "role": "Maintainer",
+    "personal_note": "Seu projeto Magento-Linux-Installation (60 stars) sobre cloud migration é relevante para nossos serviços.",
+    "repo": "Magento-Linux-Installation",
+    "site": "https://github.com/Genaker/Magento-Linux-Installation"
+  },
+  {
+    "email": "crowdsecurity@github.com",
+    "name": "crowdsecurity",
+    "company": "crowdsecurity",
+    "role": "Maintainer",
+    "personal_note": "Seu projeto crowdsec-docs em security/cyber é relevante para nossos serviços.",
+    "repo": "crowdsec-docs",
+    "site": "https://github.com/crowdsecurity/crowdsec-docs"
+  },
+  {
+    "email": "openafw@github.com",
+    "name": "openafw",
+    "company": "openafw",
+    "role": "Maintainer",
+    "personal_note": "Seu projeto openkai em security/cyber é relevante para nossos serviços.",
+    "repo": "openkai",
+    "site": "https://github.com/openafw/openkai"
+  },
+  {
+    "email": "mianumairx@github.com",
+    "name": "mianumairx",
+    "company": "mianumairx",
+    "role": "Maintainer",
+    "personal_note": "Seu projeto ai-threat-intelligence-system em security/cyber é relevante para nossos serviços.",
+    "repo": "ai-threat-intelligence-system",
+    "site": "https://github.com/mianumairx/ai-threat-intelligence-system"
+  }
+]

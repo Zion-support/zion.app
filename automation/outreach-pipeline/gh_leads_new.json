@@ -1,0 +1,302 @@
+[
+  {
+    "email": "info@github.com",
+    "name": "n8n-io",
+    "company": "n8n-io",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório n8n (203007 stars) sobre ai_automation é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/n8n-io/n8n",
+    "stars": 203007,
+    "service_category": "ai_automation"
+  },
+  {
+    "email": "info@github.com",
+    "name": "opentofu",
+    "company": "opentofu",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório opentofu (30001 stars) sobre cloud_migration é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/opentofu/opentofu",
+    "stars": 30001,
+    "service_category": "cloud_migration"
+  },
+  {
+    "email": "info@github.com",
+    "name": "PrefectHQ",
+    "company": "PrefectHQ",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório prefect (23749 stars) sobre data_ai é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/PrefectHQ/prefect",
+    "stars": 23749,
+    "service_category": "data_ai"
+  },
+  {
+    "email": "info@github.com",
+    "name": "vectordotdev",
+    "company": "vectordotdev",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório vector (22500 stars) sobre data_ai é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/vectordotdev/vector",
+    "stars": 22500,
+    "service_category": "data_ai"
+  },
+  {
+    "email": "info@github.com",
+    "name": "aws",
+    "company": "aws",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório aws-cdk (12881 stars) sobre cloud_migration é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/aws/aws-cdk",
+    "stars": 12881,
+    "service_category": "cloud_migration"
+  },
+  {
+    "email": "info@github.com",
+    "name": "0x4D31",
+    "company": "0x4D31",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório awesome-threat-detection (4715 stars) sobre cybersecurity é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/0x4D31/awesome-threat-detection",
+    "stars": 4715,
+    "service_category": "cybersecurity"
+  },
+  {
+    "email": "info@github.com",
+    "name": "orchest",
+    "company": "orchest",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório orchest (4132 stars) sobre data_ai é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/orchest/orchest",
+    "stars": 4132,
+    "service_category": "data_ai"
+  },
+  {
+    "email": "info@github.com",
+    "name": "PatchMon",
+    "company": "PatchMon",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório PatchMon (3313 stars) sobre ai_automation é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/PatchMon/PatchMon",
+    "stars": 3313,
+    "service_category": "ai_automation"
+  },
+  {
+    "email": "info@github.com",
+    "name": "rabbitstack",
+    "company": "rabbitstack",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório fibratus (2536 stars) sobre cybersecurity é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/rabbitstack/fibratus",
+    "stars": 2536,
+    "service_category": "cybersecurity"
+  },
+  {
+    "email": "info@github.com",
+    "name": "ansible",
+    "company": "ansible",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório workshops (1866 stars) sobre ai_automation é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/ansible/workshops",
+    "stars": 1866,
+    "service_category": "ai_automation"
+  },
+  {
+    "email": "info@github.com",
+    "name": "nautobot",
+    "company": "nautobot",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório nautobot (1589 stars) sobre ai_automation é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/nautobot/nautobot",
+    "stars": 1589,
+    "service_category": "ai_automation"
+  },
+  {
+    "email": "info@github.com",
+    "name": "ZSvirt",
+    "company": "ZSvirt",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório zsvirt (1525 stars) sobre cloud_migration é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/ZSvirt/zsvirt",
+    "stars": 1525,
+    "service_category": "cloud_migration"
+  },
+  {
+    "email": "info@github.com",
+    "name": "uber",
+    "company": "uber",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório ADR (1521 stars) sobre cybersecurity é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/uber/ADR",
+    "stars": 1521,
+    "service_category": "cybersecurity"
+  },
+  {
+    "email": "info@github.com",
+    "name": "tirrenotechnologies",
+    "company": "tirrenotechnologies",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório tirreno (1508 stars) sobre cybersecurity é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/tirrenotechnologies/tirreno",
+    "stars": 1508,
+    "service_category": "cybersecurity"
+  },
+  {
+    "email": "info@github.com",
+    "name": "libretime",
+    "company": "libretime",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório libretime (942 stars) sobre ai_automation é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/libretime/libretime",
+    "stars": 942,
+    "service_category": "ai_automation"
+  },
+  {
+    "email": "info@github.com",
+    "name": "oracle",
+    "company": "oracle",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório terraform-provider-oci (869 stars) sobre cloud_migration é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/oracle/terraform-provider-oci",
+    "stars": 869,
+    "service_category": "cloud_migration"
+  },
+  {
+    "email": "info@github.com",
+    "name": "BasPH",
+    "company": "BasPH",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório data-pipelines-with-apache-airflow (827 stars) sobre data_ai é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/BasPH/data-pipelines-with-apache-airflow",
+    "stars": 827,
+    "service_category": "data_ai"
+  },
+  {
+    "email": "info@github.com",
+    "name": "oracle",
+    "company": "oracle",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório oci-cli (661 stars) sobre cloud_migration é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/oracle/oci-cli",
+    "stars": 661,
+    "service_category": "cloud_migration"
+  },
+  {
+    "email": "info@github.com",
+    "name": "pongasoft",
+    "company": "pongasoft",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório glu (519 stars) sobre ai_automation é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/pongasoft/glu",
+    "stars": 519,
+    "service_category": "ai_automation"
+  },
+  {
+    "email": "info@github.com",
+    "name": "ottogroup",
+    "company": "ottogroup",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório palladium (493 stars) sobre data_ai é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/ottogroup/palladium",
+    "stars": 493,
+    "service_category": "data_ai"
+  },
+  {
+    "email": "info@github.com",
+    "name": "oracle",
+    "company": "oracle",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório oci-python-sdk (475 stars) sobre cloud_migration é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/oracle/oci-python-sdk",
+    "stars": 475,
+    "service_category": "cloud_migration"
+  },
+  {
+    "email": "info@github.com",
+    "name": "amazon-archives",
+    "company": "amazon-archives",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório data-pipeline-samples (471 stars) sobre data_ai é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/amazon-archives/data-pipeline-samples",
+    "stars": 471,
+    "service_category": "data_ai"
+  },
+  {
+    "email": "info@github.com",
+    "name": "jatrost",
+    "company": "jatrost",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório awesome-kubernetes-threat-detection (412 stars) sobre cybersecurity é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/jatrost/awesome-kubernetes-threat-detection",
+    "stars": 412,
+    "service_category": "cybersecurity"
+  },
+  {
+    "email": "info@github.com",
+    "name": "sergejey",
+    "company": "sergejey",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório majordomo (405 stars) sobre ai_automation é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/sergejey/majordomo",
+    "stars": 405,
+    "service_category": "ai_automation"
+  },
+  {
+    "email": "info@github.com",
+    "name": "healthylaife",
+    "company": "healthylaife",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório MIMIC-IV-Data-Pipeline (354 stars) sobre data_ai é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/healthylaife/MIMIC-IV-Data-Pipeline",
+    "stars": 354,
+    "service_category": "data_ai"
+  },
+  {
+    "email": "info@github.com",
+    "name": "helicalinsight",
+    "company": "helicalinsight",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório open-data-pipeline (345 stars) sobre data_ai é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/helicalinsight/open-data-pipeline",
+    "stars": 345,
+    "service_category": "data_ai"
+  },
+  {
+    "email": "info@github.com",
+    "name": "oracle",
+    "company": "oracle",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório oci-java-sdk (242 stars) sobre cloud_migration é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/oracle/oci-java-sdk",
+    "stars": 242,
+    "service_category": "cloud_migration"
+  },
+  {
+    "email": "info@github.com",
+    "name": "PacktPublishing",
+    "company": "PacktPublishing",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório Practical-Threat-Detection-Engineering (96 stars) sobre cybersecurity é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/PacktPublishing/Practical-Threat-Detection-Engineering",
+    "stars": 96,
+    "service_category": "cybersecurity"
+  },
+  {
+    "email": "info@github.com",
+    "name": "GaelVaroquaux",
+    "company": "GaelVaroquaux",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório sklearn_pandas_tutorial (86 stars) sobre data_ai é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/GaelVaroquaux/sklearn_pandas_tutorial",
+    "stars": 86,
+    "service_category": "data_ai"
+  },
+  {
+    "email": "info@github.com",
+    "name": "IterateAI",
+    "company": "IterateAI",
+    "role": "Maintainer",
+    "personal_note": "Seu repositório OpenThreatDetection (83 stars) sobre cybersecurity é relevante para nossos serviços de automação e IA.",
+    "site": "https://github.com/IterateAI/OpenThreatDetection",
+    "stars": 83,
+    "service_category": "cybersecurity"
+  }
+]
