@@ -8,6 +8,8 @@ SEND_LOG_PATH = Path("/Users/miami2/zion.app/outreach-send-log.jsonl")
 CAMPAIGN_LOG_PATH = Path("/Users/miami2/zion.app/outreach-send-log-campaign.jsonl")
 VALID_EMAILS_PATH = Path("/Users/miami2/zion.app/automation/data/valid_personal_emails.json")
 OUTPUT_PATH = Path("/Users/miami2/zion.app/automation/data/zion_leads_free.json")
+DATA_DIR = Path("/Users/miami2/zion.app/automation/data")
+AUTOMATION_DIR = Path("/Users/miami2/zion.app/automation")
 
 BLOCKED_DOMAINS = [
     "google.com", "github.com", "clutch.co", "sam.gov", "goodfirms.co",
@@ -37,14 +39,15 @@ def load_sent_emails():
             pass
     return sent
 
-def is_good_email(email):
+def is_good_email(email, priority="media"):
     el = email.lower()
     if not el or "@" not in el:
         return False
     domain = el.split("@")[-1]
     if any(bd in domain for bd in BLOCKED_DOMAINS):
         return False
-    if any(el.startswith(p) for p in GENERIC_EMAILS):
+    # Permit e-mails genéricos quando a prioridade for alta, seguindo a regra do sender
+    if any(el.startswith(p) for p in GENERIC_EMAILS) and priority != "alta":
         return False
     return True
 
@@ -105,7 +108,7 @@ def main():
                 continue
             if email.lower() in sent_emails:
                 continue
-            if not is_good_email(email):
+            if not is_good_email(email, entry.get("prioridade", "media")):
                 continue
             candidates.append({
                 "empresa": entry.get("empresa", ""),
@@ -115,21 +118,80 @@ def main():
                 "motivo": f"Parceria Zion Tech Group — {entry.get('service','AI Automation')}",
                 "fonte": "companies_to_process",
                 "tipo": "br_company",
-                "prioridade": "media",
+                "prioridade": entry.get("prioridade", "media"),
                 "contato_proventivo": email,
                 "created_at": datetime.now(timezone.utc).isoformat(),
             })
 
+    # Fonte 4: outreach-pipeline/valid_leads_to_send.json
+    valid_pipeline = AUTOMATION_DIR / "outreach-pipeline" / "valid_leads_to_send.json"
+    if valid_pipeline.exists():
+        try:
+            with open(valid_pipeline) as f:
+                pl = json.load(f)
+            for entry in pl:
+                email = entry.get("email", "") or ""
+                if not email or "@" not in email:
+                    continue
+                if email.lower() in sent_emails:
+                    continue
+                pipeline_priority = "alta" if (str(entry.get("tipo","")).startswith("company") or str(entry.get("priority","")).lower() == "alta") else "media"
+                if not is_good_email(email, pipeline_priority):
+                    continue
+                candidates.append({
+                    "empresa": entry.get("company") or entry.get("name", ""),
+                    "email": email,
+                    "site": entry.get("site", ""),
+                    "servico_relevante": "AI Automation",
+                    "motivo": entry.get("personal_note", "Lead do pipeline de outreach validado"),
+                    "fonte": "outreach-pipeline",
+                    "tipo": entry.get("tipo") or entry.get("type", "company_br"),
+                    "prioridade": pipeline_priority,
+                    "contato_proventivo": email,
+                    "created_at": datetime.now(timezone.utc).isoformat(),
+                })
+        except Exception as e:
+            print(f"  ⚠ Falha ao ler valid_leads_to_send.json: {e}")
+
+    # Fonte 5: outreach-pipeline/new_leads_to_send.json
+    new_pipeline = AUTOMATION_DIR / "outreach-pipeline" / "new_leads_to_send.json"
+    if new_pipeline.exists():
+        try:
+            with open(new_pipeline) as f:
+                pl = json.load(f)
+            for entry in pl:
+                email = entry.get("email", "") or ""
+                if not email or "@" not in email:
+                    continue
+                if email.lower() in sent_emails:
+                    continue
+                if not is_good_email(email, "alta"):
+                    continue
+                candidates.append({
+                    "empresa": entry.get("company") or entry.get("name", ""),
+                    "email": email,
+                    "site": entry.get("site", ""),
+                    "servico_relevante": "AI Automation",
+                    "motivo": entry.get("personal_note", "Lead novo do pipeline de outreach"),
+                    "fonte": "outreach-pipeline-new",
+                    "tipo": entry.get("tipo") or entry.get("type", "company_br"),
+                    "prioridade": "alta",
+                    "contato_proventivo": email,
+                    "created_at": datetime.now(timezone.utc).isoformat(),
+                })
+        except Exception as e:
+            print(f"  ⚠ Falha ao ler new_leads_to_send.json: {e}")
+
     print(f"Leads frescos válidos (não enviados): {len(candidates)}")
 
     if not candidates:
-        # Fallback: lista curada
+        # Fallback: lista curada — marcar como alta prioridade para contornar filtro de genéricos
         fallback = [
-            {"empresa": "Totvs", "email": "contato@totvs.com.br", "site": "https://www.totvs.com", "servico_relevante": "Cloud Cost"},
-            {"empresa": "Stone Pagamentos", "email": "contato@stonepagamentos.com.br", "site": "https://stone.com.br", "servico_relevante": "Cybersecurity"},
-            {"empresa": "Nubank", "email": "contato@nubank.com.br", "site": "https://nubank.com.br", "servico_relevante": "AI Automation"},
-            {"empresa": "Magazine Luiza", "email": "contato@magazineluiza.com.br", "site": "https://www.magazineluiza.com.br", "servico_relevante": "AI Automation"},
-            {"empresa": "Mercado Livre", "email": "contato@mercadolivre.com.br", "site": "https://mercadolivre.com.br", "servico_relevante": "Cloud Cost"},
+            {"empresa": "Totvs", "email": "contato@totvs.com.br", "site": "https://www.totvs.com", "servico_relevante": "Cloud Cost", "prioridade": "alta", "tipo": "br_company", "motivo": "Lead fallback curado", "fonte": "curated-fallback", "contato_proventivo": "contato@totvs.com.br"},
+            {"empresa": "Stone Pagamentos", "email": "contato@stonepagamentos.com.br", "site": "https://stone.com.br", "servico_relevante": "Cybersecurity", "prioridade": "alta", "tipo": "br_company", "motivo": "Lead fallback curado", "fonte": "curated-fallback", "contato_proventivo": "contato@stonepagamentos.com.br"},
+            {"empresa": "Nubank", "email": "contato@nubank.com.br", "site": "https://nubank.com.br", "servico_relevante": "AI Automation", "prioridade": "alta", "tipo": "br_company", "motivo": "Lead fallback curado", "fonte": "curated-fallback", "contato_proventivo": "contato@nubank.com.br"},
+            {"empresa": "Magazine Luiza", "email": "contato@magazineluiza.com.br", "site": "https://www.magazineluiza.com.br", "servico_relevante": "AI Automation", "prioridade": "alta", "tipo": "br_company", "motivo": "Lead fallback curado", "fonte": "curated-fallback", "contato_proventivo": "contato@magazineluiza.com.br"},
+            {"empresa": "Mercado Livre", "email": "contato@mercadolivre.com.br", "site": "https://mercadolivre.com.br", "servico_relevante": "Cloud Cost", "prioridade": "alta", "tipo": "br_company", "motivo": "Lead fallback curado", "fonte": "curated-fallback", "contato_proventivo": "contato@mercadolivre.com.br"},
         ]
         for fl in fallback:
             if fl["email"].lower() not in sent_emails:
